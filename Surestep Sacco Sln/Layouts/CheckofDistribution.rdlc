@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Description>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
+xP7G9BcW/vn/AQ==
+</Description>
+  <Author>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
+</Author>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <Height>2in</Height>
+      </Body>
+      <Width>6.5in</Width>
+      <Page></Page>
+    </ReportSection>
+  </ReportSections>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="ReportForNavId_3502">
+          <DataField>ReportForNavId_3502</DataField>
+        </Field>
+        <Field Name="JnlTmplName_GenJnlBatch">
+          <DataField>JnlTmplName_GenJnlBatch</DataField>
+        </Field>
+        <Field Name="Name_GenJnlBatch">
+          <DataField>Name_GenJnlBatch</DataField>
+        </Field>
+        <Field Name="CompanyName">
+          <DataField>CompanyName</DataField>
+        </Field>
+        <Field Name="GeneralJnlTestCaption">
+          <DataField>GeneralJnlTestCaption</DataField>
+        </Field>
+        <Field Name="ReportForNavId_5444">
+          <DataField>ReportForNavId_5444</DataField>
+        </Field>
+        <Field Name="JnlTemplateName_GenJnlBatch">
+          <DataField>JnlTemplateName_GenJnlBatch</DataField>
+        </Field>
+        <Field Name="JnlName_GenJnlBatch">
+          <DataField>JnlName_GenJnlBatch</DataField>
+        </Field>
+        <Field Name="GenJnlLineFilter">
+          <DataField>GenJnlLineFilter</DataField>
+        </Field>
+        <Field Name="GenJnlTemplForceDocBal">
+          <DataField>GenJnlTemplForceDocBal</DataField>
+        </Field>
+        <Field Name="GenJnlLineFilterTableCaption">
+          <DataField>GenJnlLineFilterTableCaption</DataField>
+        </Field>
+        <Field Name="USText001">
+          <DataField>USText001</DataField>
+        </Field>
+        <Field Name="ShowDim">
+          <DataField>ShowDim</DataField>
+        </Field>
+        <Field Name="PageNoCaption">
+          <DataField>PageNoCaption</DataField>
+        </Field>
+        <Field Name="JnlTmplNameCaption_GenJnlBatch">
+          <DataField>JnlTmplNameCaption_GenJnlBatch</DataField>
+        </Field>
+        <Field Name="JournalBatchCaption">
+          <DataField>JournalBatchCaption</DataField>
+        </Field>
+        <Field Name="PostingDateCaption">
+          <DataField>PostingDateCaption</DataField>
+        </Field>
+        <Field Name="DocumentTypeCaption">
+          <DataField>DocumentTypeCaption</DataField>
+        </Field>
+        <Field Name="DocNoCaption_GenJnlLine">
+          <DataField>DocNoCaption_GenJnlLine</DataField>
+        </Field>
+        <Field Name="AccountTypeCaption">
+          <DataField>AccountTypeCaption</DataField>
+        </Field>
+        <Field Name="AccNoCaption_GenJnlLine">
+          <DataField>AccNoCaption_GenJnlLine</DataField>
+        </Field>
+        <Field Name="AccNameCaption">
+          <DataField>AccNameCaption</DataField>
+        </Field>
+        <Field Name="DescCaption_GenJnlLine">
+          <DataField>DescCaption_GenJnlLine</DataField>
+        </Field>
+        <Field Name="PostingTypeCaption">
+          <DataField>PostingTypeCaption</DataField>
+        </Field>
+        <Field Name="GenBusPostGroupCaption">
+          <DataField>GenBusPostGroupCaption</DataField>
+        </Field>
+        <Field Name="GenProdPostGroupCaption">
+          <DataField>GenProdPostGroupCaption</DataField>
+        </Field>
+        <Field Name="AmountCaption_GenJnlLine">
+          <DataField>AmountCaption_GenJnlLine</DataField>
+        </Field>
+        <Field Name="BalAccNoCaption_GenJnlLine">
+          <DataField>BalAccNoCaption_GenJnlLine</DataField>
+        </Field>
+        <Field Name="BalLCYCaption_GenJnlLine">
+          <DataField>BalLCYCaption_GenJnlLine</DataField>
+        </Field>
+        <Field Name="ReportForNavId_7024">
+          <DataField>ReportForNavId_7024</DataField>
+        </Field>
+        <Field Name="PostingDate_GenJnlLine">
+          <DataField>PostingDate_GenJnlLine</DataField>
+        </Field>
+        <Field Name="DocType_GenJnlLine">
+          <DataField>DocType_GenJnlLine</DataField>
+        </Field>
+        <Field Name="DocNo_GenJnlLine">
+          <DataField>DocNo_GenJnlLine</DataField>
+        </Field>
+        <Field Name="AccountType_GenJnlLine">
+          <DataField>AccountType_GenJnlLine</DataField>
+        </Field>
+        <Field Name="AccountNo_GenJnlLine">
+          <DataField>AccountNo_GenJnlLine</DataField>
+        </Field>
+        <Field Name="AccName">
+          <DataField>AccName</DataField>
+        </Field>
+        <Field Name="Description_GenJnlLine">
+          <DataField>Description_GenJnlLine</DataField>
+        </Field>
+        <Field Name="GenPostType_GenJnlLine">
+          <DataField>GenPostType_GenJnlLine</DataField>
+        </Field>
+        <Field Name="GenBusPosGroup_GenJnlLine">
+          <DataField>GenBusPosGroup_GenJnlLine</DataField>
+        </Field>
+        <Field Name="GenProdPostGroup_GenJnlLine">
+          <DataField>GenProdPostGroup_GenJnlLine</DataField>
+        </Field>
+        <Field Name="Amount_GenJnlLine">
+          <DataField>Amount_GenJnlLine</DataField>
+        </Field>
+        <Field Name="Amount_GenJnlLineFormat">
+          <DataField>Amount_GenJnlLineFormat</DataField>
+        </Field>
+        <Field Name="CurrencyCode_GenJnlLine">
+          <DataField>CurrencyCode_GenJnlLine</DataField>
+        </Field>
+        <Field Name="BalAccNo_GenJnlLine">
+          <DataField>BalAccNo_GenJnlLine</DataField>
+        </Field>
+        <Field Name="BalanceLCY_GenJnlLine">
+          <DataField>BalanceLCY_GenJnlLine</DataField>
+        </Field>
+        <Field Name="BalanceLCY_GenJnlLineFormat">
+          <DataField>BalanceLCY_GenJnlLineFormat</DataField>
+        </Field>
+        <Field Name="AmountLCY">
+          <DataField>AmountLCY</DataField>
+        </Field>
+        <Field Name="AmountLCYFormat">
+          <DataField>AmountLCYFormat</DataField>
+        </Field>
+        <Field Name="BalanceLCY">
+          <DataField>BalanceLCY</DataField>
+        </Field>
+        <Field Name="BalanceLCYFormat">
+          <DataField>BalanceLCYFormat</DataField>
+        </Field>
+        <Field Name="AmountLCY_GenJnlLine">
+          <DataField>AmountLCY_GenJnlLine</DataField>
+        </Field>
+        <Field Name="AmountLCY_GenJnlLineFormat">
+          <DataField>AmountLCY_GenJnlLineFormat</DataField>
+        </Field>
+        <Field Name="JnlTmplName_GenJnlLine">
+          <DataField>JnlTmplName_GenJnlLine</DataField>
+        </Field>
+        <Field Name="JnlBatchName_GenJnlLine">
+          <DataField>JnlBatchName_GenJnlLine</DataField>
+        </Field>
+        <Field Name="LineNo_GenJnlLine">
+          <DataField>LineNo_GenJnlLine</DataField>
+        </Field>
+        <Field Name="GenJnlLineAmountLCYCaption">
+          <DataField>GenJnlLineAmountLCYCaption</DataField>
+        </Field>
+        <Field Name="TransactionType_GenJournalLine">
+          <DataField>TransactionType_GenJournalLine</DataField>
+        </Field>
+        <Field Name="LoanNo_GenJournalLine">
+          <DataField>LoanNo_GenJournalLine</DataField>
+        </Field>
+        <Field Name="LoanProductType_GenJournalLine">
+          <DataField>LoanProductType_GenJournalLine</DataField>
+        </Field>
+        <Field Name="Loantype">
+          <DataField>Loantype</DataField>
+        </Field>
+        <Field Name="ReportForNavId_9775">
+          <DataField>ReportForNavId_9775</DataField>
+        </Field>
+        <Field Name="DimText">
+          <DataField>DimText</DataField>
+        </Field>
+        <Field Name="Number_DimensionLoop">
+          <DataField>Number_DimensionLoop</DataField>
+        </Field>
+        <Field Name="DimensionsCaption">
+          <DataField>DimensionsCaption</DataField>
+        </Field>
+        <Field Name="ReportForNavId_100">
+          <DataField>ReportForNavId_100</DataField>
+        </Field>
+        <Field Name="AccountNo_GenJnlAllocation">
+          <DataField>AccountNo_GenJnlAllocation</DataField>
+        </Field>
+        <Field Name="AccountName_GenJnlAllocation">
+          <DataField>AccountName_GenJnlAllocation</DataField>
+        </Field>
+        <Field Name="AllocationQuantity_GenJnlAllocation">
+          <DataField>AllocationQuantity_GenJnlAllocation</DataField>
+        </Field>
+        <Field Name="AllocationQuantity_GenJnlAllocationFormat">
+          <DataField>AllocationQuantity_GenJnlAllocationFormat</DataField>
+        </Field>
+        <Field Name="AllocationPct_GenJnlAllocation">
+          <DataField>AllocationPct_GenJnlAllocation</DataField>
+        </Field>
+        <Field Name="AllocationPct_GenJnlAllocationFormat">
+          <DataField>AllocationPct_GenJnlAllocationFormat</DataField>
+        </Field>
+        <Field Name="Amount_GenJnlAllocation">
+          <DataField>Amount_GenJnlAllocation</DataField>
+        </Field>
+        <Field Name="Amount_GenJnlAllocationFormat">
+          <DataField>Amount_GenJnlAllocationFormat</DataField>
+        </Field>
+        <Field Name="JournalLineNo_GenJnlAllocation">
+          <DataField>JournalLineNo_GenJnlAllocation</DataField>
+        </Field>
+        <Field Name="LineNo_GenJnlAllocation">
+          <DataField>LineNo_GenJnlAllocation</DataField>
+        </Field>
+        <Field Name="JournalBatchName_GenJnlAllocation">
+          <DataField>JournalBatchName_GenJnlAllocation</DataField>
+        </Field>
+        <Field Name="AccountNoCaption_GenJnlAllocation">
+          <DataField>AccountNoCaption_GenJnlAllocation</DataField>
+        </Field>
+        <Field Name="AccountNameCaption_GenJnlAllocation">
+          <DataField>AccountNameCaption_GenJnlAllocation</DataField>
+        </Field>
+        <Field Name="AllocationQuantityCaption_GenJnlAllocation">
+          <DataField>AllocationQuantityCaption_GenJnlAllocation</DataField>
+        </Field>
+        <Field Name="AllocationPctCaption_GenJnlAllocation">
+          <DataField>AllocationPctCaption_GenJnlAllocation</DataField>
+        </Field>
+        <Field Name="AmountCaption_GenJnlAllocation">
+          <DataField>AmountCaption_GenJnlAllocation</DataField>
+        </Field>
+        <Field Name="Recurring_GenJnlTemplate">
+          <DataField>Recurring_GenJnlTemplate</DataField>
+        </Field>
+        <Field Name="ReportForNavId_114">
+          <DataField>ReportForNavId_114</DataField>
+        </Field>
+        <Field Name="AllocationDimText">
+          <DataField>AllocationDimText</DataField>
+        </Field>
+        <Field Name="Number_DimensionLoopAllocations">
+          <DataField>Number_DimensionLoopAllocations</DataField>
+        </Field>
+        <Field Name="DimensionAllocationsCaption">
+          <DataField>DimensionAllocationsCaption</DataField>
+        </Field>
+        <Field Name="ReportForNavId_1162">
+          <DataField>ReportForNavId_1162</DataField>
+        </Field>
+        <Field Name="ErrorTextNumber">
+          <DataField>ErrorTextNumber</DataField>
+        </Field>
+        <Field Name="WarningCaption">
+          <DataField>WarningCaption</DataField>
+        </Field>
+        <Field Name="ReportForNavId_5127">
+          <DataField>ReportForNavId_5127</DataField>
+        </Field>
+        <Field Name="GLAccNetChangeNo">
+          <DataField>GLAccNetChangeNo</DataField>
+        </Field>
+        <Field Name="GLAccNetChangeName">
+          <DataField>GLAccNetChangeName</DataField>
+        </Field>
+        <Field Name="GLAccNetChangeNetChangeJnl">
+          <DataField>GLAccNetChangeNetChangeJnl</DataField>
+        </Field>
+        <Field Name="GLAccNetChangeNetChangeJnlFormat">
+          <DataField>GLAccNetChangeNetChangeJnlFormat</DataField>
+        </Field>
+        <Field Name="GLAccNetChangeBalafterPost">
+          <DataField>GLAccNetChangeBalafterPost</DataField>
+        </Field>
+        <Field Name="GLAccNetChangeBalafterPostFormat">
+          <DataField>GLAccNetChangeBalafterPostFormat</DataField>
+        </Field>
+        <Field Name="ReconciliationCaption">
+          <DataField>ReconciliationCaption</DataField>
+        </Field>
+        <Field Name="NoCaption">
+          <DataField>NoCaption</DataField>
+        </Field>
+        <Field Name="NameCaption">
+          <DataField>NameCaption</DataField>
+        </Field>
+        <Field Name="NetChangeinJnlCaption">
+          <DataField>NetChangeinJnlCaption</DataField>
+        </Field>
+        <Field Name="BalafterPostingCaption">
+          <DataField>BalafterPostingCaption</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>

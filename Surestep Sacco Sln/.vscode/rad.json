@@ -1,0 +1,1 @@
+﻿{"Added":[{"Id":50300,"Kind":11,"Name":"CheckGLEntries","PackagePath":"/src/src/Codeunit/TestGLentryforInconsistency.al"}],"Modified":[{"Id":53000,"Kind":11,"Name":"SingleInstanceCu","PackagePath":"/src/src/Codeunit/SingleInstanceCu.al"}],"Removed":[]}

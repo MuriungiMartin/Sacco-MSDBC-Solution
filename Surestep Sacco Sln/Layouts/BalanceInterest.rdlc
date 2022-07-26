@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Description>yQ0AAJ1XbW/aSBD+ftL9h5U/pOmJM2/mpRdoRQz00AWDCEmvUiRrsRe6d4vXtde03K+/WduAHa9J
+iITAntl5ntnZecam9+nnlqEdCULKvb5W12saIp7DXept+lok1r93tU8ff/2l97cI8IL4PBDhHd7z
+SNyTgGJG/yMBOl0+HoEMvaG3JFrOpCELb0lfu8UMew5BE0+QgIRCQyb3RMDZcu+De0h2o58+OEI9
+w6s/TDK3jQoqWbaTTJUDMeqjQzIVZEZMRAEBm0ciCGEVNI9WjDp/kf2S/0vkarfj4C7pNmqdtUGM
+GmxhSEOf4X1Z6invmAcW3h2329abek1vNFofNDRb/UMcYfG+VjvelICNKWHuF7KCmu6oQx4CBuX4
+4+nWRAPfD58eqUS3yI+n33Ts+5CbT/tao2Uc0njwqOhrS+KJb+FsPZhSxuiWALqGPrt0yt24vGsM
+hdDQZIs3ZEFCziIRJ330mHzrY0FXlFGxhzxNk/HI1dA8oJ4wuU9JOCXiG3czMVMcbKgXQjp1KDV8
+GrXkC3YFp9vXBrJNKqjjCw1aCqHeLfbcML6Em4kg23raH3cce+GCbGgYZ55rjqTOQyywjJAQsAAz
+J64csF99j7i4mUUiFOCDPkZplRMHlCwNfcRBhg2d6A4LlnjFwB3/tOqtervZqT/zPlLyo699+XO0
+GF0n+BIMysTdyBFIZpyY+2vKAPz6iombq424eTe+a7aMd+8rl0d13xTVfEtUGzJ8L1vr+zh25ms8
+CcOIuLIgKURKIA0oQUvt9zwKHJLlRxbXc0Emo9C0cNRuHmzgODwCh8Vz5pJNVIqnf9BWbsHBiIYR
+UTvmmLo5D+gL77cyx3uBA1HcNpjX62OeoC4Qh9E2Wlra4YeGR9WTwQTpbb3waDjqQHbZPRFxwZMu
+Hc8W08HSXs6Gg692zTZsDSVllTMwlsUWi+sld/G+UqsYcGzV57ANBaw5m84H1ldrMB3lAXOOAlRT
+BRUFQTKF7Png88ia5QETVyJffQ6Tx+IKYEMB/BCSYOLm0Q62AkBLARAr3Lblj21b3H5Wu1NLncZA
+YtOVLatgbZezwuCGJwyWE9aWTXMpeSY+03SKHDov7DyViy3l8qYKFPWmyKJbnkWicVtq/FL+wnhQ
+MH94kVna3sgsQ0uZ67Vy6swsstMn0aUpnHmYFVNRzY74+LN9KKeFiX15nc/l3Mq7FVMRKqfK81Gg
+JCtbVUKkmjkFZSuJ4oDUc62UtGpc1lWzqEzUr+VVq1lJ/9Iky+n5on0XhaxM4MxQy0r5tdQFDStJ
+z0yxrIovJD3JV0l6Zmip9Pta8lLh5pLoVfOvAb1qnFPyjlw9vCT3qmf+g338Hw==
+</Description>
+  <Author>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
+</Author>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <Height>2in</Height>
+      </Body>
+      <Width>6.5in</Width>
+      <Page></Page>
+    </ReportSection>
+  </ReportSections>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="ReportForNavId_4645">
+          <DataField>ReportForNavId_4645</DataField>
+        </Field>
+        <Field Name="FORMAT_TODAY_0_4_">
+          <DataField>FORMAT_TODAY_0_4_</DataField>
+        </Field>
+        <Field Name="COMPANYNAME">
+          <DataField>COMPANYNAME</DataField>
+        </Field>
+        <Field Name="CurrReport_PAGENO">
+          <DataField>CurrReport_PAGENO</DataField>
+        </Field>
+        <Field Name="UserId">
+          <DataField>UserId</DataField>
+        </Field>
+        <Field Name="Loans__Loan__No__">
+          <DataField>Loans__Loan__No__</DataField>
+        </Field>
+        <Field Name="Loans__Application_Date_">
+          <DataField>Loans__Application_Date_</DataField>
+        </Field>
+        <Field Name="Loans__Loan_Product_Type_">
+          <DataField>Loans__Loan_Product_Type_</DataField>
+        </Field>
+        <Field Name="Loans__Client_Code_">
+          <DataField>Loans__Client_Code_</DataField>
+        </Field>
+        <Field Name="Loans__Client_Name_">
+          <DataField>Loans__Client_Name_</DataField>
+        </Field>
+        <Field Name="Loans__Outstanding_Balance_">
+          <DataField>Loans__Outstanding_Balance_</DataField>
+        </Field>
+        <Field Name="Loans__Outstanding_Balance_Format">
+          <DataField>Loans__Outstanding_Balance_Format</DataField>
+        </Field>
+        <Field Name="Loan_Application_FormCaption">
+          <DataField>Loan_Application_FormCaption</DataField>
+        </Field>
+        <Field Name="CurrReport_PAGENOCaption">
+          <DataField>CurrReport_PAGENOCaption</DataField>
+        </Field>
+        <Field Name="Loans__Loan__No__Caption">
+          <DataField>Loans__Loan__No__Caption</DataField>
+        </Field>
+        <Field Name="Loans__Application_Date_Caption">
+          <DataField>Loans__Application_Date_Caption</DataField>
+        </Field>
+        <Field Name="Loans__Loan_Product_Type_Caption">
+          <DataField>Loans__Loan_Product_Type_Caption</DataField>
+        </Field>
+        <Field Name="Loans__Client_Code_Caption">
+          <DataField>Loans__Client_Code_Caption</DataField>
+        </Field>
+        <Field Name="Loans__Client_Name_Caption">
+          <DataField>Loans__Client_Name_Caption</DataField>
+        </Field>
+        <Field Name="Loans__Outstanding_Balance_Caption">
+          <DataField>Loans__Outstanding_Balance_Caption</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>
