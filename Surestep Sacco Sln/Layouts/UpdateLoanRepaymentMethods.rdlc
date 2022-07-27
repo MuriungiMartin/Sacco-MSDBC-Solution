@@ -1,0 +1,1811 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Description>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
+</Description>
+  <Author>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
+</Author>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <Height>2in</Height>
+      </Body>
+      <Width>6.5in</Width>
+      <Page></Page>
+    </ReportSection>
+  </ReportSections>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="ReportForNavId_1000000000">
+          <DataField>ReportForNavId_1000000000</DataField>
+        </Field>
+        <Field Name="LoanNo_LoansRegister">
+          <DataField>LoanNo_LoansRegister</DataField>
+        </Field>
+        <Field Name="ApplicationDate_LoansRegister">
+          <DataField>ApplicationDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanProductType_LoansRegister">
+          <DataField>LoanProductType_LoansRegister</DataField>
+        </Field>
+        <Field Name="ClientCode_LoansRegister">
+          <DataField>ClientCode_LoansRegister</DataField>
+        </Field>
+        <Field Name="GroupCode_LoansRegister">
+          <DataField>GroupCode_LoansRegister</DataField>
+        </Field>
+        <Field Name="Savings_LoansRegister">
+          <DataField>Savings_LoansRegister</DataField>
+        </Field>
+        <Field Name="Savings_LoansRegisterFormat">
+          <DataField>Savings_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ExistingLoan_LoansRegister">
+          <DataField>ExistingLoan_LoansRegister</DataField>
+        </Field>
+        <Field Name="ExistingLoan_LoansRegisterFormat">
+          <DataField>ExistingLoan_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="RequestedAmount_LoansRegister">
+          <DataField>RequestedAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="RequestedAmount_LoansRegisterFormat">
+          <DataField>RequestedAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ApprovedAmount_LoansRegister">
+          <DataField>ApprovedAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="ApprovedAmount_LoansRegisterFormat">
+          <DataField>ApprovedAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="Interest_LoansRegister">
+          <DataField>Interest_LoansRegister</DataField>
+        </Field>
+        <Field Name="Interest_LoansRegisterFormat">
+          <DataField>Interest_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="Insurance_LoansRegister">
+          <DataField>Insurance_LoansRegister</DataField>
+        </Field>
+        <Field Name="Insurance_LoansRegisterFormat">
+          <DataField>Insurance_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="SourceofFunds_LoansRegister">
+          <DataField>SourceofFunds_LoansRegister</DataField>
+        </Field>
+        <Field Name="ClientCycle_LoansRegister">
+          <DataField>ClientCycle_LoansRegister</DataField>
+        </Field>
+        <Field Name="ClientName_LoansRegister">
+          <DataField>ClientName_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanStatus_LoansRegister">
+          <DataField>LoanStatus_LoansRegister</DataField>
+        </Field>
+        <Field Name="IssuedDate_LoansRegister">
+          <DataField>IssuedDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="Installments_LoansRegister">
+          <DataField>Installments_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanDisbursementDate_LoansRegister">
+          <DataField>LoanDisbursementDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="ModeofDisbursement_LoansRegister">
+          <DataField>ModeofDisbursement_LoansRegister</DataField>
+        </Field>
+        <Field Name="AffidavitItem1Details_LoansRegister">
+          <DataField>AffidavitItem1Details_LoansRegister</DataField>
+        </Field>
+        <Field Name="AffidavitEstimatedValue1_LoansRegister">
+          <DataField>AffidavitEstimatedValue1_LoansRegister</DataField>
+        </Field>
+        <Field Name="AffidavitEstimatedValue1_LoansRegisterFormat">
+          <DataField>AffidavitEstimatedValue1_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="AffidavitItem2Details_LoansRegister">
+          <DataField>AffidavitItem2Details_LoansRegister</DataField>
+        </Field>
+        <Field Name="AffidavitEstimatedValue2_LoansRegister">
+          <DataField>AffidavitEstimatedValue2_LoansRegister</DataField>
+        </Field>
+        <Field Name="AffidavitEstimatedValue2_LoansRegisterFormat">
+          <DataField>AffidavitEstimatedValue2_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="AffidavitItem3Details_LoansRegister">
+          <DataField>AffidavitItem3Details_LoansRegister</DataField>
+        </Field>
+        <Field Name="AffidavitEstimatedValue3_LoansRegister">
+          <DataField>AffidavitEstimatedValue3_LoansRegister</DataField>
+        </Field>
+        <Field Name="AffidavitEstimatedValue3_LoansRegisterFormat">
+          <DataField>AffidavitEstimatedValue3_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="AffidavitItem4Details_LoansRegister">
+          <DataField>AffidavitItem4Details_LoansRegister</DataField>
+        </Field>
+        <Field Name="AffidavitEstimatedValue4_LoansRegister">
+          <DataField>AffidavitEstimatedValue4_LoansRegister</DataField>
+        </Field>
+        <Field Name="AffidavitEstimatedValue4_LoansRegisterFormat">
+          <DataField>AffidavitEstimatedValue4_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="AffidavitItem5Details_LoansRegister">
+          <DataField>AffidavitItem5Details_LoansRegister</DataField>
+        </Field>
+        <Field Name="AffidavitEstimatedValue5_LoansRegister">
+          <DataField>AffidavitEstimatedValue5_LoansRegister</DataField>
+        </Field>
+        <Field Name="AffidavitEstimatedValue5_LoansRegisterFormat">
+          <DataField>AffidavitEstimatedValue5_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="MagistrateName_LoansRegister">
+          <DataField>MagistrateName_LoansRegister</DataField>
+        </Field>
+        <Field Name="DateforAffidavit_LoansRegister">
+          <DataField>DateforAffidavit_LoansRegister</DataField>
+        </Field>
+        <Field Name="NameofChiefAssistant_LoansRegister">
+          <DataField>NameofChiefAssistant_LoansRegister</DataField>
+        </Field>
+        <Field Name="AffidavitSigned_LoansRegister">
+          <DataField>AffidavitSigned_LoansRegister</DataField>
+        </Field>
+        <Field Name="DateApproved_LoansRegister">
+          <DataField>DateApproved_LoansRegister</DataField>
+        </Field>
+        <Field Name="GracePeriod_LoansRegister">
+          <DataField>GracePeriod_LoansRegister</DataField>
+        </Field>
+        <Field Name="InstalmentPeriod_LoansRegister">
+          <DataField>InstalmentPeriod_LoansRegister</DataField>
+        </Field>
+        <Field Name="Repayment_LoansRegister">
+          <DataField>Repayment_LoansRegister</DataField>
+        </Field>
+        <Field Name="Repayment_LoansRegisterFormat">
+          <DataField>Repayment_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="PaysInterestDuringGP_LoansRegister">
+          <DataField>PaysInterestDuringGP_LoansRegister</DataField>
+        </Field>
+        <Field Name="PercentRepayments_LoansRegister">
+          <DataField>PercentRepayments_LoansRegister</DataField>
+        </Field>
+        <Field Name="PercentRepayments_LoansRegisterFormat">
+          <DataField>PercentRepayments_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="PayingBankAccountNo_LoansRegister">
+          <DataField>PayingBankAccountNo_LoansRegister</DataField>
+        </Field>
+        <Field Name="NoSeries_LoansRegister">
+          <DataField>NoSeries_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanProductTypeName_LoansRegister">
+          <DataField>LoanProductTypeName_LoansRegister</DataField>
+        </Field>
+        <Field Name="ChequeNumber_LoansRegister">
+          <DataField>ChequeNumber_LoansRegister</DataField>
+        </Field>
+        <Field Name="BankNo_LoansRegister">
+          <DataField>BankNo_LoansRegister</DataField>
+        </Field>
+        <Field Name="SlipNumber_LoansRegister">
+          <DataField>SlipNumber_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalPaid_LoansRegister">
+          <DataField>TotalPaid_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalPaid_LoansRegisterFormat">
+          <DataField>TotalPaid_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ScheduleRepayments_LoansRegister">
+          <DataField>ScheduleRepayments_LoansRegister</DataField>
+        </Field>
+        <Field Name="ScheduleRepayments_LoansRegisterFormat">
+          <DataField>ScheduleRepayments_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="DocNoUsed_LoansRegister">
+          <DataField>DocNoUsed_LoansRegister</DataField>
+        </Field>
+        <Field Name="PostingDate_LoansRegister">
+          <DataField>PostingDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="BatchNo_LoansRegister">
+          <DataField>BatchNo_LoansRegister</DataField>
+        </Field>
+        <Field Name="EditInterestRate_LoansRegister">
+          <DataField>EditInterestRate_LoansRegister</DataField>
+        </Field>
+        <Field Name="Posted_LoansRegister">
+          <DataField>Posted_LoansRegister</DataField>
+        </Field>
+        <Field Name="ProductCode_LoansRegister">
+          <DataField>ProductCode_LoansRegister</DataField>
+        </Field>
+        <Field Name="DocumentNo2Filter_LoansRegister">
+          <DataField>DocumentNo2Filter_LoansRegister</DataField>
+        </Field>
+        <Field Name="FieldOffice_LoansRegister">
+          <DataField>FieldOffice_LoansRegister</DataField>
+        </Field>
+        <Field Name="Dimension_LoansRegister">
+          <DataField>Dimension_LoansRegister</DataField>
+        </Field>
+        <Field Name="AmountDisbursed_LoansRegister">
+          <DataField>AmountDisbursed_LoansRegister</DataField>
+        </Field>
+        <Field Name="AmountDisbursed_LoansRegisterFormat">
+          <DataField>AmountDisbursed_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="FullyDisbursed_LoansRegister">
+          <DataField>FullyDisbursed_LoansRegister</DataField>
+        </Field>
+        <Field Name="NewInterestRate_LoansRegister">
+          <DataField>NewInterestRate_LoansRegister</DataField>
+        </Field>
+        <Field Name="NewInterestRate_LoansRegisterFormat">
+          <DataField>NewInterestRate_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="NewNoofInstalment_LoansRegister">
+          <DataField>NewNoofInstalment_LoansRegister</DataField>
+        </Field>
+        <Field Name="NewGracePeriod_LoansRegister">
+          <DataField>NewGracePeriod_LoansRegister</DataField>
+        </Field>
+        <Field Name="NewRegularInstalment_LoansRegister">
+          <DataField>NewRegularInstalment_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanBalanceatRescheduling_LoansRegister">
+          <DataField>LoanBalanceatRescheduling_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanBalanceatRescheduling_LoansRegisterFormat">
+          <DataField>LoanBalanceatRescheduling_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoanReschedule_LoansRegister">
+          <DataField>LoanReschedule_LoansRegister</DataField>
+        </Field>
+        <Field Name="DateRescheduled_LoansRegister">
+          <DataField>DateRescheduled_LoansRegister</DataField>
+        </Field>
+        <Field Name="Rescheduleby_LoansRegister">
+          <DataField>Rescheduleby_LoansRegister</DataField>
+        </Field>
+        <Field Name="FlatRatePrincipal_LoansRegister">
+          <DataField>FlatRatePrincipal_LoansRegister</DataField>
+        </Field>
+        <Field Name="FlatRatePrincipal_LoansRegisterFormat">
+          <DataField>FlatRatePrincipal_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="FlatrateInterest_LoansRegister">
+          <DataField>FlatrateInterest_LoansRegister</DataField>
+        </Field>
+        <Field Name="FlatrateInterest_LoansRegisterFormat">
+          <DataField>FlatrateInterest_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TotalRepayment_LoansRegister">
+          <DataField>TotalRepayment_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalRepayment_LoansRegisterFormat">
+          <DataField>TotalRepayment_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="InterestCalculationMethod_LoansRegister">
+          <DataField>InterestCalculationMethod_LoansRegister</DataField>
+        </Field>
+        <Field Name="EditInterestCalculationMeth_LoansRegister">
+          <DataField>EditInterestCalculationMeth_LoansRegister</DataField>
+        </Field>
+        <Field Name="BalanceBF_LoansRegister">
+          <DataField>BalanceBF_LoansRegister</DataField>
+        </Field>
+        <Field Name="BalanceBF_LoansRegisterFormat">
+          <DataField>BalanceBF_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="Interesttobepaid_LoansRegister">
+          <DataField>Interesttobepaid_LoansRegister</DataField>
+        </Field>
+        <Field Name="Interesttobepaid_LoansRegisterFormat">
+          <DataField>Interesttobepaid_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="Datefilter_LoansRegister">
+          <DataField>Datefilter_LoansRegister</DataField>
+        </Field>
+        <Field Name="ChequeDate_LoansRegister">
+          <DataField>ChequeDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="OutstandingBalance_LoansRegister">
+          <DataField>OutstandingBalance_LoansRegister</DataField>
+        </Field>
+        <Field Name="OutstandingBalance_LoansRegisterFormat">
+          <DataField>OutstandingBalance_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoantoShareRatio_LoansRegister">
+          <DataField>LoantoShareRatio_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoantoShareRatio_LoansRegisterFormat">
+          <DataField>LoantoShareRatio_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="SharesBalance_LoansRegister">
+          <DataField>SharesBalance_LoansRegister</DataField>
+        </Field>
+        <Field Name="SharesBalance_LoansRegisterFormat">
+          <DataField>SharesBalance_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="MaxInstallments_LoansRegister">
+          <DataField>MaxInstallments_LoansRegister</DataField>
+        </Field>
+        <Field Name="MaxLoanAmount_LoansRegister">
+          <DataField>MaxLoanAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="MaxLoanAmount_LoansRegisterFormat">
+          <DataField>MaxLoanAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoanCycle_LoansRegister">
+          <DataField>LoanCycle_LoansRegister</DataField>
+        </Field>
+        <Field Name="PenaltyCharged_LoansRegister">
+          <DataField>PenaltyCharged_LoansRegister</DataField>
+        </Field>
+        <Field Name="PenaltyCharged_LoansRegisterFormat">
+          <DataField>PenaltyCharged_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoanAmount_LoansRegister">
+          <DataField>LoanAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanAmount_LoansRegisterFormat">
+          <DataField>LoanAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="CurrentShares_LoansRegister">
+          <DataField>CurrentShares_LoansRegister</DataField>
+        </Field>
+        <Field Name="CurrentShares_LoansRegisterFormat">
+          <DataField>CurrentShares_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoanRepayment_LoansRegister">
+          <DataField>LoanRepayment_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanRepayment_LoansRegisterFormat">
+          <DataField>LoanRepayment_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="RepaymentMethod_LoansRegister">
+          <DataField>RepaymentMethod_LoansRegister</DataField>
+        </Field>
+        <Field Name="GracePeriodPrincipleM_LoansRegister">
+          <DataField>GracePeriodPrincipleM_LoansRegister</DataField>
+        </Field>
+        <Field Name="GracePeriodInterestM_LoansRegister">
+          <DataField>GracePeriodInterestM_LoansRegister</DataField>
+        </Field>
+        <Field Name="Adjustment_LoansRegister">
+          <DataField>Adjustment_LoansRegister</DataField>
+        </Field>
+        <Field Name="PaymentDueDate_LoansRegister">
+          <DataField>PaymentDueDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="TrancheNumber_LoansRegister">
+          <DataField>TrancheNumber_LoansRegister</DataField>
+        </Field>
+        <Field Name="AmountOfTranche_LoansRegister">
+          <DataField>AmountOfTranche_LoansRegister</DataField>
+        </Field>
+        <Field Name="AmountOfTranche_LoansRegisterFormat">
+          <DataField>AmountOfTranche_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TotalDisbursmenttoDate_LoansRegister">
+          <DataField>TotalDisbursmenttoDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalDisbursmenttoDate_LoansRegisterFormat">
+          <DataField>TotalDisbursmenttoDate_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="CopyofID_LoansRegister">
+          <DataField>CopyofID_LoansRegister</DataField>
+        </Field>
+        <Field Name="Contract_LoansRegister">
+          <DataField>Contract_LoansRegister</DataField>
+        </Field>
+        <Field Name="Payslip_LoansRegister">
+          <DataField>Payslip_LoansRegister</DataField>
+        </Field>
+        <Field Name="ContractualShares_LoansRegister">
+          <DataField>ContractualShares_LoansRegister</DataField>
+        </Field>
+        <Field Name="ContractualShares_LoansRegisterFormat">
+          <DataField>ContractualShares_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LastPayDate_LoansRegister">
+          <DataField>LastPayDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="InterestDue_LoansRegister">
+          <DataField>InterestDue_LoansRegister</DataField>
+        </Field>
+        <Field Name="InterestDue_LoansRegisterFormat">
+          <DataField>InterestDue_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="AppraisalStatus_LoansRegister">
+          <DataField>AppraisalStatus_LoansRegister</DataField>
+        </Field>
+        <Field Name="InterestPaid_LoansRegister">
+          <DataField>InterestPaid_LoansRegister</DataField>
+        </Field>
+        <Field Name="InterestPaid_LoansRegisterFormat">
+          <DataField>InterestPaid_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="PenaltyPaid_LoansRegister">
+          <DataField>PenaltyPaid_LoansRegister</DataField>
+        </Field>
+        <Field Name="PenaltyPaid_LoansRegisterFormat">
+          <DataField>PenaltyPaid_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ApplicationFeePaid_LoansRegister">
+          <DataField>ApplicationFeePaid_LoansRegister</DataField>
+        </Field>
+        <Field Name="ApplicationFeePaid_LoansRegisterFormat">
+          <DataField>ApplicationFeePaid_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="AppraisalFeePaid_LoansRegister">
+          <DataField>AppraisalFeePaid_LoansRegister</DataField>
+        </Field>
+        <Field Name="AppraisalFeePaid_LoansRegisterFormat">
+          <DataField>AppraisalFeePaid_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="GlobalDimension1Code_LoansRegister">
+          <DataField>GlobalDimension1Code_LoansRegister</DataField>
+        </Field>
+        <Field Name="RepaymentStartDate_LoansRegister">
+          <DataField>RepaymentStartDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="InstallmentIncludingGrace_LoansRegister">
+          <DataField>InstallmentIncludingGrace_LoansRegister</DataField>
+        </Field>
+        <Field Name="ScheduleRepayment_LoansRegister">
+          <DataField>ScheduleRepayment_LoansRegister</DataField>
+        </Field>
+        <Field Name="ScheduleRepayment_LoansRegisterFormat">
+          <DataField>ScheduleRepayment_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ScheduleInterest_LoansRegister">
+          <DataField>ScheduleInterest_LoansRegister</DataField>
+        </Field>
+        <Field Name="ScheduleInterest_LoansRegisterFormat">
+          <DataField>ScheduleInterest_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="InterestDebit_LoansRegister">
+          <DataField>InterestDebit_LoansRegister</DataField>
+        </Field>
+        <Field Name="InterestDebit_LoansRegisterFormat">
+          <DataField>InterestDebit_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ScheduleInteresttoDate_LoansRegister">
+          <DataField>ScheduleInteresttoDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="ScheduleInteresttoDate_LoansRegisterFormat">
+          <DataField>ScheduleInteresttoDate_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="RepaymentsBF_LoansRegister">
+          <DataField>RepaymentsBF_LoansRegister</DataField>
+        </Field>
+        <Field Name="RepaymentsBF_LoansRegisterFormat">
+          <DataField>RepaymentsBF_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="AccountNo_LoansRegister">
+          <DataField>AccountNo_LoansRegister</DataField>
+        </Field>
+        <Field Name="BOSANo_LoansRegister">
+          <DataField>BOSANo_LoansRegister</DataField>
+        </Field>
+        <Field Name="StaffNo_LoansRegister">
+          <DataField>StaffNo_LoansRegister</DataField>
+        </Field>
+        <Field Name="BOSALoanAmount_LoansRegister">
+          <DataField>BOSALoanAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="BOSALoanAmount_LoansRegisterFormat">
+          <DataField>BOSALoanAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TopUpAmount_LoansRegister">
+          <DataField>TopUpAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="TopUpAmount_LoansRegisterFormat">
+          <DataField>TopUpAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoanReceived_LoansRegister">
+          <DataField>LoanReceived_LoansRegister</DataField>
+        </Field>
+        <Field Name="PeriodDateFilter_LoansRegister">
+          <DataField>PeriodDateFilter_LoansRegister</DataField>
+        </Field>
+        <Field Name="CurrentRepayment_LoansRegister">
+          <DataField>CurrentRepayment_LoansRegister</DataField>
+        </Field>
+        <Field Name="CurrentRepayment_LoansRegisterFormat">
+          <DataField>CurrentRepayment_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="OustandingInterest_LoansRegister">
+          <DataField>OustandingInterest_LoansRegister</DataField>
+        </Field>
+        <Field Name="OustandingInterest_LoansRegisterFormat">
+          <DataField>OustandingInterest_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="OustandingInteresttoDate_LoansRegister">
+          <DataField>OustandingInteresttoDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="OustandingInteresttoDate_LoansRegisterFormat">
+          <DataField>OustandingInteresttoDate_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="CurrentInterestPaid_LoansRegister">
+          <DataField>CurrentInterestPaid_LoansRegister</DataField>
+        </Field>
+        <Field Name="CurrentInterestPaid_LoansRegisterFormat">
+          <DataField>CurrentInterestPaid_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="DocumentNoFilter_LoansRegister">
+          <DataField>DocumentNoFilter_LoansRegister</DataField>
+        </Field>
+        <Field Name="ChequeNo_LoansRegister">
+          <DataField>ChequeNo_LoansRegister</DataField>
+        </Field>
+        <Field Name="PersonalLoanOffset_LoansRegister">
+          <DataField>PersonalLoanOffset_LoansRegister</DataField>
+        </Field>
+        <Field Name="PersonalLoanOffset_LoansRegisterFormat">
+          <DataField>PersonalLoanOffset_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="OldAccountNo_LoansRegister">
+          <DataField>OldAccountNo_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanPrincipleRepayment_LoansRegister">
+          <DataField>LoanPrincipleRepayment_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanPrincipleRepayment_LoansRegisterFormat">
+          <DataField>LoanPrincipleRepayment_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoanInterestRepayment_LoansRegister">
+          <DataField>LoanInterestRepayment_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanInterestRepayment_LoansRegisterFormat">
+          <DataField>LoanInterestRepayment_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ContraAccount_LoansRegister">
+          <DataField>ContraAccount_LoansRegister</DataField>
+        </Field>
+        <Field Name="TransactingBranch_LoansRegister">
+          <DataField>TransactingBranch_LoansRegister</DataField>
+        </Field>
+        <Field Name="Source_LoansRegister">
+          <DataField>Source_LoansRegister</DataField>
+        </Field>
+        <Field Name="NetIncome_LoansRegister">
+          <DataField>NetIncome_LoansRegister</DataField>
+        </Field>
+        <Field Name="NetIncome_LoansRegisterFormat">
+          <DataField>NetIncome_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="NoOfGuarantors_LoansRegister">
+          <DataField>NoOfGuarantors_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalLoanGuaranted_LoansRegister">
+          <DataField>TotalLoanGuaranted_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalLoanGuaranted_LoansRegisterFormat">
+          <DataField>TotalLoanGuaranted_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="SharesBoosted_LoansRegister">
+          <DataField>SharesBoosted_LoansRegister</DataField>
+        </Field>
+        <Field Name="BasicPay_LoansRegister">
+          <DataField>BasicPay_LoansRegister</DataField>
+        </Field>
+        <Field Name="BasicPay_LoansRegisterFormat">
+          <DataField>BasicPay_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="HouseAllowance_LoansRegister">
+          <DataField>HouseAllowance_LoansRegister</DataField>
+        </Field>
+        <Field Name="HouseAllowance_LoansRegisterFormat">
+          <DataField>HouseAllowance_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="OtherAllowance_LoansRegister">
+          <DataField>OtherAllowance_LoansRegister</DataField>
+        </Field>
+        <Field Name="OtherAllowance_LoansRegisterFormat">
+          <DataField>OtherAllowance_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TotalDeductions_LoansRegister">
+          <DataField>TotalDeductions_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalDeductions_LoansRegisterFormat">
+          <DataField>TotalDeductions_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ClearedEffects_LoansRegister">
+          <DataField>ClearedEffects_LoansRegister</DataField>
+        </Field>
+        <Field Name="ClearedEffects_LoansRegisterFormat">
+          <DataField>ClearedEffects_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="Remarks_LoansRegister">
+          <DataField>Remarks_LoansRegister</DataField>
+        </Field>
+        <Field Name="Advice_LoansRegister">
+          <DataField>Advice_LoansRegister</DataField>
+        </Field>
+        <Field Name="SpecialLoanAmount_LoansRegister">
+          <DataField>SpecialLoanAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="SpecialLoanAmount_LoansRegisterFormat">
+          <DataField>SpecialLoanAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="BridgingLoanPosted_LoansRegister">
+          <DataField>BridgingLoanPosted_LoansRegister</DataField>
+        </Field>
+        <Field Name="BOSALoanNo_LoansRegister">
+          <DataField>BOSALoanNo_LoansRegister</DataField>
+        </Field>
+        <Field Name="PreviousRepayment_LoansRegister">
+          <DataField>PreviousRepayment_LoansRegister</DataField>
+        </Field>
+        <Field Name="PreviousRepayment_LoansRegisterFormat">
+          <DataField>PreviousRepayment_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="NoLoaninMB_LoansRegister">
+          <DataField>NoLoaninMB_LoansRegister</DataField>
+        </Field>
+        <Field Name="RecoveredBalance_LoansRegister">
+          <DataField>RecoveredBalance_LoansRegister</DataField>
+        </Field>
+        <Field Name="RecoveredBalance_LoansRegisterFormat">
+          <DataField>RecoveredBalance_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ReconIssue_LoansRegister">
+          <DataField>ReconIssue_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanPurpose_LoansRegister">
+          <DataField>LoanPurpose_LoansRegister</DataField>
+        </Field>
+        <Field Name="Reconciled_LoansRegister">
+          <DataField>Reconciled_LoansRegister</DataField>
+        </Field>
+        <Field Name="AppealAmount_LoansRegister">
+          <DataField>AppealAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="AppealAmount_LoansRegisterFormat">
+          <DataField>AppealAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="AppealPosted_LoansRegister">
+          <DataField>AppealPosted_LoansRegister</DataField>
+        </Field>
+        <Field Name="ProjectAmount_LoansRegister">
+          <DataField>ProjectAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="ProjectAmount_LoansRegisterFormat">
+          <DataField>ProjectAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ProjectAccountNo_LoansRegister">
+          <DataField>ProjectAccountNo_LoansRegister</DataField>
+        </Field>
+        <Field Name="LocationFilter_LoansRegister">
+          <DataField>LocationFilter_LoansRegister</DataField>
+        </Field>
+        <Field Name="OtherCommitmentsClearance_LoansRegister">
+          <DataField>OtherCommitmentsClearance_LoansRegister</DataField>
+        </Field>
+        <Field Name="OtherCommitmentsClearance_LoansRegisterFormat">
+          <DataField>OtherCommitmentsClearance_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="DiscountedAmount_LoansRegister">
+          <DataField>DiscountedAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="DiscountedAmount_LoansRegisterFormat">
+          <DataField>DiscountedAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TransportAllowance_LoansRegister">
+          <DataField>TransportAllowance_LoansRegister</DataField>
+        </Field>
+        <Field Name="TransportAllowance_LoansRegisterFormat">
+          <DataField>TransportAllowance_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="MileageAllowance_LoansRegister">
+          <DataField>MileageAllowance_LoansRegister</DataField>
+        </Field>
+        <Field Name="MileageAllowance_LoansRegisterFormat">
+          <DataField>MileageAllowance_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="SystemCreated_LoansRegister">
+          <DataField>SystemCreated_LoansRegister</DataField>
+        </Field>
+        <Field Name="BoostingCommision_LoansRegister">
+          <DataField>BoostingCommision_LoansRegister</DataField>
+        </Field>
+        <Field Name="BoostingCommision_LoansRegisterFormat">
+          <DataField>BoostingCommision_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="VoluntaryDeductions_LoansRegister">
+          <DataField>VoluntaryDeductions_LoansRegister</DataField>
+        </Field>
+        <Field Name="VoluntaryDeductions_LoansRegisterFormat">
+          <DataField>VoluntaryDeductions_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="V4Bridging_LoansRegister">
+          <DataField>V4Bridging_LoansRegister</DataField>
+        </Field>
+        <Field Name="NoOfGuarantorsFOSA_LoansRegister">
+          <DataField>NoOfGuarantorsFOSA_LoansRegister</DataField>
+        </Field>
+        <Field Name="Defaulted_LoansRegister">
+          <DataField>Defaulted_LoansRegister</DataField>
+        </Field>
+        <Field Name="BridgingPostingDate_LoansRegister">
+          <DataField>BridgingPostingDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="CommitementsOffset_LoansRegister">
+          <DataField>CommitementsOffset_LoansRegister</DataField>
+        </Field>
+        <Field Name="CommitementsOffset_LoansRegisterFormat">
+          <DataField>CommitementsOffset_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="Gender_LoansRegister">
+          <DataField>Gender_LoansRegister</DataField>
+        </Field>
+        <Field Name="CapturedBy_LoansRegister">
+          <DataField>CapturedBy_LoansRegister</DataField>
+        </Field>
+        <Field Name="BranchCode_LoansRegister">
+          <DataField>BranchCode_LoansRegister</DataField>
+        </Field>
+        <Field Name="RecoveredFromGuarantor_LoansRegister">
+          <DataField>RecoveredFromGuarantor_LoansRegister</DataField>
+        </Field>
+        <Field Name="GuarantorAmount_LoansRegister">
+          <DataField>GuarantorAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="GuarantorAmount_LoansRegisterFormat">
+          <DataField>GuarantorAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ExternalEFT_LoansRegister">
+          <DataField>ExternalEFT_LoansRegister</DataField>
+        </Field>
+        <Field Name="DefaulterOverideReasons_LoansRegister">
+          <DataField>DefaulterOverideReasons_LoansRegister</DataField>
+        </Field>
+        <Field Name="DefaulterOveride_LoansRegister">
+          <DataField>DefaulterOveride_LoansRegister</DataField>
+        </Field>
+        <Field Name="LastInterestPayDate_LoansRegister">
+          <DataField>LastInterestPayDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="OtherBenefits_LoansRegister">
+          <DataField>OtherBenefits_LoansRegister</DataField>
+        </Field>
+        <Field Name="OtherBenefits_LoansRegisterFormat">
+          <DataField>OtherBenefits_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="RecoveredLoan_LoansRegister">
+          <DataField>RecoveredLoan_LoansRegister</DataField>
+        </Field>
+        <Field Name="V1stNotice_LoansRegister">
+          <DataField>V1stNotice_LoansRegister</DataField>
+        </Field>
+        <Field Name="V2ndNotice_LoansRegister">
+          <DataField>V2ndNotice_LoansRegister</DataField>
+        </Field>
+        <Field Name="FinalNotice_LoansRegister">
+          <DataField>FinalNotice_LoansRegister</DataField>
+        </Field>
+        <Field Name="OutstandingBalancetoDate_LoansRegister">
+          <DataField>OutstandingBalancetoDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="OutstandingBalancetoDate_LoansRegisterFormat">
+          <DataField>OutstandingBalancetoDate_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LastAdviceDate_LoansRegister">
+          <DataField>LastAdviceDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="AdviceType_LoansRegister">
+          <DataField>AdviceType_LoansRegister</DataField>
+        </Field>
+        <Field Name="CurrentLocation_LoansRegister">
+          <DataField>CurrentLocation_LoansRegister</DataField>
+        </Field>
+        <Field Name="CompoundBalance_LoansRegister">
+          <DataField>CompoundBalance_LoansRegister</DataField>
+        </Field>
+        <Field Name="CompoundBalance_LoansRegisterFormat">
+          <DataField>CompoundBalance_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="RepaymentRate_LoansRegister">
+          <DataField>RepaymentRate_LoansRegister</DataField>
+        </Field>
+        <Field Name="RepaymentRate_LoansRegisterFormat">
+          <DataField>RepaymentRate_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ExpRepay_LoansRegister">
+          <DataField>ExpRepay_LoansRegister</DataField>
+        </Field>
+        <Field Name="ExpRepay_LoansRegisterFormat">
+          <DataField>ExpRepay_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="IDNO_LoansRegister">
+          <DataField>IDNO_LoansRegister</DataField>
+        </Field>
+        <Field Name="RAmount_LoansRegister">
+          <DataField>RAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="RAmount_LoansRegisterFormat">
+          <DataField>RAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="EmployerCode_LoansRegister">
+          <DataField>EmployerCode_LoansRegister</DataField>
+        </Field>
+        <Field Name="LastLoanIssueDate_LoansRegister">
+          <DataField>LastLoanIssueDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="LstLN1_LoansRegister">
+          <DataField>LstLN1_LoansRegister</DataField>
+        </Field>
+        <Field Name="LstLN2_LoansRegister">
+          <DataField>LstLN2_LoansRegister</DataField>
+        </Field>
+        <Field Name="Lastloan_LoansRegister">
+          <DataField>Lastloan_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoansCategory_LoansRegister">
+          <DataField>LoansCategory_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoansCategorySASRA_LoansRegister">
+          <DataField>LoansCategorySASRA_LoansRegister</DataField>
+        </Field>
+        <Field Name="BelaBranch_LoansRegister">
+          <DataField>BelaBranch_LoansRegister</DataField>
+        </Field>
+        <Field Name="NetAmount_LoansRegister">
+          <DataField>NetAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="NetAmount_LoansRegisterFormat">
+          <DataField>NetAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="Bankcode_LoansRegister">
+          <DataField>Bankcode_LoansRegister</DataField>
+        </Field>
+        <Field Name="BankName_LoansRegister">
+          <DataField>BankName_LoansRegister</DataField>
+        </Field>
+        <Field Name="BankBranch_LoansRegister">
+          <DataField>BankBranch_LoansRegister</DataField>
+        </Field>
+        <Field Name="OutstandingLoan_LoansRegister">
+          <DataField>OutstandingLoan_LoansRegister</DataField>
+        </Field>
+        <Field Name="OutstandingLoan_LoansRegisterFormat">
+          <DataField>OutstandingLoan_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoanCount_LoansRegister">
+          <DataField>LoanCount_LoansRegister</DataField>
+        </Field>
+        <Field Name="RepayCount_LoansRegister">
+          <DataField>RepayCount_LoansRegister</DataField>
+        </Field>
+        <Field Name="OutstandingLoan2_LoansRegister">
+          <DataField>OutstandingLoan2_LoansRegister</DataField>
+        </Field>
+        <Field Name="OutstandingLoan2_LoansRegisterFormat">
+          <DataField>OutstandingLoan2_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TopupLoanNo_LoansRegister">
+          <DataField>TopupLoanNo_LoansRegister</DataField>
+        </Field>
+        <Field Name="Defaulter_LoansRegister">
+          <DataField>Defaulter_LoansRegister</DataField>
+        </Field>
+        <Field Name="DefaulterInfo_LoansRegister">
+          <DataField>DefaulterInfo_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalEarningsSalary_LoansRegister">
+          <DataField>TotalEarningsSalary_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalEarningsSalary_LoansRegisterFormat">
+          <DataField>TotalEarningsSalary_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TotalDeductionsSalary_LoansRegister">
+          <DataField>TotalDeductionsSalary_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalDeductionsSalary_LoansRegisterFormat">
+          <DataField>TotalDeductionsSalary_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="SharePurchase_LoansRegister">
+          <DataField>SharePurchase_LoansRegister</DataField>
+        </Field>
+        <Field Name="SharePurchase_LoansRegisterFormat">
+          <DataField>SharePurchase_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ProductCurrencyCode_LoansRegister">
+          <DataField>ProductCurrencyCode_LoansRegister</DataField>
+        </Field>
+        <Field Name="CurrencyFilter_LoansRegister">
+          <DataField>CurrencyFilter_LoansRegister</DataField>
+        </Field>
+        <Field Name="AmountDisburse_LoansRegister">
+          <DataField>AmountDisburse_LoansRegister</DataField>
+        </Field>
+        <Field Name="AmountDisburse_LoansRegisterFormat">
+          <DataField>AmountDisburse_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="Prepayments_LoansRegister">
+          <DataField>Prepayments_LoansRegister</DataField>
+        </Field>
+        <Field Name="Prepayments_LoansRegisterFormat">
+          <DataField>Prepayments_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ApplnbetweenCurrencies_LoansRegister">
+          <DataField>ApplnbetweenCurrencies_LoansRegister</DataField>
+        </Field>
+        <Field Name="ExpectedDateofCompletion_LoansRegister">
+          <DataField>ExpectedDateofCompletion_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalScheduleRepayment_LoansRegister">
+          <DataField>TotalScheduleRepayment_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalScheduleRepayment_LoansRegisterFormat">
+          <DataField>TotalScheduleRepayment_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="RecoveryMode_LoansRegister">
+          <DataField>RecoveryMode_LoansRegister</DataField>
+        </Field>
+        <Field Name="RepaymentFrequency_LoansRegister">
+          <DataField>RepaymentFrequency_LoansRegister</DataField>
+        </Field>
+        <Field Name="ApprovalStatus_LoansRegister">
+          <DataField>ApprovalStatus_LoansRegister</DataField>
+        </Field>
+        <Field Name="OldVendorNo_LoansRegister">
+          <DataField>OldVendorNo_LoansRegister</DataField>
+        </Field>
+        <Field Name="Insurance025_LoansRegister">
+          <DataField>Insurance025_LoansRegister</DataField>
+        </Field>
+        <Field Name="Insurance025_LoansRegisterFormat">
+          <DataField>Insurance025_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TotalTopUpCommission_LoansRegister">
+          <DataField>TotalTopUpCommission_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalTopUpCommission_LoansRegisterFormat">
+          <DataField>TotalTopUpCommission_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TotalloanOutstanding_LoansRegister">
+          <DataField>TotalloanOutstanding_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalloanOutstanding_LoansRegisterFormat">
+          <DataField>TotalloanOutstanding_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="MonthlySharesCont_LoansRegister">
+          <DataField>MonthlySharesCont_LoansRegister</DataField>
+        </Field>
+        <Field Name="MonthlySharesCont_LoansRegisterFormat">
+          <DataField>MonthlySharesCont_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="InsuranceOnShares_LoansRegister">
+          <DataField>InsuranceOnShares_LoansRegister</DataField>
+        </Field>
+        <Field Name="InsuranceOnShares_LoansRegisterFormat">
+          <DataField>InsuranceOnShares_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TotalLoanRepayment_LoansRegister">
+          <DataField>TotalLoanRepayment_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalLoanRepayment_LoansRegisterFormat">
+          <DataField>TotalLoanRepayment_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TotalLoanInterest_LoansRegister">
+          <DataField>TotalLoanInterest_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalLoanInterest_LoansRegisterFormat">
+          <DataField>TotalLoanInterest_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="NetPaymenttoFOSA_LoansRegister">
+          <DataField>NetPaymenttoFOSA_LoansRegister</DataField>
+        </Field>
+        <Field Name="NetPaymenttoFOSA_LoansRegisterFormat">
+          <DataField>NetPaymenttoFOSA_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ProcessedPayment_LoansRegister">
+          <DataField>ProcessedPayment_LoansRegister</DataField>
+        </Field>
+        <Field Name="DatepaymentProcessed_LoansRegister">
+          <DataField>DatepaymentProcessed_LoansRegister</DataField>
+        </Field>
+        <Field Name="AttachedAmount_LoansRegister">
+          <DataField>AttachedAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="AttachedAmount_LoansRegisterFormat">
+          <DataField>AttachedAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="PenaltyAttached_LoansRegister">
+          <DataField>PenaltyAttached_LoansRegister</DataField>
+        </Field>
+        <Field Name="PenaltyAttached_LoansRegisterFormat">
+          <DataField>PenaltyAttached_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="InDueAttached_LoansRegister">
+          <DataField>InDueAttached_LoansRegister</DataField>
+        </Field>
+        <Field Name="InDueAttached_LoansRegisterFormat">
+          <DataField>InDueAttached_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="Attached_LoansRegister">
+          <DataField>Attached_LoansRegister</DataField>
+        </Field>
+        <Field Name="AdviceDate_LoansRegister">
+          <DataField>AdviceDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="AttachementDate_LoansRegister">
+          <DataField>AttachementDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalLoansOutstanding_LoansRegister">
+          <DataField>TotalLoansOutstanding_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalLoansOutstanding_LoansRegisterFormat">
+          <DataField>TotalLoansOutstanding_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="JazaDeposits_LoansRegister">
+          <DataField>JazaDeposits_LoansRegister</DataField>
+        </Field>
+        <Field Name="JazaDeposits_LoansRegisterFormat">
+          <DataField>JazaDeposits_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="MemberDeposits_LoansRegister">
+          <DataField>MemberDeposits_LoansRegister</DataField>
+        </Field>
+        <Field Name="MemberDeposits_LoansRegisterFormat">
+          <DataField>MemberDeposits_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LevyOnJazaDeposits_LoansRegister">
+          <DataField>LevyOnJazaDeposits_LoansRegister</DataField>
+        </Field>
+        <Field Name="LevyOnJazaDeposits_LoansRegisterFormat">
+          <DataField>LevyOnJazaDeposits_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="MinDepositAsPerTier_LoansRegister">
+          <DataField>MinDepositAsPerTier_LoansRegister</DataField>
+        </Field>
+        <Field Name="MinDepositAsPerTier_LoansRegisterFormat">
+          <DataField>MinDepositAsPerTier_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TotalRepayments_LoansRegister">
+          <DataField>TotalRepayments_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalRepayments_LoansRegisterFormat">
+          <DataField>TotalRepayments_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TotalInterest_LoansRegister">
+          <DataField>TotalInterest_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalInterest_LoansRegisterFormat">
+          <DataField>TotalInterest_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="Bridged_LoansRegister">
+          <DataField>Bridged_LoansRegister</DataField>
+        </Field>
+        <Field Name="DepositReinstatement_LoansRegister">
+          <DataField>DepositReinstatement_LoansRegister</DataField>
+        </Field>
+        <Field Name="DepositReinstatement_LoansRegisterFormat">
+          <DataField>DepositReinstatement_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="MemberFound_LoansRegister">
+          <DataField>MemberFound_LoansRegister</DataField>
+        </Field>
+        <Field Name="RecommendedAmount_LoansRegister">
+          <DataField>RecommendedAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="RecommendedAmount_LoansRegisterFormat">
+          <DataField>RecommendedAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="PreviousYearsDividend_LoansRegister">
+          <DataField>PreviousYearsDividend_LoansRegister</DataField>
+        </Field>
+        <Field Name="PreviousYearsDividend_LoansRegisterFormat">
+          <DataField>PreviousYearsDividend_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="partiallyBridged_LoansRegister">
+          <DataField>partiallyBridged_LoansRegister</DataField>
+        </Field>
+        <Field Name="loanInterest_LoansRegister">
+          <DataField>loanInterest_LoansRegister</DataField>
+        </Field>
+        <Field Name="loanInterest_LoansRegisterFormat">
+          <DataField>loanInterest_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="BOSADeposits_LoansRegister">
+          <DataField>BOSADeposits_LoansRegister</DataField>
+        </Field>
+        <Field Name="BOSADeposits_LoansRegisterFormat">
+          <DataField>BOSADeposits_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TopupCommission_LoansRegister">
+          <DataField>TopupCommission_LoansRegister</DataField>
+        </Field>
+        <Field Name="TopupCommission_LoansRegisterFormat">
+          <DataField>TopupCommission_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TopupiNTEREST_LoansRegister">
+          <DataField>TopupiNTEREST_LoansRegister</DataField>
+        </Field>
+        <Field Name="TopupiNTEREST_LoansRegisterFormat">
+          <DataField>TopupiNTEREST_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="NoofGurantorsFOSA_LoansRegister">
+          <DataField>NoofGurantorsFOSA_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanNoFound_LoansRegister">
+          <DataField>LoanNoFound_LoansRegister</DataField>
+        </Field>
+        <Field Name="CheckedBy_LoansRegister">
+          <DataField>CheckedBy_LoansRegister</DataField>
+        </Field>
+        <Field Name="ApprovedBy_LoansRegister">
+          <DataField>ApprovedBy_LoansRegister</DataField>
+        </Field>
+        <Field Name="NewRepaymentPeriod_LoansRegister">
+          <DataField>NewRepaymentPeriod_LoansRegister</DataField>
+        </Field>
+        <Field Name="RejectedBy_LoansRegister">
+          <DataField>RejectedBy_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoansInsurance_LoansRegister">
+          <DataField>LoansInsurance_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoansInsurance_LoansRegisterFormat">
+          <DataField>LoansInsurance_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LastIntDate_LoansRegister">
+          <DataField>LastIntDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="Approvalremarks_LoansRegister">
+          <DataField>Approvalremarks_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanDisbursedAmount_LoansRegister">
+          <DataField>LoanDisbursedAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanDisbursedAmount_LoansRegisterFormat">
+          <DataField>LoanDisbursedAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="BankBridgeAmount_LoansRegister">
+          <DataField>BankBridgeAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="BankBridgeAmount_LoansRegisterFormat">
+          <DataField>BankBridgeAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ApprovedRepayment_LoansRegister">
+          <DataField>ApprovedRepayment_LoansRegister</DataField>
+        </Field>
+        <Field Name="ApprovedRepayment_LoansRegisterFormat">
+          <DataField>ApprovedRepayment_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="RejectionRemark_LoansRegister">
+          <DataField>RejectionRemark_LoansRegister</DataField>
+        </Field>
+        <Field Name="OriginalApprovedAmount_LoansRegister">
+          <DataField>OriginalApprovedAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="OriginalApprovedAmount_LoansRegisterFormat">
+          <DataField>OriginalApprovedAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="OriginalApprovedUpdated_LoansRegister">
+          <DataField>OriginalApprovedUpdated_LoansRegister</DataField>
+        </Field>
+        <Field Name="EmployerName_LoansRegister">
+          <DataField>EmployerName_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalsLoanOutstanding_LoansRegister">
+          <DataField>TotalsLoanOutstanding_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalsLoanOutstanding_LoansRegisterFormat">
+          <DataField>TotalsLoanOutstanding_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="InterestUpfrontAmount_LoansRegister">
+          <DataField>InterestUpfrontAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="InterestUpfrontAmount_LoansRegisterFormat">
+          <DataField>InterestUpfrontAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoanProcessingFee_LoansRegister">
+          <DataField>LoanProcessingFee_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanProcessingFee_LoansRegisterFormat">
+          <DataField>LoanProcessingFee_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoanAppraisalFee_LoansRegister">
+          <DataField>LoanAppraisalFee_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanAppraisalFee_LoansRegisterFormat">
+          <DataField>LoanAppraisalFee_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoanInsurance_LoansRegister">
+          <DataField>LoanInsurance_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanInsurance_LoansRegisterFormat">
+          <DataField>LoanInsurance_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ReceivedCopyOfID_LoansRegister">
+          <DataField>ReceivedCopyOfID_LoansRegister</DataField>
+        </Field>
+        <Field Name="ReceivedPayslipBankStatemen_LoansRegister">
+          <DataField>ReceivedPayslipBankStatemen_LoansRegister</DataField>
+        </Field>
+        <Field Name="V1stTimeLoanee_LoansRegister">
+          <DataField>V1stTimeLoanee_LoansRegister</DataField>
+        </Field>
+        <Field Name="AdjtedRepayment_LoansRegister">
+          <DataField>AdjtedRepayment_LoansRegister</DataField>
+        </Field>
+        <Field Name="AdjtedRepayment_LoansRegisterFormat">
+          <DataField>AdjtedRepayment_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="MemberCategory_LoansRegister">
+          <DataField>MemberCategory_LoansRegister</DataField>
+        </Field>
+        <Field Name="SharestoBoost_LoansRegister">
+          <DataField>SharestoBoost_LoansRegister</DataField>
+        </Field>
+        <Field Name="SharestoBoost_LoansRegisterFormat">
+          <DataField>SharestoBoost_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="HisaAllocation_LoansRegister">
+          <DataField>HisaAllocation_LoansRegister</DataField>
+        </Field>
+        <Field Name="HisaAllocation_LoansRegisterFormat">
+          <DataField>HisaAllocation_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="HisaCommission_LoansRegister">
+          <DataField>HisaCommission_LoansRegister</DataField>
+        </Field>
+        <Field Name="HisaCommission_LoansRegisterFormat">
+          <DataField>HisaCommission_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="HisaBoostingCommission_LoansRegister">
+          <DataField>HisaBoostingCommission_LoansRegister</DataField>
+        </Field>
+        <Field Name="HisaBoostingCommission_LoansRegisterFormat">
+          <DataField>HisaBoostingCommission_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ShareCapitalDue_LoansRegister">
+          <DataField>ShareCapitalDue_LoansRegister</DataField>
+        </Field>
+        <Field Name="ShareCapitalDue_LoansRegisterFormat">
+          <DataField>ShareCapitalDue_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="IntersetInArreas_LoansRegister">
+          <DataField>IntersetInArreas_LoansRegister</DataField>
+        </Field>
+        <Field Name="IntersetInArreas_LoansRegisterFormat">
+          <DataField>IntersetInArreas_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="Upfronts_LoansRegister">
+          <DataField>Upfronts_LoansRegister</DataField>
+        </Field>
+        <Field Name="Upfronts_LoansRegisterFormat">
+          <DataField>Upfronts_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoanCalcOffsetLoan_LoansRegister">
+          <DataField>LoanCalcOffsetLoan_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanTransferFee_LoansRegister">
+          <DataField>LoanTransferFee_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanTransferFee_LoansRegisterFormat">
+          <DataField>LoanTransferFee_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoanSMSFee_LoansRegister">
+          <DataField>LoanSMSFee_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanSMSFee_LoansRegisterFormat">
+          <DataField>LoanSMSFee_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="ScheduledPrincipaltoDate_LoansRegister">
+          <DataField>ScheduledPrincipaltoDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="ScheduledPrincipaltoDate_LoansRegisterFormat">
+          <DataField>ScheduledPrincipaltoDate_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="Penalty_LoansRegister">
+          <DataField>Penalty_LoansRegister</DataField>
+        </Field>
+        <Field Name="Penalty_LoansRegisterFormat">
+          <DataField>Penalty_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="BasicPayH_LoansRegister">
+          <DataField>BasicPayH_LoansRegister</DataField>
+        </Field>
+        <Field Name="BasicPayH_LoansRegisterFormat">
+          <DataField>BasicPayH_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="MedicalAllowanceH_LoansRegister">
+          <DataField>MedicalAllowanceH_LoansRegister</DataField>
+        </Field>
+        <Field Name="MedicalAllowanceH_LoansRegisterFormat">
+          <DataField>MedicalAllowanceH_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="HouseAllowanceH_LoansRegister">
+          <DataField>HouseAllowanceH_LoansRegister</DataField>
+        </Field>
+        <Field Name="HouseAllowanceH_LoansRegisterFormat">
+          <DataField>HouseAllowanceH_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="StaffAssement_LoansRegister">
+          <DataField>StaffAssement_LoansRegister</DataField>
+        </Field>
+        <Field Name="StaffAssement_LoansRegisterFormat">
+          <DataField>StaffAssement_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="Pension_LoansRegister">
+          <DataField>Pension_LoansRegister</DataField>
+        </Field>
+        <Field Name="Pension_LoansRegisterFormat">
+          <DataField>Pension_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="MedicalInsurance_LoansRegister">
+          <DataField>MedicalInsurance_LoansRegister</DataField>
+        </Field>
+        <Field Name="MedicalInsurance_LoansRegisterFormat">
+          <DataField>MedicalInsurance_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LifeInsurance_LoansRegister">
+          <DataField>LifeInsurance_LoansRegister</DataField>
+        </Field>
+        <Field Name="LifeInsurance_LoansRegisterFormat">
+          <DataField>LifeInsurance_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="OtherLiabilities_LoansRegister">
+          <DataField>OtherLiabilities_LoansRegister</DataField>
+        </Field>
+        <Field Name="OtherLiabilities_LoansRegisterFormat">
+          <DataField>OtherLiabilities_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TransportBusFare_LoansRegister">
+          <DataField>TransportBusFare_LoansRegister</DataField>
+        </Field>
+        <Field Name="TransportBusFare_LoansRegisterFormat">
+          <DataField>TransportBusFare_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="OtherIncome_LoansRegister">
+          <DataField>OtherIncome_LoansRegister</DataField>
+        </Field>
+        <Field Name="OtherIncome_LoansRegisterFormat">
+          <DataField>OtherIncome_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="PensionScheme_LoansRegister">
+          <DataField>PensionScheme_LoansRegister</DataField>
+        </Field>
+        <Field Name="PensionScheme_LoansRegisterFormat">
+          <DataField>PensionScheme_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="OtherNonTaxable_LoansRegister">
+          <DataField>OtherNonTaxable_LoansRegister</DataField>
+        </Field>
+        <Field Name="OtherNonTaxable_LoansRegisterFormat">
+          <DataField>OtherNonTaxable_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="MonthlyContribution_LoansRegister">
+          <DataField>MonthlyContribution_LoansRegister</DataField>
+        </Field>
+        <Field Name="MonthlyContribution_LoansRegisterFormat">
+          <DataField>MonthlyContribution_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="SaccoDeductions_LoansRegister">
+          <DataField>SaccoDeductions_LoansRegister</DataField>
+        </Field>
+        <Field Name="SaccoDeductions_LoansRegisterFormat">
+          <DataField>SaccoDeductions_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="OtherTaxRelief_LoansRegister">
+          <DataField>OtherTaxRelief_LoansRegister</DataField>
+        </Field>
+        <Field Name="OtherTaxRelief_LoansRegisterFormat">
+          <DataField>OtherTaxRelief_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="NHIF_LoansRegister">
+          <DataField>NHIF_LoansRegister</DataField>
+        </Field>
+        <Field Name="NHIF_LoansRegisterFormat">
+          <DataField>NHIF_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="NSSF_LoansRegister">
+          <DataField>NSSF_LoansRegister</DataField>
+        </Field>
+        <Field Name="NSSF_LoansRegisterFormat">
+          <DataField>NSSF_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="PAYE_LoansRegister">
+          <DataField>PAYE_LoansRegister</DataField>
+        </Field>
+        <Field Name="PAYE_LoansRegisterFormat">
+          <DataField>PAYE_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="RiskMGT_LoansRegister">
+          <DataField>RiskMGT_LoansRegister</DataField>
+        </Field>
+        <Field Name="RiskMGT_LoansRegisterFormat">
+          <DataField>RiskMGT_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="OtherLoansRepayments_LoansRegister">
+          <DataField>OtherLoansRepayments_LoansRegister</DataField>
+        </Field>
+        <Field Name="OtherLoansRepayments_LoansRegisterFormat">
+          <DataField>OtherLoansRepayments_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="BridgeAmountRelease_LoansRegister">
+          <DataField>BridgeAmountRelease_LoansRegister</DataField>
+        </Field>
+        <Field Name="BridgeAmountRelease_LoansRegisterFormat">
+          <DataField>BridgeAmountRelease_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="Staff_LoansRegister">
+          <DataField>Staff_LoansRegister</DataField>
+        </Field>
+        <Field Name="Disabled_LoansRegister">
+          <DataField>Disabled_LoansRegister</DataField>
+        </Field>
+        <Field Name="StaffUnionContribution_LoansRegister">
+          <DataField>StaffUnionContribution_LoansRegister</DataField>
+        </Field>
+        <Field Name="StaffUnionContribution_LoansRegisterFormat">
+          <DataField>StaffUnionContribution_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="NonPayrollPayments_LoansRegister">
+          <DataField>NonPayrollPayments_LoansRegister</DataField>
+        </Field>
+        <Field Name="NonPayrollPayments_LoansRegisterFormat">
+          <DataField>NonPayrollPayments_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="GrossPay_LoansRegister">
+          <DataField>GrossPay_LoansRegister</DataField>
+        </Field>
+        <Field Name="GrossPay_LoansRegisterFormat">
+          <DataField>GrossPay_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TotalDeductionsH_LoansRegister">
+          <DataField>TotalDeductionsH_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalDeductionsH_LoansRegisterFormat">
+          <DataField>TotalDeductionsH_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="UtilizableAmount_LoansRegister">
+          <DataField>UtilizableAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="UtilizableAmount_LoansRegisterFormat">
+          <DataField>UtilizableAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="NetUtilizableAmount_LoansRegister">
+          <DataField>NetUtilizableAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="NetUtilizableAmount_LoansRegisterFormat">
+          <DataField>NetUtilizableAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="NettakeHome_LoansRegister">
+          <DataField>NettakeHome_LoansRegister</DataField>
+        </Field>
+        <Field Name="NettakeHome_LoansRegisterFormat">
+          <DataField>NettakeHome_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="Signature_LoansRegister">
+          <DataField>Signature_LoansRegister</DataField>
+        </Field>
+        <Field Name="WitnessedBy_LoansRegister">
+          <DataField>WitnessedBy_LoansRegister</DataField>
+        </Field>
+        <Field Name="WitnessName_LoansRegister">
+          <DataField>WitnessName_LoansRegister</DataField>
+        </Field>
+        <Field Name="ReceivedCopiesofPayslip_LoansRegister">
+          <DataField>ReceivedCopiesofPayslip_LoansRegister</DataField>
+        </Field>
+        <Field Name="InterestInArrears_LoansRegister">
+          <DataField>InterestInArrears_LoansRegister</DataField>
+        </Field>
+        <Field Name="InterestInArrears_LoansRegisterFormat">
+          <DataField>InterestInArrears_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="PrivateMember_LoansRegister">
+          <DataField>PrivateMember_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanProcessing_LoansRegister">
+          <DataField>LoanProcessing_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanProcessing_LoansRegisterFormat">
+          <DataField>LoanProcessing_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="TotalTopupAmount_LoansRegister">
+          <DataField>TotalTopupAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="TotalTopupAmount_LoansRegisterFormat">
+          <DataField>TotalTopupAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoanCashCleared_LoansRegister">
+          <DataField>LoanCashCleared_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanCashCleared_LoansRegisterFormat">
+          <DataField>LoanCashCleared_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoanCashClearancefee_LoansRegister">
+          <DataField>LoanCashClearancefee_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanCashClearancefee_LoansRegisterFormat">
+          <DataField>LoanCashClearancefee_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoanDue_LoansRegister">
+          <DataField>LoanDue_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanDue_LoansRegisterFormat">
+          <DataField>LoanDue_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="PartialDisbursedAmountDue_LoansRegister">
+          <DataField>PartialDisbursedAmountDue_LoansRegister</DataField>
+        </Field>
+        <Field Name="PartialDisbursedAmountDue_LoansRegisterFormat">
+          <DataField>PartialDisbursedAmountDue_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoanLastPaydate2009Nav_LoansRegister">
+          <DataField>LoanLastPaydate2009Nav_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoansReferee1_LoansRegister">
+          <DataField>LoansReferee1_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoansReferee1Name_LoansRegister">
+          <DataField>LoansReferee1Name_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoansReferee2_LoansRegister">
+          <DataField>LoansReferee2_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoansReferee2Name_LoansRegister">
+          <DataField>LoansReferee2Name_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoansReferee1Relationship_LoansRegister">
+          <DataField>LoansReferee1Relationship_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoansReferee2Relationship_LoansRegister">
+          <DataField>LoansReferee2Relationship_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoansReferee1MobileNo_LoansRegister">
+          <DataField>LoansReferee1MobileNo_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoansReferee2MobileNo_LoansRegister">
+          <DataField>LoansReferee2MobileNo_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoansReferee1Address_LoansRegister">
+          <DataField>LoansReferee1Address_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoansReferee2Address_LoansRegister">
+          <DataField>LoansReferee2Address_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoansReferee1PhysicalAddre_LoansRegister">
+          <DataField>LoansReferee1PhysicalAddre_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoansReferee2PhysicalAddre_LoansRegister">
+          <DataField>LoansReferee2PhysicalAddre_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoantoAppeal_LoansRegister">
+          <DataField>LoantoAppeal_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoantoAppealApprovedAmount_LoansRegister">
+          <DataField>LoantoAppealApprovedAmount_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoantoAppealApprovedAmount_LoansRegisterFormat">
+          <DataField>LoantoAppealApprovedAmount_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LoantoAppealissuedDate_LoansRegister">
+          <DataField>LoantoAppealissuedDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanAppeal_LoansRegister">
+          <DataField>LoanAppeal_LoansRegister</DataField>
+        </Field>
+        <Field Name="DisbursedBy_LoansRegister">
+          <DataField>DisbursedBy_LoansRegister</DataField>
+        </Field>
+        <Field Name="MemberAccountCategory_LoansRegister">
+          <DataField>MemberAccountCategory_LoansRegister</DataField>
+        </Field>
+        <Field Name="MemberNotFound_LoansRegister">
+          <DataField>MemberNotFound_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoantoReschedule_LoansRegister">
+          <DataField>LoantoReschedule_LoansRegister</DataField>
+        </Field>
+        <Field Name="Rescheduled_LoansRegister">
+          <DataField>Rescheduled_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanRescheduledDate_LoansRegister">
+          <DataField>LoanRescheduledDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanRescheduledBy_LoansRegister">
+          <DataField>LoanRescheduledBy_LoansRegister</DataField>
+        </Field>
+        <Field Name="ReasonForLoanReschedule_LoansRegister">
+          <DataField>ReasonForLoanReschedule_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanUnderDebtCollection_LoansRegister">
+          <DataField>LoanUnderDebtCollection_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanDebtCollector_LoansRegister">
+          <DataField>LoanDebtCollector_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanDebtCollectorInterest_LoansRegister">
+          <DataField>LoanDebtCollectorInterest_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanDebtCollectorInterest_LoansRegisterFormat">
+          <DataField>LoanDebtCollectorInterest_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="DebtCollectiondateAssigned_LoansRegister">
+          <DataField>DebtCollectiondateAssigned_LoansRegister</DataField>
+        </Field>
+        <Field Name="DebtCollectorName_LoansRegister">
+          <DataField>DebtCollectorName_LoansRegister</DataField>
+        </Field>
+        <Field Name="GlobalDimension2Code_LoansRegister">
+          <DataField>GlobalDimension2Code_LoansRegister</DataField>
+        </Field>
+        <Field Name="Discard_LoansRegister">
+          <DataField>Discard_LoansRegister</DataField>
+        </Field>
+        <Field Name="Upraised_LoansRegister">
+          <DataField>Upraised_LoansRegister</DataField>
+        </Field>
+        <Field Name="PensionNo_LoansRegister">
+          <DataField>PensionNo_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanSeriesCount_LoansRegister">
+          <DataField>LoanSeriesCount_LoansRegister</DataField>
+        </Field>
+        <Field Name="LoanAccountNo_LoansRegister">
+          <DataField>LoanAccountNo_LoansRegister</DataField>
+        </Field>
+        <Field Name="Deductible_LoansRegister">
+          <DataField>Deductible_LoansRegister</DataField>
+        </Field>
+        <Field Name="OutstandingBalanceCapitalize_LoansRegister">
+          <DataField>OutstandingBalanceCapitalize_LoansRegister</DataField>
+        </Field>
+        <Field Name="OutstandingBalanceCapitalize_LoansRegisterFormat">
+          <DataField>OutstandingBalanceCapitalize_LoansRegisterFormat</DataField>
+        </Field>
+        <Field Name="LastInterestDueDate_LoansRegister">
+          <DataField>LastInterestDueDate_LoansRegister</DataField>
+        </Field>
+        <Field Name="AmountPayedOff_LoansRegister">
+          <DataField>AmountPayedOff_LoansRegister</DataField>
+        </Field>
+        <Field Name="AmountPayedOff_LoansRegisterFormat">
+          <DataField>AmountPayedOff_LoansRegisterFormat</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>

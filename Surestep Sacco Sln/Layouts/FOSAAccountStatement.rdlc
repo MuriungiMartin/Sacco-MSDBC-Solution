@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Description>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
+1ev85cMl2/r+m9ctX6/5w/8A
+</Description>
+  <Author>UEsDBBQAAAAAAII4o1QAAAAAAAAAAAAAAAAKAAAAY3VzdG9tWE1ML1BLAwQUAAAACACWOaNUpq4mWqIAAAAkAQAAEgAAAGN1c3RvbVhNTC9pdGVtLnhtbI2OQQ/BQBSEv7PEf2h6r7YHDlJtXBxFHHBtaKUJJbsIfx6zq+HqsNl5b+bNzOuZUXDnyIGAGxUGS8OJlgkhKQMS/QGVNlvtdzRCe89euVATSTXSVJDTp0fGnFJea6mN9Evdnh2WeuOTFuLdFHyS5Wc7PyM81q5RltGN1auljOTzEFd2nNWm9SmxdD9/q3nmsDpMWWkaqn+qlwiH34bx3x1z3lBLAwQUAAAACABgPK1OutAoA38AAACPAAAAEAAcAGRvY1Byb3BzL2FwcC54bWwgohgAKKAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAPYyxDcMgEEVXQfQ2JEUUIWM3HiArIDhspHCH4Bx5txQZKSuEKuXXe+9/359pOfNTvKC2RGjlZdRSAHoKCTcrD47DXS7z5Ip5VCpQOUETPcFmXLFyZy5GqeZ3yK6N3cAOI9XsuM+6KYoxeVjJHxmQ1VXrm4KTAQOEofw/pVDzD1BLAwQUAAAACABgPK1OaXO5VwUCAAApBgAAEQAcAHdvcmQvZG9jdW1lbnQueG1sIKIYACigFAAAAAAAAAAAAAAAAAAAAAAAAAAAAKVUS27bMBC9isC9LSn+xBHiBEjcGlkUCOoDFDRFSYRFDkFSVtOrddEj9Qod6mMpbRE48YocDt+bNzPk/P756/b+uyyDIzdWgFqTeBqRgCsGqVD5mlQum6zI/d1tnaTAKsmVC/C+skmt2ZoUzukkDC0ruKR2KgUzYCFzUwYyhCwTjIc1mDS8iuKo2WkDjFuL5I9UHaklHZ38lw00V+jMwEjq0DR5KKk5VHqC7Jo6sRelcC/IHS17GkDJRiUdxeQkyEOSVlC39AhzTtwWsukq0EQMDS9RAyhbCD2k8VE2dBY9yfGtJI6yJKcWxPPLerAxtMZlIDxHftqCZNkqf5sxjs7oiKc4Ic6R8Dpmr0RSoYbAHyrNqLjx4n0EV38T6Pyy5mwNVHpgE5exPanDiUvxd3F1TR6nZi8Tsyuoxh8oWfKUKzB0X6IibFmAVQ/8syZ+4uwhffGrDuoEx1P6dU2iaLGY30SfSX+04RmtSjfytEg4+Fmxc9Q4vKqoxADftvBA2cFjRYoIEoTjy59U+soTYmTvt5y5Z/MfDY22fPcDXfhq4/jGz6E6KXC/XM1WHb3Ov1CPdoC/K76O4ka7yAvnMbO5N/fgHMjBXfJs5C04TTnOqeto5c0MwI3MvHKN2afDoLR4bDVlvLsUdvN7a4RPsRSKPwvHUOhsecq1TbPZtoUPh5l/9wdQSwMEFAAAAAgAYDytTqa9dSKkAQAANAUAABEAHAB3b3JkL3NldHRpbmdzLnhtbCCiGAAooBQAAAAAAAAAAAAAAAAAAAAAAAAAAAC1VF1um0AQvgri3QZHaRWhOFGk1GqiuH1wLrCGwR5ldwfNDqb0an3okXqFDtjESStZtFGeWNj9/pZv99ePn5fX35yNdsAByc/j2TSNI/A5Feg387iWcnIRX19dNlkAEf0WIl3vQ+byebwVqbIkCfkWnAlTqsDrZEnsjOgrbxJn+KmuJjm5ygiu0aK0yVmafowPNKQa7LMDxcRhzhSolA6SUVliDofHgOAxunvILeW1Ay+9YsJg1QP5sMUqDGzuf9l0cjuQ7E6F2Dk7rGtm6Yi4DXHxjBhjrwNUTDmEoD/I2cEg+qPw+V9Ez9pT1T5E7KkUPkv70UvnH/6N4OwPgmDHJNlPPeCaDbcvY7g8u9t4YrO2MI81TqSO4q6W+2p1ozrA4tODaamWKDlOrfa9jZrMG6fgV11cUqHFUizj+HwdYGc0kFo4pUR6qhgLeOxcr6S1sCAvK/wON764r4OgUvaVfIOFkw7Ad9JfdaMf2woWYKRmCO+lVtAXkoXFaonMxHe+0NPyfmpYlsCqgEZgWVtBpqbf6s9gCr3P3iqcHMuVHK+/q99QSwMEFAAAAAgAYDytTs+CTLDhAAAAvQEAABwAHAB3b3JkL19yZWxzL2RvY3VtZW50LnhtbC5yZWxzIKIYACigFAAAAAAAAAAAAAAAAAAAAAAAAAAAALWRO27DMAyGryJwr2U7ghMXcbJ0KdAuQYaskkzbQqMHJLqPs3XokXqFqEURJECHLh35k/z4Afx8/1hvX+2RPWNMxrsOqqIEhk773rixg5mGmxVsN+sdHiXliTSZkFhecamDiSjccp70hFamwgd0uTP4aCXlMo48SP0kR+R1WTY8XjLgmsn2bwH/QvTDYDTeeT1bdPQLmCckyvIJ2F7GEakD/uJjf86LTAR233ewW7SqqpRalKIRYiklMP5vWnpO5O3h6/bZ6yd7fOCG0F6IiZXqWyFqhUsh2qb+FuNXT9icAFBLAwQUAAAACACjivBU4r0EZh8BAAAiAwAAEwAcAFtDb250ZW50X1R5cGVzXS54bWwgohgAKKAUAAAAAAAAAAAAAAAAAAAAAAAAAAAApZI9TsNAEIWvYm2L7DUUCCHbKYCOnxQUtKvdsb3C+6OdcQhno+BIXIFxDCkgCkEp7Zl533tP+/H2Xi3WbshWkNAGX4vTohQZeB2M9V0tRmrzC7FoqsfXCJjxqsda9ETxUkrUPTiFRYjgedKG5BTxZ+pkVPpZdSDPyvJc6uAJPOU0aYimuoZWjQNlN2v+PWP5XGRX896EqoWKcbBaEY/lypsfkDy0rdVggh4dnxQvIZmYggZE9u2GYjtxyvqTjbzcSU4w4P/QX9kKvtzsYG8jbhEPXGWyBrKlSnSvHOtJNrNMIaJk5eLYqDB5N2ByzhshkYX98KkaiUDExeDR9F9Ffyvv9aBHpOCe7m6lJXB/mDioyVnx6DizzK4q5ebFN59QSwMECgAAAAAAo4rwVG1cXGptAgAAbQIAAAsAHABfcmVscy8ucmVscyCiGAAooBQAAAAAAAAAAAAAAAAAAAAAAAAAAADvu788P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJ1dGYtOCI/PjxSZWxhdGlvbnNoaXBzIHhtbG5zPSJodHRwOi8vc2NoZW1hcy5vcGVueG1sZm9ybWF0cy5vcmcvcGFja2FnZS8yMDA2L3JlbGF0aW9uc2hpcHMiPjxSZWxhdGlvbnNoaXAgVHlwZT0iaHR0cDovL3NjaGVtYXMub3BlbnhtbGZvcm1hdHMub3JnL29mZmljZURvY3VtZW50LzIwMDYvcmVsYXRpb25zaGlwcy9vZmZpY2VEb2N1bWVudCIgVGFyZ2V0PSIvd29yZC9kb2N1bWVudC54bWwiIElkPSJSZDZmNmEzMDJmMTE0NDFiYyIgLz48UmVsYXRpb25zaGlwIFR5cGU9Imh0dHA6Ly9zY2hlbWFzLm9wZW54bWxmb3JtYXRzLm9yZy9vZmZpY2VEb2N1bWVudC8yMDA2L3JlbGF0aW9uc2hpcHMvZXh0ZW5kZWQtcHJvcGVydGllcyIgVGFyZ2V0PSIvZG9jUHJvcHMvYXBwLnhtbCIgSWQ9IlJlMzBlZTQ3NGMxYWM0MjIzIiAvPjxSZWxhdGlvbnNoaXAgVHlwZT0iaHR0cDovL3NjaGVtYXMub3BlbnhtbGZvcm1hdHMub3JnL29mZmljZURvY3VtZW50LzIwMDYvcmVsYXRpb25zaGlwcy9jdXN0b20tcHJvcGVydGllcyIgVGFyZ2V0PSIvZG9jUHJvcHMvY3VzdG9tLnhtbCIgSWQ9IlIxNzEyMWQwYzQyMWU0OGU5IiAvPjwvUmVsYXRpb25zaGlwcz5QSwMEFAAAAAgAo4rwVNoc50bzEwAAzRwAABMAHABkb2NQcm9wcy9jdXN0b20ueG1sIKIYACigFAAAAAAAAAAAAAAAAAAAAAAAAAAAANV5x67DWJLl/gHvHxK5ZWXTu0RVNUSKpOi93QxoRe9F16h/b2ZmuZypaTQG6MVoIZFxg4yIG+6E7h///ejaH7Z8Xqqh/9OP8L9BP/6Q9+mQVf37Tz9+1uIn6sd///Mfh/FnYx7GfF6rfPnhfqRffh7GP/1Yruv4MwguaZl38fJvN0d/LxbD3MXrfTu/waEoqjR/Dumny/sVRCCIANPPsg7dT+Pf3/jjrxL+en/+UHRrlf3px/8oICrOqRj5CUoo7CcsSbOfYoQgf4KLFEZonCRIBPvLjz+MvzAjP/7Qx13+px//Jup+57b+3I77ss5/1Xhb/181zob0F/sXzznHX9QdX+rjobtZ7IOJtSXkY1sKVhCOivnwWMF0GjKX6vXyLeRBxubiimx54grb2pFfNVMFFiu92+L8erKg9P2VraMmXFv11Cg4oTG4pEkKMNySe5J1rnsvzD9ZS2gqTGM14wlQPYT6Zy57etEfJQoCGIUadn6lmOC6318SsSjRoa8NvKQARL5BrK3DYjPq3X17kcXXLjsb0iB6FPbsG1SfO8ooXSOos6gU171zBrFIpVItdXX4/nJ0cfhoyzJkqgT2F5FZfQ27wxJaKdhLKXC2OgMB0LU7hQaZyyXa2SiX5/ZGzCxE3z5W+xTXnDwNrPj3F6Zs4BF9SOKVqXn/EQi8DlvWqwdf8h5NpIOae6bPZH0KTngRCnZubbrIhFJVlbRMR8QBPAGWK9IQ662bNgryk4DeF7rfDgNL3a3xBQCrJ8o9hq0HYEKrsYDFAwMlIDvF5o0NApJy+ty1I/29cGh55o6Q9DxOf391T+79ekdFr6LTowJsEwBQ2h7wur4oyOz9/OknksHFD4JWiiu2NMfrCc4YJNKQXslFx4FP68oFvSkG/P7aH50uUVJykQBHU+2uWLtJciZWoM8PZcK5lXKEnTWbPxB1SfgO8FJBSjK05CVBBXNwMUJVmwjSnFyG319AX8JVpBmNlxE4LUskCJkyp9pPBqVmii868xIFu1bup8VMoCZBXZtHP0ysAOi9xiRjAXBPoHio1HRHCFmp+mZXH9lqsslS+9QtA6rDhat3w0TFAukqD5B9BCcqqGZYom4ucqbGgiBcvs6AGjydY3Mw3XkXY76/aDFEKsMJMFedwDINDpJKITZzBHHA9EBkJdQ8DAnLLZRT4zd7dotsvkuMwDUKpRgiKhsPFdhreIa68/3FFZtVxR8VN2H0qs/HAdx7FDc0CNS1cu80WQQaWvQecuTuMC2DCEaP28aMSOGRLuuQLnauY/VqGOju+ysp7U8znfSsvCJgz7gQxDBqN8zasw72ajxdTiCYXt5dvTAXO5tnYAvnW6LnTFRsNfdwgskHBpLVRfC/v8aHdjyFGTEN+2kPgm5egwoScrVinThd8lJjzDqcLY3GyYaczQMhw4t7JTFb4EuJDZD2LhRpesSQDk3fX/lbGmqgPjHXE5s3nDXjAz4zG9TKVVYx8WBovDwo9ejN17a8QFB2mqeZfs5JHadkzsYXbCKc1ja66RbfX0vfGNwFFDJZAEX+NtV965yLg66MaT081K7MP8brk5PMoDhw2nqBSjtuLnxAFrLDVh+edp16Hu6P2+0FRjc8oBN07NoozenkbYyk/Cj44sAEU82WtDGwwTFKvsrHqBVvLy3YWEe6I/C8Y6zmQwFE4sGmTMQ9v7+OdxaxawnH55Q0QyV2AsmwmBJ6AjKdlaRuWbpgH18FNH1DOFjDGVh9r+i4YQsVXbpa8EiPsx8hlhLx+8uDHzPojkKBzPpOwfhHrBeTomplriphtR7o1RXDO+vlsVYidlqaNxKOkzpQfK2O/BAqKg/NquYSlHt9fxl7dKWkKPVmUQS+7wstZtvk+4J5vVSZril3KGeZQ4zGVKjcwLcYVHIpyJU891MK8gNDGqtaBpPt+/P768WIJQng2Yt7O3VBVhBTV6cUcO0H7Rt1OBgGWd2Sz6MJZsluFWyusy3ZBzvDUh0lQzUyLeqO3OYJX7+/3g1rj5r15IzstXnA63jFrvuJNfY5Jdj6AYGxmmK5G2aEVZ0nE+UCF2D+4qMfojMl26BxoOIeawAV+fb9RfU8KIeHozgLH3k0DxxpcnJl0GRSkEyRSe8bAlA6OsJFoCjtwZh6nqqma8pxtyRnCeWjNotXpQnoXXtFAVwIo/5QosC0UI3tneWqiGVGPTQlDgIwzDlVNcELXO56oTOhCo5fYdmj86G/8ZYo2Ag9/LwVZOH2KcxbIlr7LT/NUus+Vc28As0KPC/hFgJbcEmJ8zvIrMh+SYH9FoK56tb2rd52n74e7qyw97WHB2up1d9fyE5LnLSMQfF5q+94e9CD2Zv2/KaGJ+zwYMvLp82iZagryrwTPa+eTVCyymXE+EDHC857jQo5eWhhdyXH6lral7OWua5i9np6hbT/1q2RbkFw8HVTbUy5nOoxNELXc0xvOVjuKYU8/8y9MrNDn/RDEdS68mGRt0+ZAwmVSU5NlqwqWRnXpPEwXwwkzdJJGqc4BphHnETllauZ8jAPz7ORTv3IscjM9/54PCv14F01mtf3V8+KqaYRZsq1xNFBY+ha7y3w2mnhNgi4drJoXHGvipyuovWxF4XXIFbBplfR6JcVbbSMToSeOwt32d9fjdEW9pxJSWAWwMKVcViz5rMqfWYQT0a05E+niOMgnFzKrxmHUw1v9y3UXJ1yKE71kirhuS+bK6mD8P01ibGKyDOb4qa4BH4r6nUCSaqtu5rNmB+pnXw2ejlWI43C6MFSJIZBE9GCidRYkZmDuNMOCzeH5duPG4c4vjXJva8+ALaVQ0VIJTqAw1fE4txrC5FaGwt7aCAnlEdz99tnodITg0/t+wIaZFTaNZUijZ94BLG+v/i09C4/pu6YPhoteeLmbh1Imaj17qxDz9FTq05VK3NVkxOnYtOh8LHzHBu7wpIKaelZgnHh5KFHi3nXN+uTEmIwN8Out6CtESWPJwRNWCJkX1xgQY+CmKup6hHQ5lOCejRKYFArO8uCb3cuE3uD6wpT+NAy7e6nspeDbH2nUygYmcDZlg85ol1A3aCpGsw1b5E6GmGPNzbWaneyivZiemG5KhSWyDYvYEmAJcCcxUm+e1ZVe8Co2ZNDj59KIq91h7TYkqr6CBzLkJRZejBWqBwot+LqrjlXKiimhUx3QxjeIjSujtZU4buCjuRGqt6wr6IKyE8Ufsd7ZLOjjSfoaMUQddflmiYiwQ0hJB5L7UaKj16iXwHONxSHRKoTV2cze5A9MWgjE99f7p2EWJS9K3BXjHP3B7hZuJOUDc5YwvPd+clYnkkzQtGOUjSP6Vifal5/cjJRvbzuaoQh/qwB07VSe0eI3x7mcz2zbYD3gBfXnl58y0LDkpeWbpj8d/6Ke3SfH9xSb/GB+HXVWhsZR+yFIO8plBloQpZ9tab5jl4h4GcR9RK9YFye7ItKMVF7J5/Tp7Ufcf3g59KLwWuqoXJG7cBTkyWpdEXSPG4W2WOfYAuHI9DsCP7GITzo1P0ZD6qV2vunZJfiqemqt75fyhah9kUvJYvcDrbDBNNRSLS0NZR97mwxLO9R5CnjenQDWx/d714f5q9nnoPyyRuEAvg3SEHb2rB6Ec1dk355OG58WAl4q/DFujhHHnJZKCgnVoLQqYBDsnycBbG9JeEvuPdV65vBTaePxbGTGuUZE0KoRQ++XbVs9uTls2JKLaaH68dT3X3GcfIHfNI/wSM43pJUT8XMIt6nK6a7kl9WjOMn6GSfk0sAY7AvDBiOS3muW+4xQgsFlvWI9G6qsHgW2hh11dhiPxMJQIePGcwBB7hFI4cRsDe29HiNt0m9OxkGPhIb8fe1LQVWFj2xWvbjgyYEaUwKrIycF8/003Yd8g5IEVZmb2IxruWwjH6WhVvDd0UyK8ZUovl0hmO/0MOtR3h/DsxgmMQj0p5TdDnycU9o67g8Hwi45wBkOsYLIPWLonW5SZOJY8nE3tDXjS0xjEGjh+15AzeJzJvOd8HNd93tzEcyvtLdaoDrHiSs92Hptao27Ynj/QjOQvDSxxQxYRfyjeJjGwR6Z/2HChluxNshHAH+1STzmjdlM4zOW7CvbvYiaDoxr8rnSlFS3efrl70QUTgKhyK0tRbwwjHdsH1+Pgzu7vXRQqVtJ7gCdNyBxWODuK7Lq/LV8G5Irp3Nuu4x4sr6yzO+wgDC0UJC39JVl9Hq5nlNiszwGT2VUO5ef0NyekxMnkAbt83SfCaUvNeB5M5LDl4SBkraffff9Asg5MVItMAj21eqddE+ZinfNVDCOfO4QzQ3Bfe+FeoRxY7nELM2JvPWr8rx3lyK5Xpljhrmou/B8HPSx0IvuB25eIZ3DtHSezDl6GpMxFW89NObZUPNvr/KUGbzWLeMB7QjxVZ++LBAOBUXdV/3D/k9JyfsNISJgqGt0nW/wU/4pXdjqh+rSQrAEFB1vdAMG/t3lwm6U8GPW7USNFtaf1q9ZfQIaWSb/gSXaaSMcW5to0RAK6iYhH0G+F7wij5VO/9KzJ7zz1jGbnxpQ8r314B4nHYPvHfCn9UauWXtyJFdd915LXiTe5fVXRskMmfh11l+VOny4hNVLBAMSxjMDsyufQfvQc0exZ31Wy6HqHtdHboDScZzU9pVZYlgUyduz14FSvLtthW/vm4UvYCmRr2cveoTkFMGphz7hk3zgmLoeZNl47YURgnRezr73Mud9fAKhO+zVvbicszJtLPU5JXOXC8F5blYqpjuMPqLoTMeJeCNOpOYMwd2bhBDJm6k6o1CAyrwkgXQCV5gEm/BFhHbPXZBT0NEUDiH/FWZP/QngpddETu/j+6SkEoHH0KPtB+y0F0yWXbD4O5Zi3+jnCefSGTtjBDgTc0Rbzi/dd32CdvWaLqJbz9csxRJnbpYTp/66G5QaDZga6X4gRJIl6TqK924u4Y8V0iTc8sAPm21FlfGcuXAwXRJG3io8y8TYx/DtMt745mtK2ZpkvupCiBzsrrytZdwCOwOzlwwybU3RtqKx9nLiVzMuD+MT7c9x1wKTCyLITJC29frAA3xhgOzCOvXnkQ3QDivweQM+Kjnq3T9KW7Qfjgisr7zFGTLtwYyFfSZ11hJaL98IlqsQBE6LJnoCN5D28GlQ4rZafDTeXGeVsh6WDyB9fX0kGANVxjxzJpA4hvhv5BunaiNUuG9JiIHtYgifVMEIM0w9KDNIacJah557Ul98pHa0snNQi/gA2F9HwK12BASXLA0XQ8mvH2a3CU2kfgP4j8fWCOViL3YdPfa4qcm7AztU0ZNlSycem1pmOi0bj3UBheGPw+NushuGCcDcJNLRl9u9f0FOcCJtvMx8CmKN64MVM1sT+xz5u335M8J+a6FZPAJn5+u1iL0hSdec+CGbTNQiR3l8/kACzokRNUbv7+iDw9nM8YUS9RixTlOZWYQY4OaGIDr/YEUgYbnwj3RRVQKdpKytuMF12ZYSK9ceE7e+BmZ1iE+VC19bi/I58t03deS1+ZDhdRVHwK4dRnojO7kmhK//Dx8k/dIW8SMGY1Kn1IX+QqnF2lIB/VJfOgRhS7Wa8s9AwLJ48Jjl2aivuXJCg+3PGtQ/+Jp4IMTWyP3k0VHtH+3FahiMmwRZJXaVGGQQnVhWwBZWKfgt/xoavX7S+0Ydx0vUUsB6PN64NrOH1TuBGsHKLR9cvOzjT8XwfG+7ybwyfjSbvQ4ZCUx4IQPDiy8twCZsaqw1PT9hecpgFuL0D2nYnXscvXNrVZW+MNLYA1onnUPRHD3+vgFU/axGnJN0ghp+I6MpqXsg8u9xamc7iyf/t0XUsl7gZXOt0jhLrXH1tLjTevRHuAb1SMULqv0m24TNHfsw3iB1DFK6XnIjyC18KxMejVf3r1QmWV83PUNNzaUfe3jcV7ORW79Jx3QGc7rowktNVeRawlELQCfROrd8/jc6h9in5OnB4/+s2kzHKv2QzV4hAbS9/cXCcM6UpGV+ugHd+Xcwki66hD3aCbtHEPe7uAUvU3mZ9kpthygTcO3WcAX1lM0bhwhRap/zK+V9j3tuidKivRfodcGam/wlrZ8QvfZ3NnZZbm9LO81y9kHCX+amSAE0kVWoVqbi3nNPolscwiuFTQLXdk5l4LfSLVICRZJSDHxWi7EFe2SsMTDe/+9SrIM5egtygWVbLX2hdT39hPtcTyn/lo4rfhJAtRr7eXV7Zw8p+E9A5L05wXwPPPC7oCCwLACk6wo+ntCl3arO4RDRU1ExUwTV3zY9t/ORpHGm5kCAH2eec9jhdd2UIm+/PT7y57nZPGO55I4oUElk38Wej3pkfIY45pZ68CHMCYQe8ZC4E/7gg3ca71oLOLL7rZpOkluXjv0iaVCe6No7qyVZGaBB+HP/tiCpDmB+yQfCveO4LxpHcn8GHK+2SwFcGPcyqyG8xfyOIM7BrG7JVdpVt7IZOyO4/sLzjcKT9UWAWego9M1IEB8B6nHH8G//9P/5z+C/3SS8K+PFfAkIWOYIH6iCbT4CYOo9KeEpPOfMhqPMzrHMhym/3asgP79WCFeY3bo1zlO/2ePFv7j++uHH34v7ucffiXeZO+3g5qbAv/hr6RfOMU175Z/sP3K2GfD/M+km6gNNwFB//BPJL7K22z5Pd/fOOF/kP7yt8u//OF/E6Hk2Tu/gcI6n/9SGv7fkPbohk+//i+FDX+RSv7hd4u/ifn1ZejvV4xhWav+fW9Afi9i/7W2z3yNqzbP/qH1/1VnlIL+G0r/H+b/Zu/vVfx14RfH/s9oj/x/or7Yr/kt518GCPTbByH+/txvF7/+3F9/+S+yG/zdueSf/xNQSwECPwAUAAAAAACCOKNUAAAAAAAAAAAAAAAACgAkAAAAAAAAABAAAAAAAAAAY3VzdG9tWE1MLwoAIAAAAAAAAQAYAOt79jSrXtgB63v2NKte2AHre/Y0q17YAVBLAQI/ABQAAAAIAJY5o1SmriZaogAAACQBAAASACQAAAAAAAAAIAAAACgAAABjdXN0b21YTUwvaXRlbS54bWwKACAAAAAAAAEAGAAxz3JrrF7YAV8WqXisXtgBGWptJ6le2AFQSwECLQAUAAAACABgPK1OutAoA38AAACPAAAAEAAAAAAAAAAAAAAAAAD6AAAAZG9jUHJvcHMvYXBwLnhtbFBLAQItABQAAAAIAGA8rU5pc7lXBQIAACkGAAARAAAAAAAAAAAAAAAAAMMBAAB3b3JkL2RvY3VtZW50LnhtbFBLAQItABQAAAAIAGA8rU6mvXUipAEAADQFAAARAAAAAAAAAAAAAAAAABMEAAB3b3JkL3NldHRpbmdzLnhtbFBLAQItABQAAAAIAGA8rU7Pgkyw4QAAAL0BAAAcAAAAAAAAAAAAAAAAAAIGAAB3b3JkL19yZWxzL2RvY3VtZW50LnhtbC5yZWxzUEsBAi0AFAAAAAgAo4rwVOK9BGYfAQAAIgMAABMAAAAAAAAAAAAAAAAAOQcAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAKAAAAAACjivBUbVxcam0CAABtAgAACwAAAAAAAAAAAAAAAAClCAAAX3JlbHMvLnJlbHNQSwECLQAUAAAACACjivBU2hznRvMTAADNHAAAEwAAAAAAAAAAAAAAAABXCwAAZG9jUHJvcHMvY3VzdG9tLnhtbFBLBQYAAAAACQAJAIECAACXHwAAAAA=
+</Author>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <Height>2in</Height>
+      </Body>
+      <Width>6.5in</Width>
+      <Page></Page>
+    </ReportSection>
+  </ReportSections>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="ReportForNavId_3182">
+          <DataField>ReportForNavId_3182</DataField>
+        </Field>
+        <Field Name="FORMAT_TODAY_0_4_">
+          <DataField>FORMAT_TODAY_0_4_</DataField>
+        </Field>
+        <Field Name="CompanyInfo_Address">
+          <DataField>CompanyInfo_Address</DataField>
+        </Field>
+        <Field Name="CurrReport_PAGENO">
+          <DataField>CurrReport_PAGENO</DataField>
+        </Field>
+        <Field Name="CompanyInfo_Pic">
+          <DataField>CompanyInfo_Pic</DataField>
+        </Field>
+        <Field Name="CompanyInfo_Name">
+          <DataField>CompanyInfo_Name</DataField>
+        </Field>
+        <Field Name="CompanyInfo__Address_2_">
+          <DataField>CompanyInfo__Address_2_</DataField>
+        </Field>
+        <Field Name="STRSUBSTNO_Text000_VendDateFilter_">
+          <DataField>STRSUBSTNO_Text000_VendDateFilter_</DataField>
+        </Field>
+        <Field Name="VendFilter">
+          <DataField>VendFilter</DataField>
+        </Field>
+        <Field Name="Vendor_Name">
+          <DataField>Vendor_Name</DataField>
+        </Field>
+        <Field Name="Vendor__No__">
+          <DataField>Vendor__No__</DataField>
+        </Field>
+        <Field Name="Vendor_Vendor__Account_Type_">
+          <DataField>Vendor_Vendor__Account_Type_</DataField>
+        </Field>
+        <Field Name="BOSA_Account_No">
+          <DataField>BOSA_Account_No</DataField>
+        </Field>
+        <Field Name="Company_Code">
+          <DataField>Company_Code</DataField>
+        </Field>
+        <Field Name="CompanyNamee">
+          <DataField>CompanyNamee</DataField>
+        </Field>
+        <Field Name="Vendor_Vendor__Staff_No_">
+          <DataField>Vendor_Vendor__Staff_No_</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY__1">
+          <DataField>StartBalanceLCY__1</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY__1Format">
+          <DataField>StartBalanceLCY__1Format</DataField>
+        </Field>
+        <Field Name="StartBalAdjLCY">
+          <DataField>StartBalAdjLCY</DataField>
+        </Field>
+        <Field Name="StartBalAdjLCYFormat">
+          <DataField>StartBalAdjLCYFormat</DataField>
+        </Field>
+        <Field Name="VendBalanceLCY__1">
+          <DataField>VendBalanceLCY__1</DataField>
+        </Field>
+        <Field Name="VendBalanceLCY__1Format">
+          <DataField>VendBalanceLCY__1Format</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY__1_Control29">
+          <DataField>StartBalanceLCY__1_Control29</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY__1_Control29Format">
+          <DataField>StartBalanceLCY__1_Control29Format</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___1">
+          <DataField>Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___1</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___1Format">
+          <DataField>Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___1Format</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY___StartBalAdjLCY____Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___1">
+          <DataField>StartBalanceLCY___StartBalAdjLCY____Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___1</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY___StartBalAdjLCY____Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___1Format">
+          <DataField>StartBalanceLCY___StartBalAdjLCY____Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___1Format</DataField>
+        </Field>
+        <Field Name="Vendor__Uncleared_Cheques_">
+          <DataField>Vendor__Uncleared_Cheques_</DataField>
+        </Field>
+        <Field Name="Vendor__Uncleared_Cheques_Format">
+          <DataField>Vendor__Uncleared_Cheques_Format</DataField>
+        </Field>
+        <Field Name="DataItem1102760019">
+          <DataField>DataItem1102760019</DataField>
+        </Field>
+        <Field Name="DataItem1102760019Format">
+          <DataField>DataItem1102760019Format</DataField>
+        </Field>
+        <Field Name="Account_StatementCaption">
+          <DataField>Account_StatementCaption</DataField>
+        </Field>
+        <Field Name="CurrReport_PAGENOCaption">
+          <DataField>CurrReport_PAGENOCaption</DataField>
+        </Field>
+        <Field Name="All_amounts_are_in_LCYCaption">
+          <DataField>All_amounts_are_in_LCYCaption</DataField>
+        </Field>
+        <Field Name="VendBalanceLCY__1_Control40Caption">
+          <DataField>VendBalanceLCY__1_Control40Caption</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry_DescriptionCaption">
+          <DataField>Vendor_Ledger_Entry_DescriptionCaption</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry__Document_No__Caption">
+          <DataField>Vendor_Ledger_Entry__Document_No__Caption</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry__Posting_Date_Caption">
+          <DataField>Vendor_Ledger_Entry__Posting_Date_Caption</DataField>
+        </Field>
+        <Field Name="Account_No_Caption">
+          <DataField>Account_No_Caption</DataField>
+        </Field>
+        <Field Name="NamesCaption">
+          <DataField>NamesCaption</DataField>
+        </Field>
+        <Field Name="Account_TypeCaption">
+          <DataField>Account_TypeCaption</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry__Debit_Amount_Caption">
+          <DataField>Vendor_Ledger_Entry__Debit_Amount_Caption</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry__Credit_Amount_Caption">
+          <DataField>Vendor_Ledger_Entry__Credit_Amount_Caption</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry__External_Document_No__Caption">
+          <DataField>Vendor_Ledger_Entry__External_Document_No__Caption</DataField>
+        </Field>
+        <Field Name="Staff_No_Caption">
+          <DataField>Staff_No_Caption</DataField>
+        </Field>
+        <Field Name="Adj__of_Opening_BalanceCaption">
+          <DataField>Adj__of_Opening_BalanceCaption</DataField>
+        </Field>
+        <Field Name="Total_BalanceCaption">
+          <DataField>Total_BalanceCaption</DataField>
+        </Field>
+        <Field Name="Total_Balance_Before_PeriodCaption">
+          <DataField>Total_Balance_Before_PeriodCaption</DataField>
+        </Field>
+        <Field Name="Vendor__Uncleared_Cheques_Caption">
+          <DataField>Vendor__Uncleared_Cheques_Caption</DataField>
+        </Field>
+        <Field Name="Available_BalanceCaption">
+          <DataField>Available_BalanceCaption</DataField>
+        </Field>
+        <Field Name="Vendor_Date_Filter">
+          <DataField>Vendor_Date_Filter</DataField>
+        </Field>
+        <Field Name="Vendor_Global_Dimension_1_Filter">
+          <DataField>Vendor_Global_Dimension_1_Filter</DataField>
+        </Field>
+        <Field Name="Vendor_Global_Dimension_2_Filter">
+          <DataField>Vendor_Global_Dimension_2_Filter</DataField>
+        </Field>
+        <Field Name="CompanyInfoName">
+          <DataField>CompanyInfoName</DataField>
+        </Field>
+        <Field Name="CompanyInfoAddress">
+          <DataField>CompanyInfoAddress</DataField>
+        </Field>
+        <Field Name="CompanyInfoCity">
+          <DataField>CompanyInfoCity</DataField>
+        </Field>
+        <Field Name="CompanyInfo_Phone_No">
+          <DataField>CompanyInfo_Phone_No</DataField>
+        </Field>
+        <Field Name="CompanyInfo_EMail">
+          <DataField>CompanyInfo_EMail</DataField>
+        </Field>
+        <Field Name="CompanyInfo_Home_Page">
+          <DataField>CompanyInfo_Home_Page</DataField>
+        </Field>
+        <Field Name="ReportForNavId_4114">
+          <DataField>ReportForNavId_4114</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY___StartBalAdjLCY____Amount__LCY_____1">
+          <DataField>StartBalanceLCY___StartBalAdjLCY____Amount__LCY_____1</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY___StartBalAdjLCY____Amount__LCY_____1Format">
+          <DataField>StartBalanceLCY___StartBalAdjLCY____Amount__LCY_____1Format</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry__Posting_Date_">
+          <DataField>Vendor_Ledger_Entry__Posting_Date_</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry__Document_No__">
+          <DataField>Vendor_Ledger_Entry__Document_No__</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry_Description">
+          <DataField>Vendor_Ledger_Entry_Description</DataField>
+        </Field>
+        <Field Name="VendAmount__1">
+          <DataField>VendAmount__1</DataField>
+        </Field>
+        <Field Name="VendAmount__1Format">
+          <DataField>VendAmount__1Format</DataField>
+        </Field>
+        <Field Name="VendBalanceLCY__1_Control40">
+          <DataField>VendBalanceLCY__1_Control40</DataField>
+        </Field>
+        <Field Name="VendBalanceLCY__1_Control40Format">
+          <DataField>VendBalanceLCY__1_Control40Format</DataField>
+        </Field>
+        <Field Name="VendCurrencyCode">
+          <DataField>VendCurrencyCode</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry__Debit_Amount_">
+          <DataField>Vendor_Ledger_Entry__Debit_Amount_</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry__Debit_Amount_Format">
+          <DataField>Vendor_Ledger_Entry__Debit_Amount_Format</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry__Credit_Amount_">
+          <DataField>Vendor_Ledger_Entry__Credit_Amount_</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry__Credit_Amount_Format">
+          <DataField>Vendor_Ledger_Entry__Credit_Amount_Format</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry__External_Document_No__">
+          <DataField>Vendor_Ledger_Entry__External_Document_No__</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY___StartBalAdjLCY____Amount__LCY_____1_Control53">
+          <DataField>StartBalanceLCY___StartBalAdjLCY____Amount__LCY_____1_Control53</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY___StartBalAdjLCY____Amount__LCY_____1_Control53Format">
+          <DataField>StartBalanceLCY___StartBalAdjLCY____Amount__LCY_____1_Control53Format</DataField>
+        </Field>
+        <Field Name="ContinuedCaption">
+          <DataField>ContinuedCaption</DataField>
+        </Field>
+        <Field Name="ContinuedCaption_Control46">
+          <DataField>ContinuedCaption_Control46</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry_Entry_No_">
+          <DataField>Vendor_Ledger_Entry_Entry_No_</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry_Vendor_No_">
+          <DataField>Vendor_Ledger_Entry_Vendor_No_</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry_Global_Dimension_1_Code">
+          <DataField>Vendor_Ledger_Entry_Global_Dimension_1_Code</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry_Global_Dimension_2_Code">
+          <DataField>Vendor_Ledger_Entry_Global_Dimension_2_Code</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry_Date_Filter">
+          <DataField>Vendor_Ledger_Entry_Date_Filter</DataField>
+        </Field>
+        <Field Name="TotalDebits">
+          <DataField>TotalDebits</DataField>
+        </Field>
+        <Field Name="TotalDebitsFormat">
+          <DataField>TotalDebitsFormat</DataField>
+        </Field>
+        <Field Name="TotalCredits">
+          <DataField>TotalCredits</DataField>
+        </Field>
+        <Field Name="TotalCreditsFormat">
+          <DataField>TotalCreditsFormat</DataField>
+        </Field>
+        <Field Name="Totals">
+          <DataField>Totals</DataField>
+        </Field>
+        <Field Name="TotalsFormat">
+          <DataField>TotalsFormat</DataField>
+        </Field>
+        <Field Name="PostedBy">
+          <DataField>PostedBy</DataField>
+        </Field>
+        <Field Name="ReportForNavId_2149">
+          <DataField>ReportForNavId_2149</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___12">
+          <DataField>Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___12</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___12Format">
+          <DataField>Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___12Format</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY___StartBalAdjLCY____Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___13">
+          <DataField>StartBalanceLCY___StartBalAdjLCY____Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___13</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY___StartBalAdjLCY____Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___13Format">
+          <DataField>StartBalanceLCY___StartBalAdjLCY____Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___13Format</DataField>
+        </Field>
+        <Field Name="DataItem11027600193">
+          <DataField>DataItem11027600193</DataField>
+        </Field>
+        <Field Name="DataItem11027600193Format">
+          <DataField>DataItem11027600193Format</DataField>
+        </Field>
+        <Field Name="VendBalanceLCY__1_Control402">
+          <DataField>VendBalanceLCY__1_Control402</DataField>
+        </Field>
+        <Field Name="VendBalanceLCY__1_Control402Format">
+          <DataField>VendBalanceLCY__1_Control402Format</DataField>
+        </Field>
+        <Field Name="ReportForNavId_4103">
+          <DataField>ReportForNavId_4103</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___13">
+          <DataField>Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___13</DataField>
+        </Field>
+        <Field Name="Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___13Format">
+          <DataField>Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___13Format</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY___StartBalAdjLCY____Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___14">
+          <DataField>StartBalanceLCY___StartBalAdjLCY____Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___14</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY___StartBalAdjLCY____Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___14Format">
+          <DataField>StartBalanceLCY___StartBalAdjLCY____Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___14Format</DataField>
+        </Field>
+        <Field Name="DataItem11027600194">
+          <DataField>DataItem11027600194</DataField>
+        </Field>
+        <Field Name="DataItem11027600194Format">
+          <DataField>DataItem11027600194Format</DataField>
+        </Field>
+        <Field Name="ReportForNavId_5444">
+          <DataField>ReportForNavId_5444</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY__12">
+          <DataField>StartBalanceLCY__12</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY__12Format">
+          <DataField>StartBalanceLCY__12Format</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY___StartBalAdjLCY____Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___12">
+          <DataField>StartBalanceLCY___StartBalAdjLCY____Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___12</DataField>
+        </Field>
+        <Field Name="StartBalanceLCY___StartBalAdjLCY____Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___12Format">
+          <DataField>StartBalanceLCY___StartBalAdjLCY____Vendor_Ledger_Entry___Amount__LCY_____Correction___ApplicationRounding___12Format</DataField>
+        </Field>
+        <Field Name="DataItem11027600192">
+          <DataField>DataItem11027600192</DataField>
+        </Field>
+        <Field Name="DataItem11027600192Format">
+          <DataField>DataItem11027600192Format</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>

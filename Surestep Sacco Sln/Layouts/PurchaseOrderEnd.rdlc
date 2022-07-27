@@ -1,0 +1,911 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Description>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
+</Description>
+  <Author>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
+</Author>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <Height>2in</Height>
+      </Body>
+      <Width>6.5in</Width>
+      <Page></Page>
+    </ReportSection>
+  </ReportSections>
+  <ReportParameters>
+    <ReportParameter Name="ExpiryDate_PurchaseHeaderCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>ExpiryDate_PurchaseHeaderCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>ExpiryDate_PurchaseHeaderCaption</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="ReportForNavId_4458">
+          <DataField>ReportForNavId_4458</DataField>
+        </Field>
+        <Field Name="DocType_PurchHeader">
+          <DataField>DocType_PurchHeader</DataField>
+        </Field>
+        <Field Name="No_PurchHeader">
+          <DataField>No_PurchHeader</DataField>
+        </Field>
+        <Field Name="AmountCaption">
+          <DataField>AmountCaption</DataField>
+        </Field>
+        <Field Name="PurchLineInvDiscAmtCaption">
+          <DataField>PurchLineInvDiscAmtCaption</DataField>
+        </Field>
+        <Field Name="Address2">
+          <DataField>Address2</DataField>
+        </Field>
+        <Field Name="address">
+          <DataField>address</DataField>
+        </Field>
+        <Field Name="Phone_No">
+          <DataField>Phone_No</DataField>
+        </Field>
+        <Field Name="email_address">
+          <DataField>email_address</DataField>
+        </Field>
+        <Field Name="Company_name">
+          <DataField>Company_name</DataField>
+        </Field>
+        <Field Name="SubtotalCaption">
+          <DataField>SubtotalCaption</DataField>
+        </Field>
+        <Field Name="VATAmtLineVATCaption">
+          <DataField>VATAmtLineVATCaption</DataField>
+        </Field>
+        <Field Name="VATAmtLineVATAmtCaption">
+          <DataField>VATAmtLineVATAmtCaption</DataField>
+        </Field>
+        <Field Name="VATAmtSpecCaption">
+          <DataField>VATAmtSpecCaption</DataField>
+        </Field>
+        <Field Name="VATIdentifierCaption">
+          <DataField>VATIdentifierCaption</DataField>
+        </Field>
+        <Field Name="VATAmtLineInvDiscBaseAmtCaption">
+          <DataField>VATAmtLineInvDiscBaseAmtCaption</DataField>
+        </Field>
+        <Field Name="VATAmtLineLineAmtCaption">
+          <DataField>VATAmtLineLineAmtCaption</DataField>
+        </Field>
+        <Field Name="VALVATBaseLCYCaption">
+          <DataField>VALVATBaseLCYCaption</DataField>
+        </Field>
+        <Field Name="TotalCaption">
+          <DataField>TotalCaption</DataField>
+        </Field>
+        <Field Name="PaymentTermsDescCaption">
+          <DataField>PaymentTermsDescCaption</DataField>
+        </Field>
+        <Field Name="ShipmentMethodDescCaption">
+          <DataField>ShipmentMethodDescCaption</DataField>
+        </Field>
+        <Field Name="PrepymtTermsDescCaption">
+          <DataField>PrepymtTermsDescCaption</DataField>
+        </Field>
+        <Field Name="HomePageCaption">
+          <DataField>HomePageCaption</DataField>
+        </Field>
+        <Field Name="EmailIDCaption">
+          <DataField>EmailIDCaption</DataField>
+        </Field>
+        <Field Name="AllowInvoiceDiscCaption">
+          <DataField>AllowInvoiceDiscCaption</DataField>
+        </Field>
+        <Field Name="ExpectedReceiptDate_PurchaseHeader">
+          <DataField>ExpectedReceiptDate_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="PostingDate_PurchaseHeader">
+          <DataField>PostingDate_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="No_PurchaseHeader">
+          <DataField>No_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="CopyText">
+          <DataField>CopyText</DataField>
+        </Field>
+        <Field Name="PaymentTermsCode_PurchaseHeader">
+          <DataField>PaymentTermsCode_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="CurrencyCode_PurchaseHeader">
+          <DataField>CurrencyCode_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="ExpiryDate_PurchaseHeader">
+          <DataField>ExpiryDate_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="Amount_PurchaseHeader">
+          <DataField>Amount_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="Amount_PurchaseHeaderFormat">
+          <DataField>Amount_PurchaseHeaderFormat</DataField>
+        </Field>
+        <Field Name="AmountIncludingVAT_PurchaseHeader">
+          <DataField>AmountIncludingVAT_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="AmountIncludingVAT_PurchaseHeaderFormat">
+          <DataField>AmountIncludingVAT_PurchaseHeaderFormat</DataField>
+        </Field>
+        <Field Name="TotalDiscountAmount">
+          <DataField>TotalDiscountAmount</DataField>
+        </Field>
+        <Field Name="TotalDiscountAmountFormat">
+          <DataField>TotalDiscountAmountFormat</DataField>
+        </Field>
+        <Field Name="SpecialRemark_PurchaseHeader">
+          <DataField>SpecialRemark_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="NumberText">
+          <DataField>NumberText</DataField>
+        </Field>
+        <Field Name="NoPrinted">
+          <DataField>NoPrinted</DataField>
+        </Field>
+        <Field Name="PaytoVendorNo_PurchaseHeader">
+          <DataField>PaytoVendorNo_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="PaytoName_PurchaseHeader">
+          <DataField>PaytoName_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="PaytoName2_PurchaseHeader">
+          <DataField>PaytoName2_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="PaytoAddress_PurchaseHeader">
+          <DataField>PaytoAddress_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="PaytoAddress2_PurchaseHeader">
+          <DataField>PaytoAddress2_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="PaytoCity_PurchaseHeader">
+          <DataField>PaytoCity_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="ShiptoCode_PurchaseHeader">
+          <DataField>ShiptoCode_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="ShiptoName_PurchaseHeader">
+          <DataField>ShiptoName_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="ShiptoName2_PurchaseHeader">
+          <DataField>ShiptoName2_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="ShiptoAddress_PurchaseHeader">
+          <DataField>ShiptoAddress_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="ShiptoAddress2_PurchaseHeader">
+          <DataField>ShiptoAddress2_PurchaseHeader</DataField>
+        </Field>
+        <Field Name="CurrencyText">
+          <DataField>CurrencyText</DataField>
+        </Field>
+        <Field Name="Pterms2017">
+          <DataField>Pterms2017</DataField>
+        </Field>
+        <Field Name="ReportForNavId_5701">
+          <DataField>ReportForNavId_5701</DataField>
+        </Field>
+        <Field Name="ReportForNavId_6455">
+          <DataField>ReportForNavId_6455</DataField>
+        </Field>
+        <Field Name="ReportTitleCopyText">
+          <DataField>ReportTitleCopyText</DataField>
+        </Field>
+        <Field Name="CurrRepPageNo">
+          <DataField>CurrRepPageNo</DataField>
+        </Field>
+        <Field Name="CompanyAddr1">
+          <DataField>CompanyAddr1</DataField>
+        </Field>
+        <Field Name="CompanyAddr2">
+          <DataField>CompanyAddr2</DataField>
+        </Field>
+        <Field Name="CompanyAddr3">
+          <DataField>CompanyAddr3</DataField>
+        </Field>
+        <Field Name="CompanyAddr4">
+          <DataField>CompanyAddr4</DataField>
+        </Field>
+        <Field Name="CompanyInfoPhoneNo">
+          <DataField>CompanyInfoPhoneNo</DataField>
+        </Field>
+        <Field Name="CompanyInfoFaxNo">
+          <DataField>CompanyInfoFaxNo</DataField>
+        </Field>
+        <Field Name="CompanyInfoVATRegNo">
+          <DataField>CompanyInfoVATRegNo</DataField>
+        </Field>
+        <Field Name="CompanyInfoGiroNo">
+          <DataField>CompanyInfoGiroNo</DataField>
+        </Field>
+        <Field Name="CompanyInfoBankName">
+          <DataField>CompanyInfoBankName</DataField>
+        </Field>
+        <Field Name="CompanyInfoBankAccNo">
+          <DataField>CompanyInfoBankAccNo</DataField>
+        </Field>
+        <Field Name="DocDate_PurchHeader">
+          <DataField>DocDate_PurchHeader</DataField>
+        </Field>
+        <Field Name="CompanyInfoPicture">
+          <DataField>CompanyInfoPicture</DataField>
+        </Field>
+        <Field Name="CompNames">
+          <DataField>CompNames</DataField>
+        </Field>
+        <Field Name="VATNoText">
+          <DataField>VATNoText</DataField>
+        </Field>
+        <Field Name="VATRegNo_PurchHeader">
+          <DataField>VATRegNo_PurchHeader</DataField>
+        </Field>
+        <Field Name="PurchaserText">
+          <DataField>PurchaserText</DataField>
+        </Field>
+        <Field Name="SalesPurchPersonName">
+          <DataField>SalesPurchPersonName</DataField>
+        </Field>
+        <Field Name="ReferenceText">
+          <DataField>ReferenceText</DataField>
+        </Field>
+        <Field Name="YourRef_PurchHeader">
+          <DataField>YourRef_PurchHeader</DataField>
+        </Field>
+        <Field Name="CompanyAddr5">
+          <DataField>CompanyAddr5</DataField>
+        </Field>
+        <Field Name="CompanyAddr6">
+          <DataField>CompanyAddr6</DataField>
+        </Field>
+        <Field Name="BuyFrmVendNo_PurchHeader">
+          <DataField>BuyFrmVendNo_PurchHeader</DataField>
+        </Field>
+        <Field Name="BuyFromAddr1">
+          <DataField>BuyFromAddr1</DataField>
+        </Field>
+        <Field Name="BuyFromAddr2">
+          <DataField>BuyFromAddr2</DataField>
+        </Field>
+        <Field Name="BuyFromAddr3">
+          <DataField>BuyFromAddr3</DataField>
+        </Field>
+        <Field Name="BuyFromAddr4">
+          <DataField>BuyFromAddr4</DataField>
+        </Field>
+        <Field Name="BuyFromAddr5">
+          <DataField>BuyFromAddr5</DataField>
+        </Field>
+        <Field Name="BuyFromAddr6">
+          <DataField>BuyFromAddr6</DataField>
+        </Field>
+        <Field Name="BuyFromAddr7">
+          <DataField>BuyFromAddr7</DataField>
+        </Field>
+        <Field Name="BuyFromAddr8">
+          <DataField>BuyFromAddr8</DataField>
+        </Field>
+        <Field Name="PricesInclVAT_PurchHeader">
+          <DataField>PricesInclVAT_PurchHeader</DataField>
+        </Field>
+        <Field Name="OutputNo">
+          <DataField>OutputNo</DataField>
+        </Field>
+        <Field Name="VATBaseDisc_PurchHeader">
+          <DataField>VATBaseDisc_PurchHeader</DataField>
+        </Field>
+        <Field Name="VATBaseDisc_PurchHeaderFormat">
+          <DataField>VATBaseDisc_PurchHeaderFormat</DataField>
+        </Field>
+        <Field Name="PricesInclVATtxt">
+          <DataField>PricesInclVATtxt</DataField>
+        </Field>
+        <Field Name="PaymentTermsDesc">
+          <DataField>PaymentTermsDesc</DataField>
+        </Field>
+        <Field Name="ShipmentMethodDesc">
+          <DataField>ShipmentMethodDesc</DataField>
+        </Field>
+        <Field Name="PrepmtPaymentTermsDesc">
+          <DataField>PrepmtPaymentTermsDesc</DataField>
+        </Field>
+        <Field Name="ShowInternalInfo">
+          <DataField>ShowInternalInfo</DataField>
+        </Field>
+        <Field Name="TotalText">
+          <DataField>TotalText</DataField>
+        </Field>
+        <Field Name="DimText">
+          <DataField>DimText</DataField>
+        </Field>
+        <Field Name="CompanyInfoPhoneNoCaption">
+          <DataField>CompanyInfoPhoneNoCaption</DataField>
+        </Field>
+        <Field Name="CompanyInfoVATRegNoCaption">
+          <DataField>CompanyInfoVATRegNoCaption</DataField>
+        </Field>
+        <Field Name="CompanyInfoGiroNoCaption">
+          <DataField>CompanyInfoGiroNoCaption</DataField>
+        </Field>
+        <Field Name="CompanyInfoBankNameCaption">
+          <DataField>CompanyInfoBankNameCaption</DataField>
+        </Field>
+        <Field Name="CompanyInfoBankAccNoCaption">
+          <DataField>CompanyInfoBankAccNoCaption</DataField>
+        </Field>
+        <Field Name="OrderNoCaption">
+          <DataField>OrderNoCaption</DataField>
+        </Field>
+        <Field Name="PageCaption">
+          <DataField>PageCaption</DataField>
+        </Field>
+        <Field Name="DocumentDateCaption">
+          <DataField>DocumentDateCaption</DataField>
+        </Field>
+        <Field Name="BuyFrmVendNo_PurchHeaderCaption">
+          <DataField>BuyFrmVendNo_PurchHeaderCaption</DataField>
+        </Field>
+        <Field Name="PricesInclVAT_PurchHeaderCaption">
+          <DataField>PricesInclVAT_PurchHeaderCaption</DataField>
+        </Field>
+        <Field Name="LPOText">
+          <DataField>LPOText</DataField>
+        </Field>
+        <Field Name="ReportForNavId_7574">
+          <DataField>ReportForNavId_7574</DataField>
+        </Field>
+        <Field Name="HdrDimCaption">
+          <DataField>HdrDimCaption</DataField>
+        </Field>
+        <Field Name="ReportForNavId_6547">
+          <DataField>ReportForNavId_6547</DataField>
+        </Field>
+        <Field Name="ReportForNavId_7551">
+          <DataField>ReportForNavId_7551</DataField>
+        </Field>
+        <Field Name="LineAmt_PurchLine">
+          <DataField>LineAmt_PurchLine</DataField>
+        </Field>
+        <Field Name="LineAmt_PurchLineFormat">
+          <DataField>LineAmt_PurchLineFormat</DataField>
+        </Field>
+        <Field Name="LineNo_PurchLine">
+          <DataField>LineNo_PurchLine</DataField>
+        </Field>
+        <Field Name="AllowInvDisctxt">
+          <DataField>AllowInvDisctxt</DataField>
+        </Field>
+        <Field Name="Type_PurchLine">
+          <DataField>Type_PurchLine</DataField>
+        </Field>
+        <Field Name="No_PurchLine">
+          <DataField>No_PurchLine</DataField>
+        </Field>
+        <Field Name="Desc_PurchLine">
+          <DataField>Desc_PurchLine</DataField>
+        </Field>
+        <Field Name="Qty_PurchLine">
+          <DataField>Qty_PurchLine</DataField>
+        </Field>
+        <Field Name="Qty_PurchLineFormat">
+          <DataField>Qty_PurchLineFormat</DataField>
+        </Field>
+        <Field Name="UOM_PurchLine">
+          <DataField>UOM_PurchLine</DataField>
+        </Field>
+        <Field Name="DirUnitCost_PurchLine">
+          <DataField>DirUnitCost_PurchLine</DataField>
+        </Field>
+        <Field Name="DirUnitCost_PurchLineFormat">
+          <DataField>DirUnitCost_PurchLineFormat</DataField>
+        </Field>
+        <Field Name="LineDisc_PurchLine">
+          <DataField>LineDisc_PurchLine</DataField>
+        </Field>
+        <Field Name="LineDisc_PurchLineFormat">
+          <DataField>LineDisc_PurchLineFormat</DataField>
+        </Field>
+        <Field Name="LineAmt2_PurchLine">
+          <DataField>LineAmt2_PurchLine</DataField>
+        </Field>
+        <Field Name="LineAmt2_PurchLineFormat">
+          <DataField>LineAmt2_PurchLineFormat</DataField>
+        </Field>
+        <Field Name="AllowInvDisc_PurchLine">
+          <DataField>AllowInvDisc_PurchLine</DataField>
+        </Field>
+        <Field Name="HomePage">
+          <DataField>HomePage</DataField>
+        </Field>
+        <Field Name="EMail">
+          <DataField>EMail</DataField>
+        </Field>
+        <Field Name="VATIdentifier_PurchLine">
+          <DataField>VATIdentifier_PurchLine</DataField>
+        </Field>
+        <Field Name="InvDiscAmt_PurchLine">
+          <DataField>InvDiscAmt_PurchLine</DataField>
+        </Field>
+        <Field Name="InvDiscAmt_PurchLineFormat">
+          <DataField>InvDiscAmt_PurchLineFormat</DataField>
+        </Field>
+        <Field Name="TotalInclVAT">
+          <DataField>TotalInclVAT</DataField>
+        </Field>
+        <Field Name="TotalInclVATFormat">
+          <DataField>TotalInclVATFormat</DataField>
+        </Field>
+        <Field Name="TotalInclVATText">
+          <DataField>TotalInclVATText</DataField>
+        </Field>
+        <Field Name="VATAmountText">
+          <DataField>VATAmountText</DataField>
+        </Field>
+        <Field Name="VATAmount">
+          <DataField>VATAmount</DataField>
+        </Field>
+        <Field Name="VATAmountFormat">
+          <DataField>VATAmountFormat</DataField>
+        </Field>
+        <Field Name="TotalExclVATText">
+          <DataField>TotalExclVATText</DataField>
+        </Field>
+        <Field Name="VATDiscountAmount">
+          <DataField>VATDiscountAmount</DataField>
+        </Field>
+        <Field Name="VATDiscountAmountFormat">
+          <DataField>VATDiscountAmountFormat</DataField>
+        </Field>
+        <Field Name="VATBaseAmount">
+          <DataField>VATBaseAmount</DataField>
+        </Field>
+        <Field Name="VATBaseAmountFormat">
+          <DataField>VATBaseAmountFormat</DataField>
+        </Field>
+        <Field Name="TotalAmountInclVAT">
+          <DataField>TotalAmountInclVAT</DataField>
+        </Field>
+        <Field Name="TotalAmountInclVATFormat">
+          <DataField>TotalAmountInclVATFormat</DataField>
+        </Field>
+        <Field Name="TotalSubTotal">
+          <DataField>TotalSubTotal</DataField>
+        </Field>
+        <Field Name="TotalSubTotalFormat">
+          <DataField>TotalSubTotalFormat</DataField>
+        </Field>
+        <Field Name="TotalInvoiceDiscountAmount">
+          <DataField>TotalInvoiceDiscountAmount</DataField>
+        </Field>
+        <Field Name="TotalInvoiceDiscountAmountFormat">
+          <DataField>TotalInvoiceDiscountAmountFormat</DataField>
+        </Field>
+        <Field Name="TotalAmount">
+          <DataField>TotalAmount</DataField>
+        </Field>
+        <Field Name="TotalAmountFormat">
+          <DataField>TotalAmountFormat</DataField>
+        </Field>
+        <Field Name="DirectUniCostCaption">
+          <DataField>DirectUniCostCaption</DataField>
+        </Field>
+        <Field Name="PurchLineLineDiscCaption">
+          <DataField>PurchLineLineDiscCaption</DataField>
+        </Field>
+        <Field Name="VATDiscountAmountCaption">
+          <DataField>VATDiscountAmountCaption</DataField>
+        </Field>
+        <Field Name="No_PurchLineCaption">
+          <DataField>No_PurchLineCaption</DataField>
+        </Field>
+        <Field Name="Desc_PurchLineCaption">
+          <DataField>Desc_PurchLineCaption</DataField>
+        </Field>
+        <Field Name="Qty_PurchLineCaption">
+          <DataField>Qty_PurchLineCaption</DataField>
+        </Field>
+        <Field Name="UOM_PurchLineCaption">
+          <DataField>UOM_PurchLineCaption</DataField>
+        </Field>
+        <Field Name="VATIdentifier_PurchLineCaption">
+          <DataField>VATIdentifier_PurchLineCaption</DataField>
+        </Field>
+        <Field Name="LineDiscountAmount_PurchLine">
+          <DataField>LineDiscountAmount_PurchLine</DataField>
+        </Field>
+        <Field Name="LineDiscountAmount_PurchLineFormat">
+          <DataField>LineDiscountAmount_PurchLineFormat</DataField>
+        </Field>
+        <Field Name="ReportForNavId_3591">
+          <DataField>ReportForNavId_3591</DataField>
+        </Field>
+        <Field Name="LineDimCaption">
+          <DataField>LineDimCaption</DataField>
+        </Field>
+        <Field Name="ReportForNavId_6558">
+          <DataField>ReportForNavId_6558</DataField>
+        </Field>
+        <Field Name="VATAmtLineVATBase">
+          <DataField>VATAmtLineVATBase</DataField>
+        </Field>
+        <Field Name="VATAmtLineVATBaseFormat">
+          <DataField>VATAmtLineVATBaseFormat</DataField>
+        </Field>
+        <Field Name="VATAmtLineVATAmt">
+          <DataField>VATAmtLineVATAmt</DataField>
+        </Field>
+        <Field Name="VATAmtLineVATAmtFormat">
+          <DataField>VATAmtLineVATAmtFormat</DataField>
+        </Field>
+        <Field Name="VATAmtLineLineAmt">
+          <DataField>VATAmtLineLineAmt</DataField>
+        </Field>
+        <Field Name="VATAmtLineLineAmtFormat">
+          <DataField>VATAmtLineLineAmtFormat</DataField>
+        </Field>
+        <Field Name="VATAmtLineInvDiscBaseAmt">
+          <DataField>VATAmtLineInvDiscBaseAmt</DataField>
+        </Field>
+        <Field Name="VATAmtLineInvDiscBaseAmtFormat">
+          <DataField>VATAmtLineInvDiscBaseAmtFormat</DataField>
+        </Field>
+        <Field Name="VATAmtLineInvDiscAmt">
+          <DataField>VATAmtLineInvDiscAmt</DataField>
+        </Field>
+        <Field Name="VATAmtLineInvDiscAmtFormat">
+          <DataField>VATAmtLineInvDiscAmtFormat</DataField>
+        </Field>
+        <Field Name="VATAmtLineVAT">
+          <DataField>VATAmtLineVAT</DataField>
+        </Field>
+        <Field Name="VATAmtLineVATFormat">
+          <DataField>VATAmtLineVATFormat</DataField>
+        </Field>
+        <Field Name="VATAmtLineVATIdentifier">
+          <DataField>VATAmtLineVATIdentifier</DataField>
+        </Field>
+        <Field Name="ReportForNavId_2038">
+          <DataField>ReportForNavId_2038</DataField>
+        </Field>
+        <Field Name="VALExchRate">
+          <DataField>VALExchRate</DataField>
+        </Field>
+        <Field Name="VALSpecLCYHeader">
+          <DataField>VALSpecLCYHeader</DataField>
+        </Field>
+        <Field Name="VALVATAmountLCY">
+          <DataField>VALVATAmountLCY</DataField>
+        </Field>
+        <Field Name="VALVATAmountLCYFormat">
+          <DataField>VALVATAmountLCYFormat</DataField>
+        </Field>
+        <Field Name="VALVATBaseLCY">
+          <DataField>VALVATBaseLCY</DataField>
+        </Field>
+        <Field Name="VALVATBaseLCYFormat">
+          <DataField>VALVATBaseLCYFormat</DataField>
+        </Field>
+        <Field Name="ReportForNavId_3363">
+          <DataField>ReportForNavId_3363</DataField>
+        </Field>
+        <Field Name="PayToVendNo_PurchHeader">
+          <DataField>PayToVendNo_PurchHeader</DataField>
+        </Field>
+        <Field Name="VendAddr8">
+          <DataField>VendAddr8</DataField>
+        </Field>
+        <Field Name="VendAddr7">
+          <DataField>VendAddr7</DataField>
+        </Field>
+        <Field Name="VendAddr6">
+          <DataField>VendAddr6</DataField>
+        </Field>
+        <Field Name="VendAddr5">
+          <DataField>VendAddr5</DataField>
+        </Field>
+        <Field Name="VendAddr4">
+          <DataField>VendAddr4</DataField>
+        </Field>
+        <Field Name="VendAddr3">
+          <DataField>VendAddr3</DataField>
+        </Field>
+        <Field Name="VendAddr2">
+          <DataField>VendAddr2</DataField>
+        </Field>
+        <Field Name="VendAddr1">
+          <DataField>VendAddr1</DataField>
+        </Field>
+        <Field Name="PaymentDetailsCaption">
+          <DataField>PaymentDetailsCaption</DataField>
+        </Field>
+        <Field Name="VendNoCaption">
+          <DataField>VendNoCaption</DataField>
+        </Field>
+        <Field Name="ReportForNavId_8272">
+          <DataField>ReportForNavId_8272</DataField>
+        </Field>
+        <Field Name="SellToCustNo_PurchHeader">
+          <DataField>SellToCustNo_PurchHeader</DataField>
+        </Field>
+        <Field Name="ShipToAddr1">
+          <DataField>ShipToAddr1</DataField>
+        </Field>
+        <Field Name="ShipToAddr2">
+          <DataField>ShipToAddr2</DataField>
+        </Field>
+        <Field Name="ShipToAddr3">
+          <DataField>ShipToAddr3</DataField>
+        </Field>
+        <Field Name="ShipToAddr4">
+          <DataField>ShipToAddr4</DataField>
+        </Field>
+        <Field Name="ShipToAddr5">
+          <DataField>ShipToAddr5</DataField>
+        </Field>
+        <Field Name="ShipToAddr6">
+          <DataField>ShipToAddr6</DataField>
+        </Field>
+        <Field Name="ShipToAddr7">
+          <DataField>ShipToAddr7</DataField>
+        </Field>
+        <Field Name="ShipToAddr8">
+          <DataField>ShipToAddr8</DataField>
+        </Field>
+        <Field Name="ShiptoAddressCaption">
+          <DataField>ShiptoAddressCaption</DataField>
+        </Field>
+        <Field Name="SellToCustNo_PurchHeaderCaption">
+          <DataField>SellToCustNo_PurchHeaderCaption</DataField>
+        </Field>
+        <Field Name="ReportForNavId_1849">
+          <DataField>ReportForNavId_1849</DataField>
+        </Field>
+        <Field Name="PrepmtLineAmount">
+          <DataField>PrepmtLineAmount</DataField>
+        </Field>
+        <Field Name="PrepmtLineAmountFormat">
+          <DataField>PrepmtLineAmountFormat</DataField>
+        </Field>
+        <Field Name="PrepmtInvBufGLAccNo">
+          <DataField>PrepmtInvBufGLAccNo</DataField>
+        </Field>
+        <Field Name="PrepmtInvBufDesc">
+          <DataField>PrepmtInvBufDesc</DataField>
+        </Field>
+        <Field Name="TotalInclVATText2">
+          <DataField>TotalInclVATText2</DataField>
+        </Field>
+        <Field Name="TotalExclVATText2">
+          <DataField>TotalExclVATText2</DataField>
+        </Field>
+        <Field Name="PrepmtInvBufAmt">
+          <DataField>PrepmtInvBufAmt</DataField>
+        </Field>
+        <Field Name="PrepmtInvBufAmtFormat">
+          <DataField>PrepmtInvBufAmtFormat</DataField>
+        </Field>
+        <Field Name="PrepmtVATAmountText">
+          <DataField>PrepmtVATAmountText</DataField>
+        </Field>
+        <Field Name="PrepmtVATAmount">
+          <DataField>PrepmtVATAmount</DataField>
+        </Field>
+        <Field Name="PrepmtVATAmountFormat">
+          <DataField>PrepmtVATAmountFormat</DataField>
+        </Field>
+        <Field Name="PrepmtTotalAmountInclVAT">
+          <DataField>PrepmtTotalAmountInclVAT</DataField>
+        </Field>
+        <Field Name="PrepmtTotalAmountInclVATFormat">
+          <DataField>PrepmtTotalAmountInclVATFormat</DataField>
+        </Field>
+        <Field Name="PrepmtVATBaseAmount">
+          <DataField>PrepmtVATBaseAmount</DataField>
+        </Field>
+        <Field Name="PrepmtVATBaseAmountFormat">
+          <DataField>PrepmtVATBaseAmountFormat</DataField>
+        </Field>
+        <Field Name="PrepmtInvBuDescCaption">
+          <DataField>PrepmtInvBuDescCaption</DataField>
+        </Field>
+        <Field Name="PrepmtInvBufGLAccNoCaption">
+          <DataField>PrepmtInvBufGLAccNoCaption</DataField>
+        </Field>
+        <Field Name="PrepaymentSpecCaption">
+          <DataField>PrepaymentSpecCaption</DataField>
+        </Field>
+        <Field Name="ReportForNavId_6278">
+          <DataField>ReportForNavId_6278</DataField>
+        </Field>
+        <Field Name="ReportForNavId_3388">
+          <DataField>ReportForNavId_3388</DataField>
+        </Field>
+        <Field Name="PrepmtVATAmtLineVATAmt">
+          <DataField>PrepmtVATAmtLineVATAmt</DataField>
+        </Field>
+        <Field Name="PrepmtVATAmtLineVATAmtFormat">
+          <DataField>PrepmtVATAmtLineVATAmtFormat</DataField>
+        </Field>
+        <Field Name="PrepmtVATAmtLineVATBase">
+          <DataField>PrepmtVATAmtLineVATBase</DataField>
+        </Field>
+        <Field Name="PrepmtVATAmtLineVATBaseFormat">
+          <DataField>PrepmtVATAmtLineVATBaseFormat</DataField>
+        </Field>
+        <Field Name="PrepmtVATAmtLineLineAmt">
+          <DataField>PrepmtVATAmtLineLineAmt</DataField>
+        </Field>
+        <Field Name="PrepmtVATAmtLineLineAmtFormat">
+          <DataField>PrepmtVATAmtLineLineAmtFormat</DataField>
+        </Field>
+        <Field Name="PrepmtVATAmtLineVAT">
+          <DataField>PrepmtVATAmtLineVAT</DataField>
+        </Field>
+        <Field Name="PrepmtVATAmtLineVATFormat">
+          <DataField>PrepmtVATAmtLineVATFormat</DataField>
+        </Field>
+        <Field Name="PrepmtVATAmtLineVATId">
+          <DataField>PrepmtVATAmtLineVATId</DataField>
+        </Field>
+        <Field Name="PrepymtVATAmtSpecCaption">
+          <DataField>PrepymtVATAmtSpecCaption</DataField>
+        </Field>
+        <Field Name="ReportForNavId_1000000001">
+          <DataField>ReportForNavId_1000000001</DataField>
+        </Field>
+        <Field Name="SequenceNo_ApprovalEntry">
+          <DataField>SequenceNo_ApprovalEntry</DataField>
+        </Field>
+        <Field Name="SenderID_ApprovalEntry">
+          <DataField>SenderID_ApprovalEntry</DataField>
+        </Field>
+        <Field Name="ApproverID_ApprovalEntry">
+          <DataField>ApproverID_ApprovalEntry</DataField>
+        </Field>
+        <Field Name="DateTimeSentforApproval_ApprovalEntry">
+          <DataField>DateTimeSentforApproval_ApprovalEntry</DataField>
+        </Field>
+        <Field Name="LastDateTimeModified_ApprovalEntry">
+          <DataField>LastDateTimeModified_ApprovalEntry</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>

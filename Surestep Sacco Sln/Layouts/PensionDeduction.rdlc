@@ -1,0 +1,482 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Description>aUUAAN1caW/iSBr+vtL+B8sfdrpXrOP72G1mRBLSQUsgApKeSCOhwi4nnjE2Y5t06F+/VcYG2/UW
+CYEkmu1DhKry895HVbn7yy9P81B4xEkaxFFbVCRZFHDkxl4Q3bfFZeb/yxZ/+fnvf/vya5agEV7E
+SZb20SpeZmOcBCgMfuBE2P54uwHSJVUyKFptSBQGaI7b4jWO6KBwjr2lm5GfROEsjrIkDierBZk/
+x4/dp0WC01SqEJZuepWvakvgLHukpFolZaEtlNy0hLNlmC0TTMYivCSPhC3hejkLA/e/eDWJ/8B0
+tWe5yMa2Klu+jnWZyHAepIsQrbi8F4Qv4mSAHjcCm5ImyZKqGo4oDGe/YzcbxG1R3nzhoV0EOPS+
+4RlR62Pg4pskJAr592+nZ0JnsUh/uw3oAwP8/bd/SmixEIVO+B2t0j72s473+zLNzmIP36JwidO2
+mCVLLAp9FHmpi6hm1wPni6AtqoZesn4TBVlbnOAoe0iHfucqCMNgjjOciMJXL7gigNQmPiLaE4Xe
+HN3jEU7jcJnlgm5mzuL5AmXBLAiDbNUWT8/OwnjpicJ1EkSErUWA0yucPcRe5ZkrlNwHEWFVlYl9
+yB8j/0vUQByiLXaoa7UEa5GJxA0F4csplSX/kXzpZXiulD6FVsR/wu58EcYrjBsetbbNOcoQfYaC
+EC0U325RUoMQSgxpu2aCZiFZkX8YiqGYmmI1Zm8D/L0tjoejSW/w9dM//lzG2X8GsbT+4bPw7bI7
+6n4aZyhbpm03jtLsU4dY/BF//kx0SlRiE0yxkKwhaEVYQKpLjDycrGW6xMH9Q3bRFjXbkBTFccqQ
+Wy9SqrbPzTKMuiT8V9fEpqV3jIP7CNEwaYsWtkxd033L0UzH9xXdmPmyKiNT9w3bdC0TId+zHV+s
+MEpYLZhMa6MNe+XOEq0i8qXKVNPsLSHNVkT1p3FIxDtD0dck/l5yehknPzohYZfAEeel/nqNvHXy
+UlvFb4pKDTXGWR5aa/K53sIFTi6WUR540kWQEJucU44CNy28hTwknQ2vrjuDu0HnqtsS1uYspqYk
+DIgXFyYGXW6Cn7LT+IkEYewiSucijFGWW1tyNK2lq5KsmFTpPzAxm21bkmHaLZNEwAmkPrVQH8Wd
+xU/qR+huLe9152407PeF8c3VVWd0J/R7Y+r568m9dOGYlqRZRov4q2QaxkYZlqxKurZDGVpdGcqr
+lbGn5KTgxV5O+xXS2pJumrKstDSV1CXN3oirWEQNjtnSTcmyFI7Iel1k7c1FBgJiLf8gj9w9BFdl
+UzItk5FbVU2SqpTdcht1ua33NfUrzKwokqkrBN2RbHVPI5t1Ye2PM/KrDKyS3KYZ5n4GtuoyOx8h
+8824O+qd7yWzrtiapNgWk7w04wWGtguh856qlr4Oq1jr2tqL/Hh6Hbi0lu9fuYoHQd82ZEl3jGbx
+Um1VUh21pViOpMh6U+YvJ0Bf8OUkbwqajY76XKOz1dSm5aFlotrsqPVWxpxZtidbsm4rhubbFrYN
+W7ccHXsuadLN2cxH2PHwXq1MjclfR3kfWDKRf6nVZ6AQGLbitORtdtA1VXJUh5a8BkVCcxR/b/JR
+4aVKlaxURJA7MiMK33KVEXIskbXQOGQkhqmtg9WsZaj9MuwgLpPrFXHIoB9Em0YU4p+ythVAlhRV
+sxzHZOOr4U51fp0D+K1U/VdxrFoqqYBARqhx3GhtbLPm8of2bt2r6/7wrtsVrruDcW84EA60gaOp
+mvOMRI3ORZHfQqJRKdFhAlm6blr2MwI1WhL9qPLcDvs3gwntq99PoGbbYR1Voslw0ukfRxqSrhWT
+Kw2pM5z8xRabchxIrdDiHSVMbZYwDSphp7G34hYwUk61snrQhVqtgPma7NjYtJHvIMPXbEV2HdeT
+XQX5loZlhejEULGnHreAaa8sYLksB5Qw7b1KWJol9MQsfU1FAFqvLdzxqxfB7s4Xg8aJyWHMbgCP
+X7qKs80jJRFwi1IQOH6RKqDVIzG/T+++nM+XIaIng8U5ZFIwM20cce7T0h+l0HXOb5VjaQSQvIB/
+s3pmvIr1v2xB0poFSYcK0kUcZzv2VNWStF6q14qSg2wT+6qDZNf2dNfXkOzpuqsiTZ/NZqpueb6i
+zez9DoifLUr6BxUl/T33VWTjrSjPJ/r32DXFGQrT6RlaZI18vvtg5oBc0CT5HjutOAMq1m4Jj5sA
+qxy840ZsjzPkF8v7ftsu86/FfVmTsjjLfXxz8Zt+lNdBnPz/bMv0ZhU0XlEFFUORTHqgXS2ERq0Q
+GoqHHXtm2TMFy9j0ZtjBtqO7su4qCjIdy8EmVpx9dmfNqz7+XZ+zyA6950jwAiXYE05X0mG/XnFV
+YsqSodkt25RsRZPV7f0fPTtX1Bff/6n8THa4hs4esPvHxypIIZ+Oqr9cP41Mr+pvqJ/OMnuIkyD9
+WBWpukM+93ChF3Sbxo5uU660mXKrzBMHtJjGMVpMMAO/ZZY1tu+tnNRfXCEZLlzOI+BNFtaRgGsr
+otx4mbiYvudVWyBtFpw0oVUA+mI4uupMppPheeduKk/1aR2Y+NYcZZ8msYdWLbmlfwZgNYjj7ash
+DU6rEwyUDkBVL9WrSNVxBsiAgNanBPStrQZSdYKBMgGo6vlQFak6zgBZXOHqIGMcYjfDXjnHANkA
+0E2Kk14DqBxjABwA4BSlgUs0UYfYjjIgigygkDSZposmynaURYH8PYqjCXrqzONllNWR6jMsGuTi
+KX21LIuTFWnkmuaqzrBokGcPcMZoqRxjESCHHmYPOOmEIc1aVZTqOIsEeTTTnlbhmEkWE3LtiL6B
+x1MYM8liQl5eObrjHNnVyRStV/Otw/Vw8VHBFArQsjqyTEERQwEaB4n9s7vjMFZOJSVrnwj0Zz5/
+UEC+/LzzMOU1WeVyqUIBv9mX11NzMchigOGO70kENTytGGMR4BAvLxca2bgYZVGg0CYRA7FSGWZx
+oAAnD0BZojLM4kDhDW1Aq4DQPIsMBXn1QKXB4g7bQaFNlbMrY0DzLDIUn+TJnbDPYUIxteaGU1uY
+SbbTgSKAPAZXvdoEiwVFAnmEVx0aUyweFBfkIbiu1yZYLCg6zjuT7vSAX3UGfqJwB+yEfoLYhoKR
+dpqHsL2PTJTWgTu8/QSGssZ5d9z7OuhMesPBMWSqwB2NbSglrancjF5lrAbPG6xjMQxlvoMYnhY7
+RkWRVcswZc14axGgFHtoSDel0NV3CHIor79pkDO2Uj447HWoDB0a9oyU+tsnAh2qgUXnOh2THhUl
+q2k/SLPNdRewbYcW9mchRA4qkXmJnpKqT0+SaGcN0uKt4hACN46kcS8B1h0GSIm7jEMKqnnjsjWa
+bltDkNiOhRxy3G3oc6Q4izhkoApR7n4I076fu+sU9gvuOg4xKLsP8H2+PZqSlp3rFZxFHDJQBs5b
+umne06HIxbDqOIs4ZMD8uFOI53k3oIyTN5Bc2OYsBxjKAOWedUq/wjYGl3BIQFE/WPvHy6LkmcUc
+slAO2LBN96XPSFZdwiHB2XzWXhBgYjB9BhSK8OKOZzqDbc1Mc6ChqL4cTbfGjBud3EvOMjb/lBSi
+CJ65ohWeMjvK685dF95JGlDgDtLUZ0EG4/EFBwQMy4cAArnscUBMzv6T8s5u5LkCmZytJ+WePbLg
+imRydpyUfxaGLxQUKJcpBvbA21EWBYoFsp6QhoG2EywWWOQSFKXQvrwyziJxDl9QyIVrTrKYkE/H
+jzjJguZ1xHaURQGrEVk/IetzJho1qD7F4kH+3bm/T2iJbLBVGWYvSTgujkLyFKCqfJRFgTx83EkS
+jJKUaYF8/zSOltDhmcVxcRTCYOspigiBQY4+fkAJpj1Kg6vtMIvDTfscsOYciwg5fD9G0Qgzp1qV
+YRaH6+4csOYciwg5e/E+bM2l1kPs85yTReI4LEh1nEWCHLwXZYBU21H26o7j3j3AZj3QVjbk2iSf
+US0ySW49yGJw3RoEqs9s0ei9d/UOu3o3vr3u/nKy4/9I+fl/
+</Description>
+  <Author>UEsDBBQAAAAAAII4o1QAAAAAAAAAAAAAAAAKAAAAY3VzdG9tWE1ML1BLAwQUAAAACACWOaNUpq4mWqIAAAAkAQAAEgAAAGN1c3RvbVhNTC9pdGVtLnhtbI2OQQ/BQBSEv7PEf2h6r7YHDlJtXBxFHHBtaKUJJbsIfx6zq+HqsNl5b+bNzOuZUXDnyIGAGxUGS8OJlgkhKQMS/QGVNlvtdzRCe89euVATSTXSVJDTp0fGnFJea6mN9Evdnh2WeuOTFuLdFHyS5Wc7PyM81q5RltGN1auljOTzEFd2nNWm9SmxdD9/q3nmsDpMWWkaqn+qlwiH34bx3x1z3lBLAwQUAAAACABgPK1OutAoA38AAACPAAAAEAAcAGRvY1Byb3BzL2FwcC54bWwgohgAKKAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAPYyxDcMgEEVXQfQ2JEUUIWM3HiArIDhspHCH4Bx5txQZKSuEKuXXe+9/359pOfNTvKC2RGjlZdRSAHoKCTcrD47DXS7z5Ip5VCpQOUETPcFmXLFyZy5GqeZ3yK6N3cAOI9XsuM+6KYoxeVjJHxmQ1VXrm4KTAQOEofw/pVDzD1BLAwQUAAAACABgPK1OaXO5VwUCAAApBgAAEQAcAHdvcmQvZG9jdW1lbnQueG1sIKIYACigFAAAAAAAAAAAAAAAAAAAAAAAAAAAAKVUS27bMBC9isC9LSn+xBHiBEjcGlkUCOoDFDRFSYRFDkFSVtOrddEj9Qod6mMpbRE48YocDt+bNzPk/P756/b+uyyDIzdWgFqTeBqRgCsGqVD5mlQum6zI/d1tnaTAKsmVC/C+skmt2ZoUzukkDC0ruKR2KgUzYCFzUwYyhCwTjIc1mDS8iuKo2WkDjFuL5I9UHaklHZ38lw00V+jMwEjq0DR5KKk5VHqC7Jo6sRelcC/IHS17GkDJRiUdxeQkyEOSVlC39AhzTtwWsukq0EQMDS9RAyhbCD2k8VE2dBY9yfGtJI6yJKcWxPPLerAxtMZlIDxHftqCZNkqf5sxjs7oiKc4Ic6R8Dpmr0RSoYbAHyrNqLjx4n0EV38T6Pyy5mwNVHpgE5exPanDiUvxd3F1TR6nZi8Tsyuoxh8oWfKUKzB0X6IibFmAVQ/8syZ+4uwhffGrDuoEx1P6dU2iaLGY30SfSX+04RmtSjfytEg4+Fmxc9Q4vKqoxADftvBA2cFjRYoIEoTjy59U+soTYmTvt5y5Z/MfDY22fPcDXfhq4/jGz6E6KXC/XM1WHb3Ov1CPdoC/K76O4ka7yAvnMbO5N/fgHMjBXfJs5C04TTnOqeto5c0MwI3MvHKN2afDoLR4bDVlvLsUdvN7a4RPsRSKPwvHUOhsecq1TbPZtoUPh5l/9wdQSwMEFAAAAAgAYDytTqa9dSKkAQAANAUAABEAHAB3b3JkL3NldHRpbmdzLnhtbCCiGAAooBQAAAAAAAAAAAAAAAAAAAAAAAAAAAC1VF1um0AQvgri3QZHaRWhOFGk1GqiuH1wLrCGwR5ldwfNDqb0an3okXqFDtjESStZtFGeWNj9/pZv99ePn5fX35yNdsAByc/j2TSNI/A5Feg387iWcnIRX19dNlkAEf0WIl3vQ+byebwVqbIkCfkWnAlTqsDrZEnsjOgrbxJn+KmuJjm5ygiu0aK0yVmafowPNKQa7LMDxcRhzhSolA6SUVliDofHgOAxunvILeW1Ay+9YsJg1QP5sMUqDGzuf9l0cjuQ7E6F2Dk7rGtm6Yi4DXHxjBhjrwNUTDmEoD/I2cEg+qPw+V9Ez9pT1T5E7KkUPkv70UvnH/6N4OwPgmDHJNlPPeCaDbcvY7g8u9t4YrO2MI81TqSO4q6W+2p1ozrA4tODaamWKDlOrfa9jZrMG6fgV11cUqHFUizj+HwdYGc0kFo4pUR6qhgLeOxcr6S1sCAvK/wON764r4OgUvaVfIOFkw7Ad9JfdaMf2woWYKRmCO+lVtAXkoXFaonMxHe+0NPyfmpYlsCqgEZgWVtBpqbf6s9gCr3P3iqcHMuVHK+/q99QSwMEFAAAAAgAYDytTs+CTLDhAAAAvQEAABwAHAB3b3JkL19yZWxzL2RvY3VtZW50LnhtbC5yZWxzIKIYACigFAAAAAAAAAAAAAAAAAAAAAAAAAAAALWRO27DMAyGryJwr2U7ghMXcbJ0KdAuQYaskkzbQqMHJLqPs3XokXqFqEURJECHLh35k/z4Afx8/1hvX+2RPWNMxrsOqqIEhk773rixg5mGmxVsN+sdHiXliTSZkFhecamDiSjccp70hFamwgd0uTP4aCXlMo48SP0kR+R1WTY8XjLgmsn2bwH/QvTDYDTeeT1bdPQLmCckyvIJ2F7GEakD/uJjf86LTAR233ewW7SqqpRalKIRYiklMP5vWnpO5O3h6/bZ6yd7fOCG0F6IiZXqWyFqhUsh2qb+FuNXT9icAFBLAwQUAAAACACEivBU4r0EZh8BAAAiAwAAEwAcAFtDb250ZW50X1R5cGVzXS54bWwgohgAKKAUAAAAAAAAAAAAAAAAAAAAAAAAAAAApZI9TsNAEIWvYm2L7DUUCCHbKYCOnxQUtKvdsb3C+6OdcQhno+BIXIFxDCkgCkEp7Zl533tP+/H2Xi3WbshWkNAGX4vTohQZeB2M9V0tRmrzC7FoqsfXCJjxqsda9ETxUkrUPTiFRYjgedKG5BTxZ+pkVPpZdSDPyvJc6uAJPOU0aYimuoZWjQNlN2v+PWP5XGRX896EqoWKcbBaEY/lypsfkDy0rdVggh4dnxQvIZmYggZE9u2GYjtxyvqTjbzcSU4w4P/QX9kKvtzsYG8jbhEPXGWyBrKlSnSvHOtJNrNMIaJk5eLYqDB5N2ByzhshkYX98KkaiUDExeDR9F9Ffyvv9aBHpOCe7m6lJXB/mDioyVnx6DizzK4q5ebFN59QSwMECgAAAAAAhIrwVMByDE9tAgAAbQIAAAsAHABfcmVscy8ucmVscyCiGAAooBQAAAAAAAAAAAAAAAAAAAAAAAAAAADvu788P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJ1dGYtOCI/PjxSZWxhdGlvbnNoaXBzIHhtbG5zPSJodHRwOi8vc2NoZW1hcy5vcGVueG1sZm9ybWF0cy5vcmcvcGFja2FnZS8yMDA2L3JlbGF0aW9uc2hpcHMiPjxSZWxhdGlvbnNoaXAgVHlwZT0iaHR0cDovL3NjaGVtYXMub3BlbnhtbGZvcm1hdHMub3JnL29mZmljZURvY3VtZW50LzIwMDYvcmVsYXRpb25zaGlwcy9vZmZpY2VEb2N1bWVudCIgVGFyZ2V0PSIvd29yZC9kb2N1bWVudC54bWwiIElkPSJSZDZmNmEzMDJmMTE0NDFiYyIgLz48UmVsYXRpb25zaGlwIFR5cGU9Imh0dHA6Ly9zY2hlbWFzLm9wZW54bWxmb3JtYXRzLm9yZy9vZmZpY2VEb2N1bWVudC8yMDA2L3JlbGF0aW9uc2hpcHMvZXh0ZW5kZWQtcHJvcGVydGllcyIgVGFyZ2V0PSIvZG9jUHJvcHMvYXBwLnhtbCIgSWQ9IlJlMzBlZTQ3NGMxYWM0MjIzIiAvPjxSZWxhdGlvbnNoaXAgVHlwZT0iaHR0cDovL3NjaGVtYXMub3BlbnhtbGZvcm1hdHMub3JnL29mZmljZURvY3VtZW50LzIwMDYvcmVsYXRpb25zaGlwcy9jdXN0b20tcHJvcGVydGllcyIgVGFyZ2V0PSIvZG9jUHJvcHMvY3VzdG9tLnhtbCIgSWQ9IlJlYmNiNzYwM2I4MzI0N2I3IiAvPjwvUmVsYXRpb25zaGlwcz5QSwMEFAAAAAgAhIrwVA3UCLXHDQAA9BIAABMAHABkb2NQcm9wcy9jdXN0b20ueG1sIKIYACigFAAAAAAAAAAAAAAAAAAAAAAAAAAAALVYWc+syJF9/6T6D1f3tXzNvlSr2xYUa7Hvyxv7vkMBZfV/H9rT3bal0TyMNC9ARgSRCRlxTmT8/Peja7+9s3mphv6X79Bfwe/fsj4Z0qovfvm+rfkP8vvf//bzMP6kz8OYzWuVLd+uV/rlp2H85Xu5ruNPALAkZdZFy18vi/5S5sPcRes1nAtgyPMqyZgh2bqsXwEYBHEg2ZZ16H6Mf3r8/s8Zfh+f3/JurdJfvv8jAvEMhEnsB/pA0R8oiqQ/ojRCfsQESBIJmGRZhv76/dv4mzH8/Vsfddkv3/+Y6vL5Xn9qx31Z599X/F7/rytOh+S3719c+xx/W27kOBSlQknkAZVFz/f3Kt9pcsnTefRnTSdgHupMWrYMZymoUcqsp1buFdr3NQsH2Ari3B1wk4CHAce7fT0Dtuk2iCml+SQfmODGPXGeD52EaPRgm+jguNh9miEnMM3RogYS51yYxcB5hMA979858D4jLCpYl2BvX1YYw6A1ZmGnJfSzUPKNZmEdQ7ddsF6uc0rcuFq0wUciEaO1p+ESvdcz3HYYn5sau9Sz2DBVNtNhA9y+DhRIR9B7gpA1sa9wy0bvHTXvQha2ZuSGNozYtVVPsJTVtnuCtq0E1ftp6eUTKbO6kSkgAzLGewEkDd6+Vi/DTiWCpXa7170XngKVjeJizHFFcqjxRjuLEurk2WFid4bSxA/owPAZEHyS+OAhE+k/5eCCrKZb99sXarYmDusFOi7Ni5qxB3zvQ/DVL04JbDsyULtOAnEKWF11sKKr3Wl4BWsCXlACuX9k9dOJOoK/9irV4NtX93RlmRofnNCNFV520K73FU6t0xBmS4/atNvGvUYNGVgJ+ZZMT0Ut6lpLKuXly0RRFarR6ZUcsaif3b4EFalZh6iTV98WHdZ9NhmjOp+WqYqJVcezSUDb+3qskhfENhY7Ox4FnluiJ2aGhc3cqrvAepzbBu3j9nXSZA2Ab8egz0r2oyEiHDbC+NdBgRyaLGNr+UDjf8bQr7aWwTl3MYF9w0g2CeaaXrI1jlUtGYw8iJ63L/YJOgiMmc6gGFZxjBscPcOKCxufDKqJD7pOhMKOZAAZXOshqy0P2B+pAgDth4d9kl9i+47G+k7EInH7wns0Cs8yHjsQqVd5cdA0AGgOAJoDtFqzYsHzaKS9jFg3MKRRrpkzmXkPPxThcYWyydV+3NA2lySTcfvyzoc1zbH+sSVlq2zSfeTsOLlILerEU2X3KFi8tTlSEEFk0PkIj8NPO707pUq1HzsSp1cMiun9I7j35falsGMgh6US4Yqa3X2NncCKnHzJVfVFtgTVbWxoRDjxYFYGTJMGaLEzK5te/wxlEOYUm2Ut0E/qW/DP25fTvrkYHSXG9nnPxKIIkDBkETm7wj3HxFCw8Qz2tSUOij7VEyZLe296A37P9cZsoNBP62JBW7CMU9Dcvhix8Lkz4H0Pf/aEbN/Fhg2yvbK2pKo53vOg9VQluJ0waek4e9Q/1NHBUNx0QiSH16+gukafXUMgvfTKUweYzHu5ydkDwmAUJPSMIxPEdb0UfAEmEdxnDCe7R6rxQTuZoTm80Qk2oqMJwnY6pG0OGd4dUz6Z5ttXG/M9JtnF4WLa/fAteHxt3SwtK2O50NNXkaGaPdZQ67W37KQ7OZEQsxZqiATi6OJVyTlZ1I/9QXNpe/23j7g22IVhDmxNo50m5QptEYKouTN/pH1opmamVdiMBVcXsRUKMlhXAGlmpNNCpCDEepRft+HUDrK8fZEkjGr3KSVO73OxRzSqhdcQO4juHr8WW0li+NTOqDZBF6qtkwwIJS7EFdhuj3wLBsFISThkW6Tm4+NaWwe5TglDo1tpo1Lizj14v0A6JzWnifcpqgMC9yXtA6VWh0VcO6zzMumud4xHeLFUvHToXG5xzM2BekUvkSSCv2xRKqtwcgiwLuz+BCl10uYm0uQeI5k53rshThm8HFerZq7pSkGu/3JKLCLpxn0mhwnEwMu88C1ypTY6HPNFEUqlSAgiuawvLk3sGxpvNOXUrcXDW8KofijbXsijPnO+IA70g+3AwEHH+7mWLtWWpnv7Wo6PEGrajDoYlI8gc5cgB3DTY+aGaQpoypzKA+HLNZb1jhxyOF7hGQeIfV4Xd543JvFIlKVwsIi08ULLt6aYIqKZoZAb08uUUq6k2g6P2xlWdhHySvkx6XLCvBek2Pt1ejz0gY/jwITcYWl3cGty85isufTs25e0w6OCfcjDjOKkPMQ5ZSrBcpU4DHbGGsuR4BG0DHanwaGln43SndZC7yJCrYP1JbxFRfdj1oWFNLu8+YaPtUPYXgTEOjLfC3NGRRG5BHKz0Jhx4RYkea+hfSjGkjsQR3HTW04/x3TkNLGgfkFGr9MTlLh46pc3YpIWEqxfJrdXkGhoAm5KE+OKHx6w7/d7r9x9MRL7gnSwkBN3BQaTJCNssLy3oOBrMebWkWEZb5G++HRBxu4tztAbPmhwHDgrSCSwcZLw84Zd1bNWDp8gdLIKeLfv+MSEag6nau432mfcpqWyQ0ANp3HLYry6fX2yz4MZqlx2Zpw+nBawEcT17Hq2av0FzAjM+BxvzDZutlEoQuT7vRbYQCfg08aEels1SpmgDn3V2ELdvqbjJFEwXOqP3nDkm8jXZSNxgMvdzl7qWs7940OG671VU/qCSCBW3mBYOqDfshznaKYtTMWFFaw5gReS88MkCP7awbbCnY8aDNeaXieNWDZ0etZiepJs547HI+1ydfoQdz+8f04Kf2BgvVOVH7Ag5oMdD/g9d0VvsEzWkDbrRVuLGeoukYO5bq8+ROc5gPekLURouaDZor+F4xxFMbxr0/xIdBRS5vv4nl6ApvSb2JzMxace7Y1bo9wfyLPkECs+BmxzcBzsfGn+0IqwvmpecUdFoTQgDANo3e5rr5q5/2RDuf1o4p1WuTUyC3650HJYD7SLq+C9pa530is37uDgOtS9E9FtG5Vx1MssSzepAaDIhIO7GiRhSHZLkHpyfFWfe1ioQV0T0XLhG+PgM7ufDtPQrvzwZkt1D3qpqEKNelq31tkIrTSQaKXgB/zdGlzU4J+CDn1NmEReSYI6Z/y6Fyi1ufYUZGGpgVBmoo+aoncKpa22cBbQCfJrRvEqW86iYaxwHJbu7CPHDARSD6b66c/TR1PbVvVMvFYWfrOveJN8GJLFzea8/qpYo+kz00PDX0WLEg6TedSs9RSELtA1rWPFBIrc0J40cWEz27b7Ni47tvFYRF4rGacvzoKUQCHbymixTIvnWlB79zSt1QW0dQfcnXQFmqNmY6mn02ZZ09jZiEb7x0K8a4ULtZflzv1+RdYHuzLLYZ93QP58FM2BvMw9J0ek34/OhyD1oyRlVWi8RoANq9rnyvOKidLUWz6SCI6LIHT5AnwGJkVwFu+FFy8MFNUzIB0OtaygDVMyHkRNKGPo4qLQfg8Zkk+jBREbEae2sTIHIPORGdHp7/arjxk9cMRjzSLeuQj/qsnj2C4sidKp0H+nA1vtLkf1HeseYOSce8bReSPG1QadYSA/C/xTbzbxtigfcfh8eu30/WTzQQ7KQbp4IR0nYZFh3X7ZXmFvJGBY/LKEWPr4ENpWKlcS0IpnTTsNq7FVtHPUJzWHtTMV6zx+1IpxtO9BCfoyuOo3s/FMN1n2MIHQ6OALTlgHi8laUHWR50UmM/EYG0aDnRpFCcEbGBqMHsPp3Nelp0p4Khy/10rYFkrn4voJbgBL1tXUzPY4SLxHl5QmhU6N3736UZps8G5FfKKCm7SiJfVUUbxJLJKGSpC3xI6oWUWarnPSUnvR7StuV6ZRK600jxPhkSHBDbT6lM1AjSbRoyJI4Pl2X5xH8d60Aj0kedFJAb7r4WS1IzJz4XEdml4GvWDx7Wvr+gzEBfGImd+iEg0Vhtw4TcSQBhnE01YxOoG1YLlSRaI0L0udCdjrgG8RWjQ4FvAubDlxuekSJ7mQvKU0WKbVB+7rFhemeyXQsP/x/JIugpp+0KUlkZqkhZ+JiRNISfBnOcloYsc5X9NbirAXhdYx0NLWlVnPF44NpZcp9VvCSSzlHtiLb5mCWWUnBFkeBViO3g3lRBOKmvslcWjl88ZtcsE2TG6eXXiur7uX6bFc3L6qzjzT8XTyI+Llw3CkVzLS75iCIdajg4FbRtwoBx5mz93zNMPiJN94z/v5qV4H0z6MU3Rne5aChgWE21f9qV/FFkKHcOGDwc+s2wBitn5e5QBNDMGhjXBH4g6w4eoVy7TLe8HbsovtOv6dnPSc8os6C/sgkeugc3l7SU4UcCTwsbRre8sucY/EtJ+BtoxVUdFGgN7zhnqNNSQV+HtVxDdj50uyaEFS7QWWMw8eNIrPCE2/8YIZCfgd/VObAew9VuCrFtUXEjttMxNRmS2hnvWegrz7YUA7MCTA+EDUSI1QYY0Ybh03cGXlF4ZY4Gl56OPkXztiDuy0PBYwqx4p4GgbMiDvGdmAXjpR4CHe8xb4Gfizx/C3n4F/62H8zw0NkEzBDCKyHxmGPX6gGIz/iPEE/BFFGQgiYEYm2eOPhgbyZ0MjWqPn0K9zlPz/NjX+cfv69u0/p/vp2z+Fl9j97xbRJYH+8rvoN0txzbrlX2aXVI/OeWhbthvb4cyyf9ddWnW4BBiEQTgCEX/5NwVXZW26/Kf1H/YQ+C/Zr388/v7wz9t1+fV/2QrgP9pXf/svUEsBAj8AFAAAAAAAgjijVAAAAAAAAAAAAAAAAAoAJAAAAAAAAAAQAAAAAAAAAGN1c3RvbVhNTC8KACAAAAAAAAEAGADre/Y0q17YAet79jSrXtgB63v2NKte2AFQSwECPwAUAAAACACWOaNUpq4mWqIAAAAkAQAAEgAkAAAAAAAAACAAAAAoAAAAY3VzdG9tWE1ML2l0ZW0ueG1sCgAgAAAAAAABABgAMc9ya6xe2AFfFql4rF7YARlqbSepXtgBUEsBAi0AFAAAAAgAYDytTrrQKAN/AAAAjwAAABAAAAAAAAAAAAAAAAAA+gAAAGRvY1Byb3BzL2FwcC54bWxQSwECLQAUAAAACABgPK1OaXO5VwUCAAApBgAAEQAAAAAAAAAAAAAAAADDAQAAd29yZC9kb2N1bWVudC54bWxQSwECLQAUAAAACABgPK1Opr11IqQBAAA0BQAAEQAAAAAAAAAAAAAAAAATBAAAd29yZC9zZXR0aW5ncy54bWxQSwECLQAUAAAACABgPK1Oz4JMsOEAAAC9AQAAHAAAAAAAAAAAAAAAAAACBgAAd29yZC9fcmVscy9kb2N1bWVudC54bWwucmVsc1BLAQItABQAAAAIAISK8FTivQRmHwEAACIDAAATAAAAAAAAAAAAAAAAADkHAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0ACgAAAAAAhIrwVMByDE9tAgAAbQIAAAsAAAAAAAAAAAAAAAAApQgAAF9yZWxzLy5yZWxzUEsBAi0AFAAAAAgAhIrwVA3UCLXHDQAA9BIAABMAAAAAAAAAAAAAAAAAVwsAAGRvY1Byb3BzL2N1c3RvbS54bWxQSwUGAAAAAAkACQCBAgAAaxkAAAAA
+</Author>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <Height>2in</Height>
+      </Body>
+      <Width>6.5in</Width>
+      <Page></Page>
+    </ReportSection>
+  </ReportSections>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="ReportForNavId_8631">
+          <DataField>ReportForNavId_8631</DataField>
+        </Field>
+        <Field Name="CompanyInfo_Picture">
+          <DataField>CompanyInfo_Picture</DataField>
+        </Field>
+        <Field Name="FORMAT_TODAY_0_4_">
+          <DataField>FORMAT_TODAY_0_4_</DataField>
+        </Field>
+        <Field Name="COMPANYNAME">
+          <DataField>COMPANYNAME</DataField>
+        </Field>
+        <Field Name="PeriodName">
+          <DataField>PeriodName</DataField>
+        </Field>
+        <Field Name="PayrollMode">
+          <DataField>PayrollMode</DataField>
+        </Field>
+        <Field Name="strEmpName">
+          <DataField>strEmpName</DataField>
+        </Field>
+        <Field Name="Period">
+          <DataField>Period</DataField>
+        </Field>
+        <Field Name="UserId">
+          <DataField>UserId</DataField>
+        </Field>
+        <Field Name="BasicPay">
+          <DataField>BasicPay</DataField>
+        </Field>
+        <Field Name="BasicPayFormat">
+          <DataField>BasicPayFormat</DataField>
+        </Field>
+        <Field Name="Grosspay">
+          <DataField>Grosspay</DataField>
+        </Field>
+        <Field Name="GrosspayFormat">
+          <DataField>GrosspayFormat</DataField>
+        </Field>
+        <Field Name="nonTaxAmount">
+          <DataField>nonTaxAmount</DataField>
+        </Field>
+        <Field Name="nonTaxAmountFormat">
+          <DataField>nonTaxAmountFormat</DataField>
+        </Field>
+        <Field Name="statutoryDed">
+          <DataField>statutoryDed</DataField>
+        </Field>
+        <Field Name="statutoryDedFormat">
+          <DataField>statutoryDedFormat</DataField>
+        </Field>
+        <Field Name="NetPay">
+          <DataField>NetPay</DataField>
+        </Field>
+        <Field Name="NetPayFormat">
+          <DataField>NetPayFormat</DataField>
+        </Field>
+        <Field Name="OtherAllow">
+          <DataField>OtherAllow</DataField>
+        </Field>
+        <Field Name="OtherAllowFormat">
+          <DataField>OtherAllowFormat</DataField>
+        </Field>
+        <Field Name="TotalDeductions">
+          <DataField>TotalDeductions</DataField>
+        </Field>
+        <Field Name="TotalDeductionsFormat">
+          <DataField>TotalDeductionsFormat</DataField>
+        </Field>
+        <Field Name="nonstatutoryDed">
+          <DataField>nonstatutoryDed</DataField>
+        </Field>
+        <Field Name="nonstatutoryDedFormat">
+          <DataField>nonstatutoryDedFormat</DataField>
+        </Field>
+        <Field Name="CummulativePension_PayrollEmployee">
+          <DataField>CummulativePension_PayrollEmployee</DataField>
+        </Field>
+        <Field Name="CummulativePension_PayrollEmployeeFormat">
+          <DataField>CummulativePension_PayrollEmployeeFormat</DataField>
+        </Field>
+        <Field Name="CummEmployerPensionLCY_PayrollEmployee">
+          <DataField>CummEmployerPensionLCY_PayrollEmployee</DataField>
+        </Field>
+        <Field Name="CummEmployerPensionLCY_PayrollEmployeeFormat">
+          <DataField>CummEmployerPensionLCY_PayrollEmployeeFormat</DataField>
+        </Field>
+        <Field Name="CummulativeEmployerPension_PayrollEmployee">
+          <DataField>CummulativeEmployerPension_PayrollEmployee</DataField>
+        </Field>
+        <Field Name="CummulativeEmployerPension_PayrollEmployeeFormat">
+          <DataField>CummulativeEmployerPension_PayrollEmployeeFormat</DataField>
+        </Field>
+        <Field Name="Pension">
+          <DataField>Pension</DataField>
+        </Field>
+        <Field Name="PensionFormat">
+          <DataField>PensionFormat</DataField>
+        </Field>
+        <Field Name="negNet">
+          <DataField>negNet</DataField>
+        </Field>
+        <Field Name="negNetFormat">
+          <DataField>negNetFormat</DataField>
+        </Field>
+        <Field Name="strCodes">
+          <DataField>strCodes</DataField>
+        </Field>
+        <Field Name="TotnegNet">
+          <DataField>TotnegNet</DataField>
+        </Field>
+        <Field Name="TotnegNetFormat">
+          <DataField>TotnegNetFormat</DataField>
+        </Field>
+        <Field Name="TotNetPay">
+          <DataField>TotNetPay</DataField>
+        </Field>
+        <Field Name="TotNetPayFormat">
+          <DataField>TotNetPayFormat</DataField>
+        </Field>
+        <Field Name="totTotalDeductions">
+          <DataField>totTotalDeductions</DataField>
+        </Field>
+        <Field Name="totTotalDeductionsFormat">
+          <DataField>totTotalDeductionsFormat</DataField>
+        </Field>
+        <Field Name="TotPension">
+          <DataField>TotPension</DataField>
+        </Field>
+        <Field Name="TotPensionFormat">
+          <DataField>TotPensionFormat</DataField>
+        </Field>
+        <Field Name="TotnonstatutoryDed">
+          <DataField>TotnonstatutoryDed</DataField>
+        </Field>
+        <Field Name="TotnonstatutoryDedFormat">
+          <DataField>TotnonstatutoryDedFormat</DataField>
+        </Field>
+        <Field Name="TotstatutoryDed">
+          <DataField>TotstatutoryDed</DataField>
+        </Field>
+        <Field Name="TotstatutoryDedFormat">
+          <DataField>TotstatutoryDedFormat</DataField>
+        </Field>
+        <Field Name="TotnonTaxAmount">
+          <DataField>TotnonTaxAmount</DataField>
+        </Field>
+        <Field Name="TotnonTaxAmountFormat">
+          <DataField>TotnonTaxAmountFormat</DataField>
+        </Field>
+        <Field Name="TotGrosspay">
+          <DataField>TotGrosspay</DataField>
+        </Field>
+        <Field Name="TotGrosspayFormat">
+          <DataField>TotGrosspayFormat</DataField>
+        </Field>
+        <Field Name="TotOtherAllow">
+          <DataField>TotOtherAllow</DataField>
+        </Field>
+        <Field Name="TotOtherAllowFormat">
+          <DataField>TotOtherAllowFormat</DataField>
+        </Field>
+        <Field Name="TotBasicPay">
+          <DataField>TotBasicPay</DataField>
+        </Field>
+        <Field Name="TotBasicPayFormat">
+          <DataField>TotBasicPayFormat</DataField>
+        </Field>
+        <Field Name="DATE____________________________________________________________">
+          <DataField>DATE____________________________________________________________</DataField>
+        </Field>
+        <Field Name="NAME_________________________________________________________________________________________">
+          <DataField>NAME_________________________________________________________________________________________</DataField>
+        </Field>
+        <Field Name="DESIGNATION_____________________________________________________">
+          <DataField>DESIGNATION_____________________________________________________</DataField>
+        </Field>
+        <Field Name="SIGNATURE____________________________________________________">
+          <DataField>SIGNATURE____________________________________________________</DataField>
+        </Field>
+        <Field Name="SIGNATURE_____________________________________________________Control1102756035">
+          <DataField>SIGNATURE_____________________________________________________Control1102756035</DataField>
+        </Field>
+        <Field Name="DATE_____________________________________________________________Control1102756042">
+          <DataField>DATE_____________________________________________________________Control1102756042</DataField>
+        </Field>
+        <Field Name="NAME__________________________________________________________________________________________Control1102756031">
+          <DataField>NAME__________________________________________________________________________________________Control1102756031</DataField>
+        </Field>
+        <Field Name="DESIGNATION______________________________________________________Control1102756034">
+          <DataField>DESIGNATION______________________________________________________Control1102756034</DataField>
+        </Field>
+        <Field Name="Payroll_Summary_ListCaption">
+          <DataField>Payroll_Summary_ListCaption</DataField>
+        </Field>
+        <Field Name="Gross_Taxable_PayCaption">
+          <DataField>Gross_Taxable_PayCaption</DataField>
+        </Field>
+        <Field Name="Non_Taxable_AmountCaption">
+          <DataField>Non_Taxable_AmountCaption</DataField>
+        </Field>
+        <Field Name="Statutory_DeductionsCaption">
+          <DataField>Statutory_DeductionsCaption</DataField>
+        </Field>
+        <Field Name="Total_DeductionsCaption">
+          <DataField>Total_DeductionsCaption</DataField>
+        </Field>
+        <Field Name="Pension_Staff_Cont_Caption">
+          <DataField>Pension_Staff_Cont_Caption</DataField>
+        </Field>
+        <Field Name="Negative_Net_PayCaption">
+          <DataField>Negative_Net_PayCaption</DataField>
+        </Field>
+        <Field Name="Other_AllowancesCaption">
+          <DataField>Other_AllowancesCaption</DataField>
+        </Field>
+        <Field Name="Net_PayCaption">
+          <DataField>Net_PayCaption</DataField>
+        </Field>
+        <Field Name="Basic_PayCaption">
+          <DataField>Basic_PayCaption</DataField>
+        </Field>
+        <Field Name="Employee_Name_Caption">
+          <DataField>Employee_Name_Caption</DataField>
+        </Field>
+        <Field Name="Non_Statutory_DeductionsCaption">
+          <DataField>Non_Statutory_DeductionsCaption</DataField>
+        </Field>
+        <Field Name="Employee_Code_Caption">
+          <DataField>Employee_Code_Caption</DataField>
+        </Field>
+        <Field Name="Totals_Caption">
+          <DataField>Totals_Caption</DataField>
+        </Field>
+        <Field Name="Checked_byCaption">
+          <DataField>Checked_byCaption</DataField>
+        </Field>
+        <Field Name="HR_Employee_No_">
+          <DataField>HR_Employee_No_</DataField>
+        </Field>
+        <Field Name="Paye_Ded">
+          <DataField>Paye_Ded</DataField>
+        </Field>
+        <Field Name="Paye_DedFormat">
+          <DataField>Paye_DedFormat</DataField>
+        </Field>
+        <Field Name="Nssf_Ded">
+          <DataField>Nssf_Ded</DataField>
+        </Field>
+        <Field Name="Nssf_DedFormat">
+          <DataField>Nssf_DedFormat</DataField>
+        </Field>
+        <Field Name="Nhif_Ded">
+          <DataField>Nhif_Ded</DataField>
+        </Field>
+        <Field Name="Nhif_DedFormat">
+          <DataField>Nhif_DedFormat</DataField>
+        </Field>
+        <Field Name="TotPAYE">
+          <DataField>TotPAYE</DataField>
+        </Field>
+        <Field Name="TotPAYEFormat">
+          <DataField>TotPAYEFormat</DataField>
+        </Field>
+        <Field Name="TotNSSF">
+          <DataField>TotNSSF</DataField>
+        </Field>
+        <Field Name="TotNSSFFormat">
+          <DataField>TotNSSFFormat</DataField>
+        </Field>
+        <Field Name="TotNHIF">
+          <DataField>TotNHIF</DataField>
+        </Field>
+        <Field Name="TotNHIFFormat">
+          <DataField>TotNHIFFormat</DataField>
+        </Field>
+        <Field Name="HseAllow">
+          <DataField>HseAllow</DataField>
+        </Field>
+        <Field Name="HseAllowFormat">
+          <DataField>HseAllowFormat</DataField>
+        </Field>
+        <Field Name="HseTotAllow">
+          <DataField>HseTotAllow</DataField>
+        </Field>
+        <Field Name="HseTotAllowFormat">
+          <DataField>HseTotAllowFormat</DataField>
+        </Field>
+        <Field Name="TransAllow">
+          <DataField>TransAllow</DataField>
+        </Field>
+        <Field Name="TransAllowFormat">
+          <DataField>TransAllowFormat</DataField>
+        </Field>
+        <Field Name="TotalTransAllow">
+          <DataField>TotalTransAllow</DataField>
+        </Field>
+        <Field Name="TotalTransAllowFormat">
+          <DataField>TotalTransAllowFormat</DataField>
+        </Field>
+        <Field Name="overtime">
+          <DataField>overtime</DataField>
+        </Field>
+        <Field Name="overtimeFormat">
+          <DataField>overtimeFormat</DataField>
+        </Field>
+        <Field Name="OverTimeTotal">
+          <DataField>OverTimeTotal</DataField>
+        </Field>
+        <Field Name="OverTimeTotalFormat">
+          <DataField>OverTimeTotalFormat</DataField>
+        </Field>
+        <Field Name="Aggregate">
+          <DataField>Aggregate</DataField>
+        </Field>
+        <Field Name="AggregateFormat">
+          <DataField>AggregateFormat</DataField>
+        </Field>
+        <Field Name="TotalAgg">
+          <DataField>TotalAgg</DataField>
+        </Field>
+        <Field Name="TotalAggFormat">
+          <DataField>TotalAggFormat</DataField>
+        </Field>
+        <Field Name="SArrears">
+          <DataField>SArrears</DataField>
+        </Field>
+        <Field Name="SArrearsFormat">
+          <DataField>SArrearsFormat</DataField>
+        </Field>
+        <Field Name="TotalSArrears">
+          <DataField>TotalSArrears</DataField>
+        </Field>
+        <Field Name="TotalSArrearsFormat">
+          <DataField>TotalSArrearsFormat</DataField>
+        </Field>
+        <Field Name="ShareCont">
+          <DataField>ShareCont</DataField>
+        </Field>
+        <Field Name="ShareContFormat">
+          <DataField>ShareContFormat</DataField>
+        </Field>
+        <Field Name="TotalShareCont">
+          <DataField>TotalShareCont</DataField>
+        </Field>
+        <Field Name="TotalShareContFormat">
+          <DataField>TotalShareContFormat</DataField>
+        </Field>
+        <Field Name="LoanRepay">
+          <DataField>LoanRepay</DataField>
+        </Field>
+        <Field Name="LoanRepayFormat">
+          <DataField>LoanRepayFormat</DataField>
+        </Field>
+        <Field Name="TotalLoanRepay">
+          <DataField>TotalLoanRepay</DataField>
+        </Field>
+        <Field Name="TotalLoanRepayFormat">
+          <DataField>TotalLoanRepayFormat</DataField>
+        </Field>
+        <Field Name="ADV12">
+          <DataField>ADV12</DataField>
+        </Field>
+        <Field Name="ADV12Format">
+          <DataField>ADV12Format</DataField>
+        </Field>
+        <Field Name="TotalADV12">
+          <DataField>TotalADV12</DataField>
+        </Field>
+        <Field Name="TotalADV12Format">
+          <DataField>TotalADV12Format</DataField>
+        </Field>
+        <Field Name="IntRepay">
+          <DataField>IntRepay</DataField>
+        </Field>
+        <Field Name="IntRepayFormat">
+          <DataField>IntRepayFormat</DataField>
+        </Field>
+        <Field Name="TotInt">
+          <DataField>TotInt</DataField>
+        </Field>
+        <Field Name="TotIntFormat">
+          <DataField>TotIntFormat</DataField>
+        </Field>
+        <Field Name="HseLoan">
+          <DataField>HseLoan</DataField>
+        </Field>
+        <Field Name="HseLoanFormat">
+          <DataField>HseLoanFormat</DataField>
+        </Field>
+        <Field Name="TotalHseLoan">
+          <DataField>TotalHseLoan</DataField>
+        </Field>
+        <Field Name="TotalHseLoanFormat">
+          <DataField>TotalHseLoanFormat</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>

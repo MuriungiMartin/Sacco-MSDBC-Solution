@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Description>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
+WGv27OJZZZFSX5VUF7/rBcz52YaPcP/6fw==
+</Description>
+  <Author>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
+</Author>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <Height>2in</Height>
+      </Body>
+      <Width>6.5in</Width>
+      <Page></Page>
+    </ReportSection>
+  </ReportSections>
+  <ReportParameters>
+    <ReportParameter Name="CourseTitle_HRTrainingApplicationsCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>CourseTitle_HRTrainingApplicationsCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>CourseTitle_HRTrainingApplicationsCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="FromDate_HRTrainingApplicationsCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>FromDate_HRTrainingApplicationsCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>FromDate_HRTrainingApplicationsCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="ToDate_HRTrainingApplicationsCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>ToDate_HRTrainingApplicationsCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>ToDate_HRTrainingApplicationsCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="DurationUnits_HRTrainingApplicationsCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>DurationUnits_HRTrainingApplicationsCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>DurationUnits_HRTrainingApplicationsCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Duration_HRTrainingApplicationsCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Duration_HRTrainingApplicationsCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Duration_HRTrainingApplicationsCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="CostOfTraining_HRTrainingApplicationsCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>CostOfTraining_HRTrainingApplicationsCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>CostOfTraining_HRTrainingApplicationsCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Location_HRTrainingApplicationsCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Location_HRTrainingApplicationsCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Location_HRTrainingApplicationsCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="ApplicationNo_HRTrainingApplicationsCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>ApplicationNo_HRTrainingApplicationsCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>ApplicationNo_HRTrainingApplicationsCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="EmployeeNo_HRTrainingApplicationsCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>EmployeeNo_HRTrainingApplicationsCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>EmployeeNo_HRTrainingApplicationsCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="EmployeeName_HRTrainingApplicationsCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>EmployeeName_HRTrainingApplicationsCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>EmployeeName_HRTrainingApplicationsCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="ApplicationDate_HRTrainingApplicationsCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>ApplicationDate_HRTrainingApplicationsCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>ApplicationDate_HRTrainingApplicationsCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="EmployeeDepartment_HRTrainingApplicationsCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>EmployeeDepartment_HRTrainingApplicationsCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>EmployeeDepartment_HRTrainingApplicationsCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="CI_NameCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>CI_NameCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>CI_NameCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="CI_AddressCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>CI_AddressCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>CI_AddressCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="CI_Address2Caption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>CI_Address2Caption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>CI_Address2Caption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="CI_PhoneNoCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>CI_PhoneNoCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>CI_PhoneNoCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="CI_PictureCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>CI_PictureCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>CI_PictureCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="CI_CityCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>CI_CityCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>CI_CityCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="UserID_ApprovalCommentLineCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>UserID_ApprovalCommentLineCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>UserID_ApprovalCommentLineCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Comment_ApprovalCommentLineCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Comment_ApprovalCommentLineCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Comment_ApprovalCommentLineCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="SenderID_ApprovalEntryCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>SenderID_ApprovalEntryCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>SenderID_ApprovalEntryCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="ApproverID_ApprovalEntryCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>ApproverID_ApprovalEntryCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>ApproverID_ApprovalEntryCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="DateTimeSentforApproval_ApprovalEntryCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>DateTimeSentforApproval_ApprovalEntryCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>DateTimeSentforApproval_ApprovalEntryCaption</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="ReportForNavId_6373">
+          <DataField>ReportForNavId_6373</DataField>
+        </Field>
+        <Field Name="CourseTitle_HRTrainingApplications">
+          <DataField>CourseTitle_HRTrainingApplications</DataField>
+        </Field>
+        <Field Name="FromDate_HRTrainingApplications">
+          <DataField>FromDate_HRTrainingApplications</DataField>
+        </Field>
+        <Field Name="ToDate_HRTrainingApplications">
+          <DataField>ToDate_HRTrainingApplications</DataField>
+        </Field>
+        <Field Name="DurationUnits_HRTrainingApplications">
+          <DataField>DurationUnits_HRTrainingApplications</DataField>
+        </Field>
+        <Field Name="Duration_HRTrainingApplications">
+          <DataField>Duration_HRTrainingApplications</DataField>
+        </Field>
+        <Field Name="Duration_HRTrainingApplicationsFormat">
+          <DataField>Duration_HRTrainingApplicationsFormat</DataField>
+        </Field>
+        <Field Name="CostOfTraining_HRTrainingApplications">
+          <DataField>CostOfTraining_HRTrainingApplications</DataField>
+        </Field>
+        <Field Name="CostOfTraining_HRTrainingApplicationsFormat">
+          <DataField>CostOfTraining_HRTrainingApplicationsFormat</DataField>
+        </Field>
+        <Field Name="Location_HRTrainingApplications">
+          <DataField>Location_HRTrainingApplications</DataField>
+        </Field>
+        <Field Name="ApplicationNo_HRTrainingApplications">
+          <DataField>ApplicationNo_HRTrainingApplications</DataField>
+        </Field>
+        <Field Name="EmployeeNo_HRTrainingApplications">
+          <DataField>EmployeeNo_HRTrainingApplications</DataField>
+        </Field>
+        <Field Name="EmployeeName_HRTrainingApplications">
+          <DataField>EmployeeName_HRTrainingApplications</DataField>
+        </Field>
+        <Field Name="ApplicationDate_HRTrainingApplications">
+          <DataField>ApplicationDate_HRTrainingApplications</DataField>
+        </Field>
+        <Field Name="EmployeeDepartment_HRTrainingApplications">
+          <DataField>EmployeeDepartment_HRTrainingApplications</DataField>
+        </Field>
+        <Field Name="Description_HRTrainingApplications">
+          <DataField>Description_HRTrainingApplications</DataField>
+        </Field>
+        <Field Name="NoofParticipants">
+          <DataField>NoofParticipants</DataField>
+        </Field>
+        <Field Name="PurposeofTraining_HRTrainingApplications">
+          <DataField>PurposeofTraining_HRTrainingApplications</DataField>
+        </Field>
+        <Field Name="CI_Name">
+          <DataField>CI_Name</DataField>
+        </Field>
+        <Field Name="CI_Address">
+          <DataField>CI_Address</DataField>
+        </Field>
+        <Field Name="CI_Address2">
+          <DataField>CI_Address2</DataField>
+        </Field>
+        <Field Name="CI_PhoneNo">
+          <DataField>CI_PhoneNo</DataField>
+        </Field>
+        <Field Name="CI_Picture">
+          <DataField>CI_Picture</DataField>
+        </Field>
+        <Field Name="CI_City">
+          <DataField>CI_City</DataField>
+        </Field>
+        <Field Name="ReportForNavId_1">
+          <DataField>ReportForNavId_1</DataField>
+        </Field>
+        <Field Name="EmpNo">
+          <DataField>EmpNo</DataField>
+        </Field>
+        <Field Name="EName">
+          <DataField>EName</DataField>
+        </Field>
+        <Field Name="EAdd">
+          <DataField>EAdd</DataField>
+        </Field>
+        <Field Name="PNo">
+          <DataField>PNo</DataField>
+        </Field>
+        <Field Name="JTittle">
+          <DataField>JTittle</DataField>
+        </Field>
+        <Field Name="ReportForNavId_8731">
+          <DataField>ReportForNavId_8731</DataField>
+        </Field>
+        <Field Name="UserID_ApprovalCommentLine">
+          <DataField>UserID_ApprovalCommentLine</DataField>
+        </Field>
+        <Field Name="Comment_ApprovalCommentLine">
+          <DataField>Comment_ApprovalCommentLine</DataField>
+        </Field>
+        <Field Name="ReportForNavId_1171">
+          <DataField>ReportForNavId_1171</DataField>
+        </Field>
+        <Field Name="SenderID_ApprovalEntry">
+          <DataField>SenderID_ApprovalEntry</DataField>
+        </Field>
+        <Field Name="ApproverID_ApprovalEntry">
+          <DataField>ApproverID_ApprovalEntry</DataField>
+        </Field>
+        <Field Name="DateTimeSentforApproval_ApprovalEntry">
+          <DataField>DateTimeSentforApproval_ApprovalEntry</DataField>
+        </Field>
+        <Field Name="ReportForNavId_7968">
+          <DataField>ReportForNavId_7968</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>
